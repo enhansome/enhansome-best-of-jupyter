@@ -14,7 +14,7 @@
             "last_commit": "2026-08-06T14:49:04Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23715
+            "stars": 23713
           }
         },
         {
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:17.907Z",
+    "last_updated": "2026-08-13T11:25:37.039Z",
     "original_repository": "ml-tooling/best-of-jupyter",
     "original_repository_sha": "f655bd63f950a96f694e653de0a484958b94f19f",
     "enhanced_repository": "enhansome/enhansome-best-of-jupyter",

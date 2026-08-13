@@ -75,7 +75,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 <details><summary><b><a href="https://github.com/jupyter/notebook">Jupyter</a></b> (🥇36 ·  ⭐ 14K) - Jupyter Interactive Notebook. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyter/notebook) ⭐ 13,298 | 🐛 1,907 | 🌐 Jupyter Notebook | 📅 2026-08-11 (👨‍💻 670 · 🔀 5.7K · 📦 380K):
+* [GitHub](https://github.com/jupyter/notebook) ⭐ 13,297 | 🐛 1,907 | 🌐 Jupyter Notebook | 📅 2026-08-11 (👨‍💻 670 · 🔀 5.7K · 📦 380K):
 
   ```
   git clone https://github.com/jupyter/notebook
@@ -96,7 +96,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/jupyterlab/jupyterlab">JupyterLab</a></b> (🥇34 ·  ⭐ 15K · 📈) - JupyterLab computational environment. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyterlab/jupyterlab) ⭐ 15,252 | 🐛 2,577 | 🌐 TypeScript | 📅 2026-08-12 (👨‍💻 720 · 🔀 4K · 📦 22K):
+* [GitHub](https://github.com/jupyterlab/jupyterlab) ⭐ 15,253 | 🐛 2,578 | 🌐 TypeScript | 📅 2026-08-13 (👨‍💻 720 · 🔀 4K · 📦 22K):
 
   ```
   git clone https://github.com/jupyterlab/jupyterlab
@@ -151,7 +151,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/nteract/nteract">nteract</a></b> (🥈21 ·  ⭐ 6.3K · 🐣) - Were back! Now firing notebooks out of a t-shirt gun. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/nteract/nteract) ⭐ 159 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-13 (👨‍💻 49 · 🔀 550):
+* [GitHub](https://github.com/nteract/nteract) ⭐ 159 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-13 (👨‍💻 49 · 🔀 550):
 
   ```
   git clone https://github.com/nteract/nteract
@@ -320,7 +320,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/nteract/papermill">papermill</a></b> (🥇29 ·  ⭐ 6.4K) - Parameterize, execute, and analyze notebooks. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/nteract/papermill) ⭐ 6,467 | 🐛 194 | 🌐 Python | 📅 2026-07-06 (👨‍💻 130 · 🔀 450 · 📦 8.3K):
+* [GitHub](https://github.com/nteract/papermill) ⭐ 6,468 | 🐛 194 | 🌐 Python | 📅 2026-07-06 (👨‍💻 130 · 🔀 450 · 📦 8.3K):
 
   ```
   git clone https://github.com/nteract/papermill
@@ -337,7 +337,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/evidentlyai/evidently">evidently</a></b> (🥇27 ·  ⭐ 7.3K) - Evidently is an open-source ML and LLM observability framework... <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/evidentlyai/evidently) ⭐ 7,800 | 🐛 297 | 🌐 Jupyter Notebook | 📅 2026-08-05 (👨‍💻 97 · 🔀 810 · 📦 7K):
+* [GitHub](https://github.com/evidentlyai/evidently) ⭐ 7,801 | 🐛 297 | 🌐 Jupyter Notebook | 📅 2026-08-05 (👨‍💻 97 · 🔀 810 · 📦 7K):
 
   ```
   git clone https://github.com/evidentlyai/evidently
@@ -518,7 +518,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/InsightSoftwareConsortium/itkwidgets">itkwidgets</a></b> (🥈20 ·  ⭐ 620) - An elegant Python interface for visualization on the web platform.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/InsightSoftwareConsortium/itkwidgets) ⭐ 622 | 🐛 128 | 🌐 Python | 📅 2026-03-10 (👨‍💻 27 · 🔀 84 · 📦 400):
+* [GitHub](https://github.com/InsightSoftwareConsortium/itkwidgets) ⭐ 623 | 🐛 128 | 🌐 Python | 📅 2026-03-10 (👨‍💻 27 · 🔀 84 · 📦 400):
 
   ```
   git clone https://github.com/InsightSoftwareConsortium/itkwidgets
@@ -947,7 +947,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 <details><summary><b><a href="https://github.com/ipython/ipykernel">IPython Kernel</a></b> (🥇33 ·  ⭐ 730) - IPython Kernel for Jupyter. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/ipython/ipykernel) ⭐ 736 | 🐛 307 | 🌐 Python | 📅 2026-08-12 (👨‍💻 200 · 🔀 400 · 📦 550K):
+* [GitHub](https://github.com/ipython/ipykernel) ⭐ 736 | 🐛 306 | 🌐 Python | 📅 2026-08-13 (👨‍💻 200 · 🔀 400 · 📦 550K):
 
   ```
   git clone https://github.com/ipython/ipykernel
@@ -998,7 +998,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/lfortran/lfortran">LFortran</a></b> (🥈19 ·  ⭐ 1.1K · 📉) - Official main repository for LFortran. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/lfortran/lfortran) ⭐ 1,227 | 🐛 2,352 | 🌐 C++ | 📅 2026-08-12 (👨‍💻 160 · 🔀 210):
+* [GitHub](https://github.com/lfortran/lfortran) ⭐ 1,227 | 🐛 2,356 | 🌐 C++ | 📅 2026-08-12 (👨‍💻 160 · 🔀 210):
 
   ```
   git clone https://github.com/lfortran/lfortran
@@ -1071,7 +1071,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/evcxr/evcxr">Evcxr</a></b> (🥉15 ·  ⭐ 6.1K · 💤) - An evaluation context for Rust, including a Jupyter Kernel. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/evcxr/evcxr) ⭐ 6,468 | 🐛 124 | 🌐 Rust | 📅 2026-08-11 (👨‍💻 56 · 🔀 230 · 📦 180):
+* [GitHub](https://github.com/evcxr/evcxr) ⭐ 6,467 | 🐛 124 | 🌐 Rust | 📅 2026-08-11 (👨‍💻 56 · 🔀 230 · 📦 180):
 
   ```
   git clone https://github.com/evcxr/evcxr
@@ -2280,7 +2280,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 ## Related Resources
 
-* [**best-of-ml-python**](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,715 | 🐛 52 | 📅 2026-08-06: A ranked list of awesome machine learning python libraries.
+* [**best-of-ml-python**](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,713 | 🐛 52 | 📅 2026-08-06: A ranked list of awesome machine learning python libraries.
 * [**awesome-jupyter**](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,659 | 🐛 16 | 📅 2026-08-13: A curated list of awesome Jupyter projects, libraries and resources.
 * [**awesome-jupyterlab**](https://github.com/mauhai/awesome-jupyterlab) ⚠️ Archived: A curated list of awesome JupyterLab extensions and resources.
 * [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
