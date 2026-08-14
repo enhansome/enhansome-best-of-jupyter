@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-06T14:49:04Z",
+            "last_commit": "2026-08-13T14:29:39Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23713
+            "stars": 23714
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T00:08:17Z",
+            "last_commit": "2026-08-14T00:08:10Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4659
+            "stars": 4660
           }
         },
         {
@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-30T16:31:44Z",
+            "last_commit": "2026-08-13T16:12:00Z",
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
             "stars": 1225
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-30T16:31:44Z",
+            "last_commit": "2026-08-13T16:12:00Z",
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
             "stars": 1225
@@ -89,9 +89,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:25:37.039Z",
+    "last_updated": "2026-08-14T11:24:12.784Z",
     "original_repository": "ml-tooling/best-of-jupyter",
-    "original_repository_sha": "f655bd63f950a96f694e653de0a484958b94f19f",
+    "original_repository_sha": "eec8110d419e3bf12dc803db67201b3bee5877a0",
     "enhanced_repository": "enhansome/enhansome-best-of-jupyter",
     "enhanced_repository_description": null,
     "title": "Awesome best of jupyter with stars"
