@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317029148,
             "language": null,
             "last_commit": "2026-08-13T14:29:39Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23715
+            "stars": 23722
           }
         },
         {
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-16T23:59:06Z",
+            "last_commit": "2026-08-19T00:00:12Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4662
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 118519193,
             "language": null,
             "last_commit": "2022-11-03T09:15:54Z",
             "owner": "mauhai",
@@ -49,7 +52,7 @@
       "title": "Related Resources"
     },
     {
-      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:",
+      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:\nIf you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the best-of-generator repository. If you like to create your own best-of list, we recommend to follow this guide.\nFor more information on how to add or update projects, please read the contribution guidelines. By participating in this project, you agree to abide by its Code of Conduct.",
       "items": [
         {
           "node_type": "item",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326066116,
             "language": null,
             "last_commit": "2026-08-13T16:12:00Z",
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1225
+            "stars": 1226
           }
         },
         {
@@ -72,24 +76,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326066116,
             "language": null,
             "last_commit": "2026-08-13T16:12:00Z",
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1225
+            "stars": 1226
           }
         }
       ],
       "title": "Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:59:52.222Z",
+    "last_updated": "2026-08-19T10:59:12.085Z",
     "original_repository": "ml-tooling/best-of-jupyter",
     "original_repository_sha": "eec8110d419e3bf12dc803db67201b3bee5877a0",
     "enhanced_repository": "enhansome/enhansome-best-of-jupyter",
