@@ -89,8 +89,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:59:12.085Z",
+    "last_updated": "2026-08-19T12:20:41.254Z",
     "original_repository": "ml-tooling/best-of-jupyter",
+    "original_repository_id": 326066116,
     "original_repository_sha": "eec8110d419e3bf12dc803db67201b3bee5877a0",
     "enhanced_repository": "enhansome/enhansome-best-of-jupyter",
     "enhanced_repository_description": null,
