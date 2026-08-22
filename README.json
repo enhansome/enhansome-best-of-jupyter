@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23726
+            "stars": 23728
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-21T00:00:30Z",
+            "last_commit": "2026-08-22T00:00:40Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:01:29.044Z",
+    "last_updated": "2026-08-22T10:56:18.320Z",
     "original_repository": "ml-tooling/best-of-jupyter",
     "original_repository_id": 326066116,
     "original_repository_sha": "6623afb21dd26d56d75b94c0f356650f941c7d85",
