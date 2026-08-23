@@ -27,10 +27,10 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-22T00:00:40Z",
+            "last_commit": "2026-08-22T23:59:36Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4663
+            "stars": 4662
           }
         },
         {
@@ -89,7 +89,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:56:18.320Z",
+    "last_updated": "2026-08-23T10:55:59.152Z",
     "original_repository": "ml-tooling/best-of-jupyter",
     "original_repository_id": 326066116,
     "original_repository_sha": "6623afb21dd26d56d75b94c0f356650f941c7d85",
