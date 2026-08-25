@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/notebook",
           "description": "(👨‍💻 670 · 🔀 5.7K · 📦 380K):",
           "children": [],
           "repo_info": {
@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T07:26:18Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13319
+            "stars": 13321
           }
         }
       ],
@@ -26,7 +26,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab",
           "description": "(👨‍💻 730 · 🔀 4.1K · 📦 22K):",
           "children": [],
           "repo_info": {
@@ -47,14 +47,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/jupyterhub",
           "description": "(👨‍💻 400 · 🔀 2.1K · 📦 3.7K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 20785986,
             "language": "Python",
-            "last_commit": "2026-08-20T20:52:44Z",
+            "last_commit": "2026-08-24T21:48:18Z",
             "owner": "jupyterhub",
             "repo": "jupyterhub",
             "stars": 8329
@@ -68,7 +68,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/docker-stacks",
           "description": "(👨‍💻 260 · 🔀 3K · 📦 24):",
           "children": [],
           "repo_info": {
@@ -89,7 +89,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/nteract",
           "description": "(👨‍💻 56 · 🔀 550):",
           "children": [],
           "repo_info": {
@@ -99,7 +99,7 @@
             "last_commit": "2026-08-24T09:48:40Z",
             "owner": "nteract",
             "repo": "nteract",
-            "stars": 160
+            "stars": 162
           }
         }
       ],
@@ -110,7 +110,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/vscode-jupyter",
           "description": "(👨‍💻 290 · 🔀 350 · 📦 3):",
           "children": [],
           "repo_info": {
@@ -131,7 +131,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vatlab/sos",
           "description": "(👨‍💻 35 · 🔀 45):",
           "children": [],
           "repo_info": {
@@ -152,7 +152,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Kaggle/docker-python",
           "description": "(👨‍💻 170 · 🔀 1K):",
           "children": [],
           "repo_info": {
@@ -173,7 +173,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/hydrogen",
           "description": "(👨‍💻 90 · 🔀 340):",
           "children": [],
           "repo_info": {
@@ -261,7 +261,7 @@
             "archived": false,
             "id": 388825967,
             "language": "Python",
-            "last_commit": "2026-08-24T14:09:33Z",
+            "last_commit": "2026-08-24T19:37:27Z",
             "owner": "jupyter-server",
             "repo": "jupyverse",
             "stars": 298
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23731
+            "stars": 23730
           }
         }
       ],
@@ -326,14 +326,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bokeh/bokeh",
           "description": "(👨‍💻 740 · 🔀 4.3K · 📦 110K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 3834332,
             "language": "Python",
-            "last_commit": "2026-08-24T09:00:46Z",
+            "last_commit": "2026-08-25T05:32:10Z",
             "owner": "bokeh",
             "repo": "bokeh",
             "stars": 20433
@@ -347,14 +347,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "holoviz/panel",
           "description": "(👨‍💻 260 · 🔀 620 · 📦 19K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 145848899,
             "language": "Python",
-            "last_commit": "2026-08-24T11:24:10Z",
+            "last_commit": "2026-08-24T14:39:47Z",
             "owner": "holoviz",
             "repo": "panel",
             "stars": 5740
@@ -368,7 +368,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-widgets/ipywidgets",
           "description": "(👨‍💻 230 · 🔀 970 · 📦 3):",
           "children": [],
           "repo_info": {
@@ -389,7 +389,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "evidentlyai/evidently",
           "description": "(👨‍💻 97 · 🔀 810 · 📦 7K):",
           "children": [],
           "repo_info": {
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7840
+            "stars": 7844
           }
         }
       ],
@@ -410,7 +410,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/papermill",
           "description": "(👨‍💻 130 · 🔀 450 · 📦 8.4K):",
           "children": [],
           "repo_info": {
@@ -431,7 +431,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "matplotlib/ipympl",
           "description": "(👨‍💻 38 · 🔀 230 · 📦 16K):",
           "children": [],
           "repo_info": {
@@ -452,7 +452,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bqplot/bqplot",
           "description": "(👨‍💻 71 · 🔀 480 · 📦 65):",
           "children": [],
           "repo_info": {
@@ -473,7 +473,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mwouts/itables",
           "description": "(👨‍💻 24 · 🔀 61 · 📦 1.6K):",
           "children": [],
           "repo_info": {
@@ -494,7 +494,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "timkpaine/ipydagred3",
           "description": "(👨‍💻 4 · 🔀 970 · 📦 3):",
           "children": [],
           "repo_info": {
@@ -515,7 +515,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nglviewer/nglview",
           "description": "(👨‍💻 40 · 🔀 140):",
           "children": [],
           "repo_info": {
@@ -536,7 +536,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "InsightSoftwareConsortium/itkwidgets",
           "description": "(👨‍💻 27 · 🔀 84 · 📦 400):",
           "children": [],
           "repo_info": {
@@ -557,14 +557,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "spacetelescope/jdaviz",
           "description": "(👨‍💻 45 · 🔀 91 · 📦 75):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 185452341,
             "language": "Python",
-            "last_commit": "2026-08-24T13:44:17Z",
+            "last_commit": "2026-08-24T16:59:55Z",
             "owner": "spacetelescope",
             "repo": "jdaviz",
             "stars": 177
@@ -578,7 +578,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nicolaskruchten/jupyter_pivottablejs",
           "description": "(👨‍💻 3 · 🔀 88 · 📦 550):",
           "children": [],
           "repo_info": {
@@ -599,7 +599,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vega/ipyvega",
           "description": "(👨‍💻 15 · 🔀 67 · 📦 4):",
           "children": [],
           "repo_info": {
@@ -630,7 +630,7 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13685
+            "stars": 13683
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2024-01-12T07:28:07Z",
             "owner": "quantopian",
             "repo": "qgrid",
-            "stars": 3084
+            "stars": 3083
           }
         },
         {
@@ -1136,7 +1136,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/jupyter-server-proxy",
           "description": "(👨‍💻 82 · 🔀 150 · 📦 5):",
           "children": [],
           "repo_info": {
@@ -1157,7 +1157,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-server/jupyter-resource-usage",
           "description": "(👨‍💻 38 · 🔀 110 · 📦 1K):",
           "children": [],
           "repo_info": {
@@ -1178,7 +1178,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/nbgitpuller",
           "description": "(👨‍💻 36 · 🔀 84 · 📦 1K):",
           "children": [],
           "repo_info": {
@@ -1199,7 +1199,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "oschuett/appmode",
           "description": "(👨‍💻 11 · 🔀 70 · 📦 390):",
           "children": [],
           "repo_info": {
@@ -1220,7 +1220,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab-contrib/jupyter-archive",
           "description": "(👨‍💻 12 · 🔀 17 · 📦 390):",
           "children": [],
           "repo_info": {
@@ -1241,7 +1241,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/jupyter-rsession-proxy",
           "description": "(👨‍💻 32 · 🔀 85 · 📦 67):",
           "children": [],
           "repo_info": {
@@ -1262,7 +1262,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mamba-org/gator",
           "description": "(👨‍💻 32 · 🔀 37 · 📦 5):",
           "children": [],
           "repo_info": {
@@ -1283,7 +1283,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "krishnan-r/sparkmonitor",
           "description": "(👨‍💻 3 · 🔀 51):",
           "children": [],
           "repo_info": {
@@ -1304,7 +1304,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "drillan/jupyter-black",
           "description": "(👨‍💻 2 · 🔀 24):",
           "children": [],
           "repo_info": {
@@ -1395,7 +1395,7 @@
             "last_commit": "2024-06-05T16:43:47Z",
             "owner": "Jupyter-contrib",
             "repo": "jupyter_nbextensions_configurator",
-            "stars": 980
+            "stars": 979
           }
         },
         {
@@ -1541,7 +1541,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-incubator/sparkmagic",
           "description": "(👨‍💻 73 · 🔀 440 · 📦 400):",
           "children": [],
           "repo_info": {
@@ -1562,7 +1562,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rasbt/watermark",
           "description": "(👨‍💻 23 · 🔀 91 · 📦 2.9K):",
           "children": [],
           "repo_info": {
@@ -1583,7 +1583,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/pick",
           "description": "(👨‍💻 5 · 🔀 63):",
           "children": [],
           "repo_info": {
@@ -1730,14 +1730,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ipython/ipykernel",
           "description": "(👨‍💻 200 · 🔀 400 · 📦 550K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 33655535,
             "language": "Python",
-            "last_commit": "2026-08-20T22:03:36Z",
+            "last_commit": "2026-08-24T19:14:05Z",
             "owner": "ipython",
             "repo": "ipykernel",
             "stars": 734
@@ -1751,14 +1751,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Calysto/metakernel",
           "description": "(👨‍💻 38 · 🔀 92 · 📦 1.1K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 23292534,
             "language": "Python",
-            "last_commit": "2026-08-24T13:22:51Z",
+            "last_commit": "2026-08-24T16:17:18Z",
             "owner": "Calysto",
             "repo": "metakernel",
             "stars": 370
@@ -1772,7 +1772,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Calysto/octave_kernel",
           "description": "(👨‍💻 28 · 🔀 65 · 📦 120):",
           "children": [],
           "repo_info": {
@@ -1793,14 +1793,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lfortran/lfortran",
           "description": "(👨‍💻 160 · 🔀 210):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 177417757,
             "language": "C++",
-            "last_commit": "2026-08-24T01:47:51Z",
+            "last_commit": "2026-08-24T22:16:49Z",
             "owner": "lfortran",
             "repo": "lfortran",
             "stars": 1226
@@ -1814,7 +1814,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-xeus/xeus-python",
           "description": "(👨‍💻 27 · 🔀 79):",
           "children": [],
           "repo_info": {
@@ -1835,7 +1835,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "almond-sh/almond",
           "description": "(👨‍💻 44 · 🔀 250):",
           "children": [],
           "repo_info": {
@@ -1856,7 +1856,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "evcxr/evcxr",
           "description": "(👨‍💻 56 · 🔀 240 · 📦 180):",
           "children": [],
           "repo_info": {
@@ -1877,7 +1877,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-xeus/xeus-cling",
           "description": "(👨‍💻 27 · 🔀 320):",
           "children": [],
           "repo_info": {
@@ -1898,7 +1898,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "SciRuby/iruby",
           "description": "(👨‍💻 55 · 🔀 34 · 📦 890):",
           "children": [],
           "repo_info": {
@@ -1919,7 +1919,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Calysto/matlab_kernel",
           "description": "(👨‍💻 18 · 🔀 75):",
           "children": [],
           "repo_info": {
@@ -1940,7 +1940,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dotnet/interactive",
           "description": "(👨‍💻 150 · 🔀 460):",
           "children": [],
           "repo_info": {
@@ -1961,7 +1961,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "JuliaLang/IJulia.jl",
           "description": "(👨‍💻 120 · 🔀 430):",
           "children": [],
           "repo_info": {
@@ -1982,7 +1982,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-xeus/xeus-sqlite",
           "description": "(👨‍💻 17 · 🔀 27):",
           "children": [],
           "repo_info": {
@@ -2003,7 +2003,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hugetim/nbstata",
           "description": "(👨‍💻 2 · 🔀 7 · 📦 7):",
           "children": [],
           "repo_info": {
@@ -2031,10 +2031,10 @@
             "archived": false,
             "id": 29620400,
             "language": "Python",
-            "last_commit": "2026-08-23T15:43:08Z",
+            "last_commit": "2026-08-24T17:53:02Z",
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9616
+            "stars": 9619
           }
         },
         {
@@ -2274,7 +2274,7 @@
             "last_commit": "2026-03-12T18:11:12Z",
             "owner": "akabe",
             "repo": "ocaml-jupyter",
-            "stars": 317
+            "stars": 318
           }
         },
         {
@@ -2465,7 +2465,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbconvert",
           "description": "(👨‍💻 290 · 🔀 610 · 📦 380K):",
           "children": [],
           "repo_info": {
@@ -2486,7 +2486,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "voila-dashboards/voila",
           "description": "(👨‍💻 76 · 🔀 530 · 📦 13K):",
           "children": [],
           "repo_info": {
@@ -2507,7 +2507,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbdime",
           "description": "(👨‍💻 57 · 🔀 180 · 📦 13K):",
           "children": [],
           "repo_info": {
@@ -2528,7 +2528,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "danielfrg/mkdocs-jupyter",
           "description": "(👨‍💻 39 · 🔀 65 · 📦 5.4K):",
           "children": [],
           "repo_info": {
@@ -2549,7 +2549,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "damianavila/RISE",
           "description": "(👨‍💻 44 · 🔀 420 · 📦 3.1K):",
           "children": [],
           "repo_info": {
@@ -2570,7 +2570,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "getnikola/nikola",
           "description": "(👨‍💻 250 · 🔀 470 · 📦 550):",
           "children": [],
           "repo_info": {
@@ -2591,7 +2591,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbviewer",
           "description": "(👨‍💻 99 · 🔀 560 · 📦 28):",
           "children": [],
           "repo_info": {
@@ -2612,14 +2612,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stencila/stencila",
           "description": "(👨‍💻 52 · 🔀 58 · 📦 20):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 4503128,
             "language": "Rust",
-            "last_commit": "2026-08-21T23:05:23Z",
+            "last_commit": "2026-08-24T19:05:46Z",
             "owner": "stencila",
             "repo": "stencila",
             "stars": 901
@@ -2633,7 +2633,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/binderhub",
           "description": "(👨‍💻 100 · 🔀 400 · 📦 12):",
           "children": [],
           "repo_info": {
@@ -2654,7 +2654,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/commuter",
           "description": "(👨‍💻 29 · 🔀 66 · 📦 2):",
           "children": [],
           "repo_info": {
@@ -2675,7 +2675,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nbgallery/nbgallery",
           "description": "(👨‍💻 29 · 🔀 36):",
           "children": [],
           "repo_info": {
@@ -2852,17 +2852,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbformat",
           "description": "(👨‍💻 85 · 🔀 170 · 📦 390K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 33640907,
             "language": "Python",
-            "last_commit": "2026-08-24T11:23:33Z",
+            "last_commit": "2026-08-24T16:04:04Z",
             "owner": "jupyter",
             "repo": "nbformat",
-            "stars": 310
+            "stars": 311
           }
         }
       ],
@@ -2873,7 +2873,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbclient",
           "description": "(👨‍💻 47 · 🔀 66 · 📦 250K):",
           "children": [],
           "repo_info": {
@@ -2894,17 +2894,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/jupyter_client",
           "description": "(👨‍💻 140 · 🔀 310):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 33653575,
             "language": "Python",
-            "last_commit": "2026-06-12T10:12:29Z",
+            "last_commit": "2026-08-24T19:13:40Z",
             "owner": "jupyter",
             "repo": "jupyter_client",
-            "stars": 472
+            "stars": 473
           }
         }
       ],
@@ -2915,14 +2915,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nbQA-dev/nbQA",
           "description": "(👨‍💻 36 · 🔀 48):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 278889378,
             "language": "Python",
-            "last_commit": "2026-08-22T15:43:35Z",
+            "last_commit": "2026-08-24T18:31:20Z",
             "owner": "nbQA-dev",
             "repo": "nbQA",
             "stars": 1203
@@ -2936,7 +2936,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/repo2docker",
           "description": "(👨‍💻 140 · 🔀 380):",
           "children": [],
           "repo_info": {
@@ -2957,7 +2957,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mljar/mercury",
           "description": "(👨‍💻 22 · 🔀 290 · 📦 180):",
           "children": [],
           "repo_info": {
@@ -2967,7 +2967,7 @@
             "last_commit": "2026-08-21T14:55:49Z",
             "owner": "mljar",
             "repo": "mercury",
-            "stars": 4347
+            "stars": 4348
           }
         }
       ],
@@ -2978,7 +2978,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "QuantEcon/sphinxcontrib-jupyter",
           "description": "(👨‍💻 14 · 🔀 23):",
           "children": [],
           "repo_info": {
@@ -3245,7 +3245,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyter-renderers",
           "description": "(👨‍💻 32 · 🔀 81 · 📦 40):",
           "children": [],
           "repo_info": {
@@ -3266,7 +3266,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-latex",
           "description": "(👨‍💻 28 · 🔀 78 · 📦 8):",
           "children": [],
           "repo_info": {
@@ -3368,7 +3368,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "oriolmirosa/jupyterlab_materialdarker",
           "description": "(👨‍💻 2 · 🔀 17):",
           "children": [],
           "repo_info": {
@@ -3515,7 +3515,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-git",
           "description": "(👨‍💻 110 · 🔀 410 · 📦 3.4K):",
           "children": [],
           "repo_info": {
@@ -3536,7 +3536,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-lsp/jupyterlab-lsp",
           "description": "(👨‍💻 59 · 🔀 160 · 📦 2.8K):",
           "children": [],
           "repo_info": {
@@ -3557,7 +3557,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/debugger",
           "description": "(👨‍💻 11 · 🔀 4.1K):",
           "children": [],
           "repo_info": {
@@ -3578,7 +3578,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-toc",
           "description": "(👨‍💻 14 · 🔀 4.1K):",
           "children": [],
           "repo_info": {
@@ -3599,7 +3599,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bokeh/jupyter_bokeh",
           "description": "(👨‍💻 22 · 🔀 58 · 📦 6):",
           "children": [],
           "repo_info": {
@@ -3620,7 +3620,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "elyra-ai/elyra",
           "description": "(👨‍💻 76 · 🔀 360 · 📦 75):",
           "children": [],
           "repo_info": {
@@ -3641,7 +3641,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab-contrib/spellchecker",
           "description": "(👨‍💻 7 · 🔀 22 · 📦 330):",
           "children": [],
           "repo_info": {
@@ -3662,7 +3662,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rapidsai/jupyterlab-nvdashboard",
           "description": "(👨‍💻 27 · 🔀 86 · 📦 3):",
           "children": [],
           "repo_info": {
@@ -3683,7 +3683,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deshaw/jupyterlab-execute-time",
           "description": "(👨‍💻 23 · 🔀 50 · 📦 3):",
           "children": [],
           "repo_info": {
@@ -3704,7 +3704,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-widgets/jupyterlab-sidecar",
           "description": "(👨‍💻 19 · 🔀 39 · 📦 7):",
           "children": [],
           "repo_info": {
@@ -3725,7 +3725,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jpmorganchase/jupyter-fs",
           "description": "(👨‍💻 22 · 🔀 48 · 📦 16):",
           "children": [],
           "repo_info": {
@@ -3746,7 +3746,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab-contrib/jupyterlab-kernelspy",
           "description": "(👨‍💻 6 · 🔀 12 · 📦 7):",
           "children": [],
           "repo_info": {
@@ -4313,7 +4313,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/oauthenticator",
           "description": "(👨‍💻 130 · 🔀 370 · 📦 590):",
           "children": [],
           "repo_info": {
@@ -4334,7 +4334,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/ltiauthenticator",
           "description": "(👨‍💻 19 · 🔀 56):",
           "children": [],
           "repo_info": {
@@ -4355,7 +4355,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/firstuseauthenticator",
           "description": "(👨‍💻 15 · 🔀 33):",
           "children": [],
           "repo_info": {
@@ -4562,7 +4562,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/kubespawner",
           "description": "(👨‍💻 95 · 🔀 310):",
           "children": [],
           "repo_info": {
@@ -4572,7 +4572,7 @@
             "last_commit": "2026-08-10T16:36:31Z",
             "owner": "jupyterhub",
             "repo": "kubespawner",
-            "stars": 607
+            "stars": 608
           }
         }
       ],
@@ -4583,7 +4583,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/sudospawner",
           "description": "(👨‍💻 20 · 🔀 42 · 📦 89):",
           "children": [],
           "repo_info": {
@@ -4604,7 +4604,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/systemdspawner",
           "description": "(👨‍💻 22 · 🔀 44):",
           "children": [],
           "repo_info": {
@@ -4691,7 +4691,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ipython/ipython",
           "description": "(👨‍💻 1.1K · 🔀 4.5K · 📦 760K):",
           "children": [],
           "repo_info": {
@@ -4701,7 +4701,7 @@
             "last_commit": "2026-08-24T11:05:48Z",
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16774
+            "stars": 16773
           }
         }
       ],
@@ -4712,7 +4712,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-server/jupyter_server",
           "description": "(👨‍💻 550 · 🔀 410):",
           "children": [],
           "repo_info": {
@@ -4815,7 +4815,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23731
+            "stars": 23730
           }
         },
         {
@@ -4827,7 +4827,7 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-23T23:59:34Z",
+            "last_commit": "2026-08-25T00:00:15Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663
@@ -4845,7 +4845,7 @@
             "last_commit": "2022-11-03T09:15:54Z",
             "owner": "mauhai",
             "repo": "awesome-jupyterlab",
-            "stars": 2622
+            "stars": 2623
           }
         }
       ],
@@ -4889,7 +4889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:08.918Z",
+    "last_updated": "2026-08-25T06:04:45.548Z",
     "original_repository": "ml-tooling/best-of-jupyter",
     "original_repository_id": 326066116,
     "original_repository_sha": "6623afb21dd26d56d75b94c0f356650f941c7d85",
