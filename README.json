@@ -33,7 +33,7 @@
             "archived": false,
             "id": 60374819,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T14:24:00Z",
+            "last_commit": "2026-08-25T10:52:49Z",
             "owner": "jupyterlab",
             "repo": "jupyterlab",
             "stars": 15266
@@ -96,7 +96,7 @@
             "archived": false,
             "id": 1155631492,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:48:40Z",
+            "last_commit": "2026-08-25T09:44:22Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 162
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-20T21:01:49Z",
             "owner": "Kaggle",
             "repo": "docker-python",
-            "stars": 2729
+            "stars": 2730
           }
         }
       ],
@@ -261,7 +261,7 @@
             "archived": false,
             "id": 388825967,
             "language": "Python",
-            "last_commit": "2026-08-24T19:37:27Z",
+            "last_commit": "2026-08-25T06:51:23Z",
             "owner": "jupyter-server",
             "repo": "jupyverse",
             "stars": 298
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23730
+            "stars": 23728
           }
         }
       ],
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-25T05:32:10Z",
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20433
+            "stars": 20434
           }
         }
       ],
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7844
+            "stars": 7845
           }
         }
       ],
@@ -546,7 +546,7 @@
             "last_commit": "2026-03-10T21:02:03Z",
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
-            "stars": 623
+            "stars": 624
           }
         }
       ],
@@ -675,7 +675,7 @@
             "last_commit": "2026-07-24T05:18:50Z",
             "owner": "man-group",
             "repo": "dtale",
-            "stars": 5215
+            "stars": 5214
           }
         },
         {
@@ -1629,7 +1629,7 @@
             "last_commit": "2024-07-14T18:30:54Z",
             "owner": "csurfer",
             "repo": "pyheatmagic",
-            "stars": 1030
+            "stars": 1029
           }
         },
         {
@@ -1779,7 +1779,7 @@
             "archived": false,
             "id": 22452375,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T13:22:08Z",
+            "last_commit": "2026-08-25T10:48:03Z",
             "owner": "Calysto",
             "repo": "octave_kernel",
             "stars": 458
@@ -1971,7 +1971,7 @@
             "last_commit": "2026-06-23T05:55:43Z",
             "owner": "JuliaLang",
             "repo": "IJulia.jl",
-            "stars": 2896
+            "stars": 2897
           }
         }
       ],
@@ -2031,7 +2031,7 @@
             "archived": false,
             "id": 29620400,
             "language": "Python",
-            "last_commit": "2026-08-24T17:53:02Z",
+            "last_commit": "2026-08-25T08:24:46Z",
             "owner": "xonsh",
             "repo": "xonsh",
             "stars": 9619
@@ -2094,7 +2094,7 @@
             "last_commit": "2024-07-03T23:29:02Z",
             "owner": "n-riesco",
             "repo": "ijavascript",
-            "stars": 2258
+            "stars": 2257
           }
         },
         {
@@ -2964,7 +2964,7 @@
             "archived": false,
             "id": 440184597,
             "language": "Python",
-            "last_commit": "2026-08-21T14:55:49Z",
+            "last_commit": "2026-08-25T10:33:13Z",
             "owner": "mljar",
             "repo": "mercury",
             "stars": 4348
@@ -3024,7 +3024,7 @@
             "last_commit": "2023-12-04T02:04:59Z",
             "owner": "twosigma",
             "repo": "beakerx",
-            "stars": 2895
+            "stars": 2894
           }
         },
         {
@@ -4815,7 +4815,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23730
+            "stars": 23728
           }
         },
         {
@@ -4889,7 +4889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:45.548Z",
+    "last_updated": "2026-08-25T11:03:06.469Z",
     "original_repository": "ml-tooling/best-of-jupyter",
     "original_repository_id": 326066116,
     "original_repository_sha": "6623afb21dd26d56d75b94c0f356650f941c7d85",
