@@ -5,6 +5,28 @@
       "items": [
         {
           "node_type": "item",
+          "title": "jupyterlab/jupyterlab",
+          "description": "(👨‍💻 730 · 🔀 4.1K · 📦 22K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60374819,
+            "language": "TypeScript",
+            "last_commit": "2026-08-28T16:59:27Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab",
+            "stars": 15275
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        }
+      ],
+      "title": "JupyterLab (🥇34 · ⭐ 15K) - JupyterLab computational environment. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "jupyter/notebook",
           "description": "(👨‍💻 670 · 🔀 5.7K · 📦 380K):",
           "children": [],
@@ -15,32 +37,12 @@
             "last_commit": "2026-08-24T07:26:18Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13326
-          }
+            "stars": 13327
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Jupyter (🥇36 · ⭐ 14K) - Jupyter Interactive Notebook. BSD-3"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jupyterlab/jupyterlab",
-          "description": "(👨‍💻 730 · 🔀 4.1K · 📦 22K):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 60374819,
-            "language": "TypeScript",
-            "last_commit": "2026-08-26T13:52:47Z",
-            "owner": "jupyterlab",
-            "repo": "jupyterlab",
-            "stars": 15273
-          }
-        }
-      ],
-      "title": "JupyterLab (🥇34 · ⭐ 15K) - JupyterLab computational environment. BSD-3"
+      "title": "Jupyter (🥇33 · ⭐ 14K · 📉) - Jupyter Interactive Notebook. BSD-3"
     },
     {
       "description": null,
@@ -57,8 +59,9 @@
             "last_commit": "2026-08-24T21:48:18Z",
             "owner": "jupyterhub",
             "repo": "jupyterhub",
-            "stars": 8332
-          }
+            "stars": 8333
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "JupyterHub (🥈30 · ⭐ 8.7K) - Multi-user server for Jupyter notebooks. BSD-3"
@@ -78,8 +81,9 @@
             "last_commit": "2026-08-24T11:05:23Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8460
-          }
+            "stars": 8461
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Docker Stacks (🥈23 · ⭐ 8.8K · 💤) - Ready-to-run Docker images containing Jupyter applications. BSD-3"
@@ -90,17 +94,18 @@
         {
           "node_type": "item",
           "title": "nteract/nteract",
-          "description": "(👨‍💻 56 · 🔀 550):",
+          "description": "(👨‍💻 63 · 🔀 550):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1155631492,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:33:00Z",
+            "last_commit": "2026-08-28T13:24:16Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "nteract (🥈21 · ⭐ 6.3K · 🐣) - Were back! Now firing notebooks out of a t-shirt gun. BSD-3"
@@ -120,8 +125,9 @@
             "last_commit": "2026-08-25T12:43:10Z",
             "owner": "microsoft",
             "repo": "vscode-jupyter",
-            "stars": 1530
-          }
+            "stars": 1531
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "VSCode Jupyter (🥈18 · ⭐ 1.4K · 💤) - VS Code Jupyter extension. MIT"
@@ -142,7 +148,8 @@
             "owner": "vatlab",
             "repo": "sos",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "sos (🥈18 · ⭐ 280) - SoS workflow system for daily data analysis. BSD-3"
@@ -163,7 +170,8 @@
             "owner": "Kaggle",
             "repo": "docker-python",
             "stars": 2731
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "docker-python (🥉17 · ⭐ 2.9K) - Kaggle Python docker image. Apache-2"
@@ -184,7 +192,8 @@
             "owner": "nteract",
             "repo": "hydrogen",
             "stars": 4019
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Hydrogen (🥉12 · ⭐ 4.1K) - Run code interactively, inspect data, and plot. All the power of Jupyter.. MIT"
@@ -205,7 +214,8 @@
             "owner": "ml-tooling",
             "repo": "ml-workspace",
             "stars": 3544
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -220,7 +230,8 @@
             "owner": "googledatalab",
             "repo": "datalab",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -235,7 +246,8 @@
             "owner": "iot-salzburg",
             "repo": "gpu-jupyter",
             "stars": 767
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -250,7 +262,8 @@
             "owner": "ml-tooling",
             "repo": "ml-hub",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -265,7 +278,8 @@
             "owner": "jupyter-server",
             "repo": "jupyverse",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -280,7 +294,8 @@
             "owner": "jupyterlab",
             "repo": "retrolab",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -295,7 +310,8 @@
             "owner": "jtpio",
             "repo": "jupyterlite",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 7 hidden projects..."
@@ -316,7 +332,8 @@
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
             "stars": 23733
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Interactive Widgets & Visualization"
@@ -333,11 +350,12 @@
             "archived": false,
             "id": 3834332,
             "language": "Python",
-            "last_commit": "2026-08-27T20:40:56Z",
+            "last_commit": "2026-08-28T17:35:40Z",
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20436
-          }
+            "stars": 20437
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "bokeh (🥇34 · ⭐ 20K) - Interactive Data Visualization in the browser, from Python. BSD-3"
@@ -348,20 +366,21 @@
         {
           "node_type": "item",
           "title": "holoviz/panel",
-          "description": "(👨‍💻 260 · 🔀 620 · 📦 19K):",
+          "description": "(👨‍💻 270 · 🔀 620 · 📦 19K):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 145848899,
             "language": "Python",
-            "last_commit": "2026-08-26T16:25:35Z",
+            "last_commit": "2026-08-28T19:53:04Z",
             "owner": "holoviz",
             "repo": "panel",
-            "stars": 5762
-          }
+            "stars": 5763
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "panel (🥇31 · ⭐ 5.7K) - Panel: The powerful data exploration & web app framework for Python. BSD-3"
+      "title": "panel (🥇31 · ⭐ 5.8K) - Panel: The powerful data exploration & web app framework for Python. BSD-3"
     },
     {
       "description": null,
@@ -379,7 +398,8 @@
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
             "stars": 3326
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "ipywidgets (🥇31 · ⭐ 3.3K) - Interactive Widgets for the Jupyter Notebook. BSD-3"
@@ -390,7 +410,7 @@
         {
           "node_type": "item",
           "title": "evidentlyai/evidently",
-          "description": "(👨‍💻 97 · 🔀 810 · 📦 7K):",
+          "description": "(👨‍💻 97 · 🔀 810 · 📦 7.1K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -399,32 +419,12 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7855
-          }
+            "stars": 7861
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "evidently (🥇27 · ⭐ 7.3K) - Evidently is an open-source ML and LLM observability framework... Apache-2"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nteract/papermill",
-          "description": "(👨‍💻 130 · 🔀 450 · 📦 8.4K):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 96454557,
-            "language": "Python",
-            "last_commit": "2026-07-06T21:18:39Z",
-            "owner": "nteract",
-            "repo": "papermill",
-            "stars": 6476
-          }
-        }
-      ],
-      "title": "papermill (🥇27 · ⭐ 6.4K · 📈) - Parameterize, execute, and analyze notebooks. BSD-3"
     },
     {
       "description": null,
@@ -442,10 +442,11 @@
             "owner": "matplotlib",
             "repo": "ipympl",
             "stars": 1657
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "jupyter-matplotlib (🥈26 · ⭐ 1.6K · 💤) - Matplotlib Jupyter Integration. BSD-3"
+      "title": "jupyter-matplotlib (🥇26 · ⭐ 1.6K · 💤) - Matplotlib Jupyter Integration. BSD-3"
     },
     {
       "description": null,
@@ -463,7 +464,8 @@
             "owner": "bqplot",
             "repo": "bqplot",
             "stars": 3693
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "bqplot (🥈25 · ⭐ 3.7K) - Plotting library for IPython/Jupyter notebooks. Apache-2"
@@ -484,10 +486,33 @@
             "owner": "mwouts",
             "repo": "itables",
             "stars": 972
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "itables (🥈25 · ⭐ 970) - Python DataFrames as Interactive DataTables. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nteract/papermill",
+          "description": "(👨‍💻 130 · 🔀 450 · 📦 8.4K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96454557,
+            "language": "Python",
+            "last_commit": "2026-07-06T21:18:39Z",
+            "owner": "nteract",
+            "repo": "papermill",
+            "stars": 6477
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        }
+      ],
+      "title": "papermill (🥈24 · ⭐ 6.4K · 📉) - Parameterize, execute, and analyze notebooks. BSD-3"
     },
     {
       "description": null,
@@ -505,10 +530,11 @@
             "owner": "timkpaine",
             "repo": "ipydagred3",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "ipydagred3 (🥈24 · ⭐ 3.3K · 📈) - ipywidgets library for drawing directed acyclic graphs in.. Apache-2"
+      "title": "ipydagred3 (🥈24 · ⭐ 3.3K) - ipywidgets library for drawing directed acyclic graphs in.. Apache-2"
     },
     {
       "description": null,
@@ -526,7 +552,8 @@
             "owner": "nglviewer",
             "repo": "nglview",
             "stars": 927
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "nglview (🥈20 · ⭐ 910) - Jupyter widget to interactively view molecular structures and trajectories. MIT"
@@ -547,7 +574,8 @@
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "itkwidgets (🥈20 · ⭐ 620) - An elegant Python interface for visualization on the web platform.. Apache-2"
@@ -564,11 +592,12 @@
             "archived": false,
             "id": 185452341,
             "language": "Python",
-            "last_commit": "2026-08-27T19:56:52Z",
+            "last_commit": "2026-08-28T17:59:02Z",
             "owner": "spacetelescope",
             "repo": "jdaviz",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "jdaviz (🥈20 · ⭐ 170) - Interactive data visualization and analysis tools for astronomical.. BSD-3"
@@ -589,7 +618,8 @@
             "owner": "nicolaskruchten",
             "repo": "jupyter_pivottablejs",
             "stars": 708
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "pivottablejs (🥉19 · ⭐ 690 · 💤) - Dragndrop Pivot Tables and Charts for Jupyter/IPython Notebook,.. MIT"
@@ -610,7 +640,8 @@
             "owner": "vega",
             "repo": "ipyvega",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "vega (🥉18 · ⭐ 390 · 💤) - IPython/Jupyter notebook module for Vega and Vega-Lite. BSD-3"
@@ -630,8 +661,9 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13684
-          }
+            "stars": 13683
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -646,7 +678,8 @@
             "owner": "PAIR-code",
             "repo": "facets",
             "stars": 7336
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -660,8 +693,9 @@
             "last_commit": "2024-03-20T15:48:47Z",
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5377
-          }
+            "stars": 5378
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -676,7 +710,8 @@
             "owner": "man-group",
             "repo": "dtale",
             "stars": 5214
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -691,7 +726,8 @@
             "owner": "quantopian",
             "repo": "qgrid",
             "stars": 3083
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -702,11 +738,12 @@
             "archived": false,
             "id": 277645425,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T19:32:14Z",
+            "last_commit": "2026-08-28T18:15:23Z",
             "owner": "microsoft",
             "repo": "responsible-ai-toolbox",
             "stars": 1826
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -721,7 +758,8 @@
             "owner": "jupyter-widgets",
             "repo": "ipyleaflet",
             "stars": 1538
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -736,7 +774,8 @@
             "owner": "OpenGeoscience",
             "repo": "geonotebook",
             "stars": 1086
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -750,8 +789,9 @@
             "last_commit": "2026-06-21T19:46:04Z",
             "owner": "PAIR-code",
             "repo": "what-if-tool",
-            "stars": 1007
-          }
+            "stars": 1009
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -766,7 +806,8 @@
             "owner": "jupyter-widgets",
             "repo": "pythreejs",
             "stars": 989
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -781,7 +822,8 @@
             "owner": "vizzuhq",
             "repo": "ipyvizzu",
             "stars": 971
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -796,7 +838,8 @@
             "owner": "plotly",
             "repo": "jupyter-dash",
             "stars": 957
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -811,7 +854,8 @@
             "owner": "agermanidis",
             "repo": "pigeon",
             "stars": 787
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -826,7 +870,8 @@
             "owner": "pbugnion",
             "repo": "gmaps",
             "stars": 766
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -841,12 +886,13 @@
             "owner": "mapbox",
             "repo": "mapboxgl-jupyter",
             "stars": 679
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "ipysheet",
-          "description": "(🥉17 · ⭐ 540 · 💀) - Spreadsheet in the Jupyter notebook. MIT",
+          "description": "(🥉16 · ⭐ 540 · 💀) - Spreadsheet in the Jupyter notebook. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -856,7 +902,8 @@
             "owner": "jupyter-widgets-contrib",
             "repo": "ipysheet",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -871,7 +918,8 @@
             "owner": "lgpage",
             "repo": "nbtutor",
             "stars": 472
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -886,12 +934,13 @@
             "owner": "1kbgz",
             "repo": "tributary",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "ipycytoscape",
-          "description": "(🥈21 · ⭐ 280 · 💀) - A Cytoscape Jupyter widget. BSD-3",
+          "description": "(🥈20 · ⭐ 280 · 💀) - A Cytoscape Jupyter widget. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -901,7 +950,8 @@
             "owner": "cytoscape",
             "repo": "ipycytoscape",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -916,7 +966,8 @@
             "owner": "maartenbreddels",
             "repo": "ipywebrtc",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -931,7 +982,8 @@
             "owner": "asvcode",
             "repo": "Vision_UI",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -946,7 +998,8 @@
             "owner": "CermakM",
             "repo": "jupyter-datatables",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1014,8 @@
             "owner": "g2nb",
             "repo": "igv-jupyter",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -976,7 +1030,8 @@
             "owner": "ipyannotate",
             "repo": "ipyannotate",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1046,8 @@
             "owner": "maartenbreddels",
             "repo": "ipymaterialui",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1062,8 @@
             "owner": "nipy",
             "repo": "niwidgets",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1078,8 @@
             "owner": "altair-viz",
             "repo": "altair_viewer",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1094,8 @@
             "owner": "widgetti",
             "repo": "ipyaggrid",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1110,8 @@
             "owner": "vidartf",
             "repo": "ipydatawidgets",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1066,7 +1126,8 @@
             "owner": "jtpio",
             "repo": "ipyp5",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1142,8 @@
             "owner": "leifwalsh",
             "repo": "perfume",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1096,7 +1158,8 @@
             "owner": "vidartf",
             "repo": "ipyscales",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1111,7 +1174,8 @@
             "owner": "GianniBalistreri",
             "repo": "easyexplore",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1190,8 @@
             "owner": "martinRenou",
             "repo": "ipytree",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 34 hidden projects..."
@@ -1147,7 +1212,8 @@
             "owner": "jupyterhub",
             "repo": "jupyter-server-proxy",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "jupyter-server-proxy (🥇25 · ⭐ 400) - Jupyter notebook server extension to proxy web services. BSD-3"
@@ -1168,7 +1234,8 @@
             "owner": "jupyter-server",
             "repo": "jupyter-resource-usage",
             "stars": 538
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Resource Usage (🥇24 · ⭐ 540) - Jupyter Notebook Extension for monitoring your own Resource.. BSD-2"
@@ -1189,10 +1256,11 @@
             "owner": "jupyterhub",
             "repo": "nbgitpuller",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "nbgitpuller (🥈22 · ⭐ 230 · 📈) - Jupyter server extension to sync a git repository one-way to a.. BSD-3"
+      "title": "nbgitpuller (🥈22 · ⭐ 230) - Jupyter server extension to sync a git repository one-way to a.. BSD-3"
     },
     {
       "description": null,
@@ -1210,7 +1278,8 @@
             "owner": "oschuett",
             "repo": "appmode",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Appmode (🥈21 · ⭐ 470) - A Jupyter extensions that turns notebooks into web applications. MIT"
@@ -1231,7 +1300,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyter-archive",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "jupyter-archive (🥈20 · ⭐ 90) - A Jupyter/Jupyterlab extension to make, download and extract.. BSD-3"
@@ -1252,7 +1322,8 @@
             "owner": "jupyterhub",
             "repo": "jupyter-rsession-proxy",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Rsession Proxy (🥈19 · ⭐ 130) - Jupyter extensions for running an RStudio rsession proxy. BSD-3"
@@ -1273,7 +1344,8 @@
             "owner": "mamba-org",
             "repo": "gator",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "gator (🥉17 · ⭐ 280) - Conda environment and package management extension from within Jupyter. BSD-3"
@@ -1294,7 +1366,8 @@
             "owner": "krishnan-r",
             "repo": "sparkmonitor",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Spark Monitor (🥉16 · ⭐ 160) - Monitor Apache Spark from Jupyter Notebook. Apache-2"
@@ -1315,7 +1388,8 @@
             "owner": "drillan",
             "repo": "jupyter-black",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Jupyter Black (🥉8 · ⭐ 440 · 💀) - Black formatter for Jupyter Notebook. BSD-3"
@@ -1336,7 +1410,8 @@
             "owner": "dunovank",
             "repo": "jupyter-themes",
             "stars": 9818
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1351,7 +1426,8 @@
             "owner": "ipython-contrib",
             "repo": "jupyter_contrib_nbextensions",
             "stars": 5276
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1442,8 @@
             "owner": "jupyter",
             "repo": "nbgrader",
             "stars": 1369
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1381,7 +1458,8 @@
             "owner": "8080labs",
             "repo": "pyforest",
             "stars": 1119
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1395,8 +1473,9 @@
             "last_commit": "2024-06-05T16:43:47Z",
             "owner": "Jupyter-contrib",
             "repo": "jupyter_nbextensions_configurator",
-            "stars": 979
-          }
+            "stars": 980
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1411,7 +1490,8 @@
             "owner": "codota",
             "repo": "jupyter-tabnine",
             "stars": 786
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1506,8 @@
             "owner": "lspvic",
             "repo": "jupyter_tensorboard",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1522,8 @@
             "owner": "googlecolab",
             "repo": "jupyter_http_over_ws",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1456,7 +1538,8 @@
             "owner": "mozilla",
             "repo": "jupyter-spark",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1471,7 +1554,8 @@
             "owner": "berkeley-dsep-infra",
             "repo": "nbzip",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1570,8 @@
             "owner": "jupyter-incubator",
             "repo": "contentmanagement",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1586,8 @@
             "owner": "paypal",
             "repo": "PPExtensions",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1602,8 @@
             "owner": "thoth-station",
             "repo": "jupyter-nbrequirements",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1531,7 +1618,8 @@
             "owner": "willkessler",
             "repo": "jupyterterminals",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 14 hidden projects..."
@@ -1552,10 +1640,11 @@
             "owner": "jupyter-incubator",
             "repo": "sparkmagic",
             "stars": 1366
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "sparkmagic (🥇22 · ⭐ 1.4K · 💤) - Jupyter magics and kernels for working with remote Spark.. BSD-3"
+      "title": "sparkmagic (🥇21 · ⭐ 1.4K · 💤) - Jupyter magics and kernels for working with remote Spark.. BSD-3"
     },
     {
       "description": null,
@@ -1573,10 +1662,11 @@
             "owner": "rasbt",
             "repo": "watermark",
             "stars": 941
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "watermark (🥇22 · ⭐ 940 · 💤) - An IPython magic extension for printing date and time stamps,.. BSD-3"
+      "title": "watermark (🥇21 · ⭐ 940 · 💤) - An IPython magic extension for printing date and time stamps,.. BSD-3"
     },
     {
       "description": null,
@@ -1594,10 +1684,11 @@
             "owner": "nteract",
             "repo": "pick",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "pick (🥈21 · ⭐ 790) - Customize your kernels on Launch!. BSD-3"
+      "title": "pick (🥇21 · ⭐ 790) - Customize your kernels on Launch!. BSD-3"
     },
     {
       "description": null,
@@ -1615,7 +1706,8 @@
             "owner": "catherinedevlin",
             "repo": "ipython-sql",
             "stars": 1796
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1722,8 @@
             "owner": "csurfer",
             "repo": "pyheatmagic",
             "stars": 1029
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1738,8 @@
             "owner": "ResidentMario",
             "repo": "py_d3",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1660,12 +1754,13 @@
             "owner": "dnanhkhoa",
             "repo": "nb_black",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "blackcellmagic",
-          "description": "(🥈17 · ⭐ 270 · 💀) - IPython magic command to format python code in cell using.. MIT",
+          "description": "(🥉15 · ⭐ 270 · 💀) - IPython magic command to format python code in cell using.. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1675,7 +1770,8 @@
             "owner": "csurfer",
             "repo": "blackcellmagic",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1690,7 +1786,8 @@
             "owner": "krassowski",
             "repo": "jupyter-manim",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1705,7 +1802,8 @@
             "owner": "tmthyjames",
             "repo": "SQLCell",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -1720,7 +1818,8 @@
             "owner": "rossant",
             "repo": "ipycache",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 9 hidden projects..."
@@ -1741,7 +1840,8 @@
             "owner": "ipython",
             "repo": "ipykernel",
             "stars": 734
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "IPython Kernel (🥇33 · ⭐ 730) - IPython Kernel for Jupyter. BSD-3"
@@ -1762,10 +1862,11 @@
             "owner": "Calysto",
             "repo": "metakernel",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Metakernel (🥇24 · ⭐ 370) - Jupyter/IPython Kernel Tools. BSD-3"
+      "title": "Metakernel (🥇23 · ⭐ 370) - Jupyter/IPython Kernel Tools. BSD-3"
     },
     {
       "description": null,
@@ -1783,10 +1884,11 @@
             "owner": "Calysto",
             "repo": "octave_kernel",
             "stars": 458
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Octave Kernel (🥇22 · ⭐ 460) - An Octave kernel for IPython. BSD-3"
+      "title": "Octave Kernel (🥇21 · ⭐ 460) - An Octave kernel for IPython. BSD-3"
     },
     {
       "description": null,
@@ -1800,14 +1902,15 @@
             "archived": false,
             "id": 177417757,
             "language": "C++",
-            "last_commit": "2026-08-27T20:24:56Z",
+            "last_commit": "2026-08-28T19:05:14Z",
             "owner": "lfortran",
             "repo": "lfortran",
-            "stars": 1226
-          }
+            "stars": 1227
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "LFortran (🥈19 · ⭐ 1.1K) - Official main repository for LFortran. MIT"
+      "title": "LFortran (🥇19 · ⭐ 1.1K) - Official main repository for LFortran. MIT"
     },
     {
       "description": null,
@@ -1825,10 +1928,11 @@
             "owner": "jupyter-xeus",
             "repo": "xeus-python",
             "stars": 480
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "xeus-python (🥈19 · ⭐ 460) - Jupyter kernel for the Python programming language. BSD-3"
+      "title": "xeus-python (🥇19 · ⭐ 460) - Jupyter kernel for the Python programming language. BSD-3"
     },
     {
       "description": null,
@@ -1842,11 +1946,12 @@
             "archived": false,
             "id": 31986032,
             "language": "Scala",
-            "last_commit": "2026-08-26T23:49:03Z",
+            "last_commit": "2026-08-28T20:30:28Z",
             "owner": "almond-sh",
             "repo": "almond",
             "stars": 1625
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "almond (🥈17 · ⭐ 1.6K) - A Scala kernel for Jupyter. BSD-3"
@@ -1857,7 +1962,7 @@
         {
           "node_type": "item",
           "title": "evcxr/evcxr",
-          "description": "(👨‍💻 56 · 🔀 240 · 📦 180):",
+          "description": "(👨‍💻 57 · 🔀 240 · 📦 180):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1867,7 +1972,8 @@
             "owner": "evcxr",
             "repo": "evcxr",
             "stars": 6478
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Evcxr (🥈16 · ⭐ 6.5K) - An evaluation context for Rust, including a Jupyter Kernel. MIT"
@@ -1888,7 +1994,8 @@
             "owner": "jupyter-xeus",
             "repo": "xeus-cling",
             "stars": 3295
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "xeus-cling (🥈16 · ⭐ 3.2K · 💤) - Jupyter kernel for the C++ programming language. BSD-3"
@@ -1909,7 +2016,8 @@
             "owner": "SciRuby",
             "repo": "iruby",
             "stars": 924
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "IRuby (🥈16 · ⭐ 930 · 💤) - Official gem repository: Ruby kernel for Jupyter/IPython Notebook. MIT"
@@ -1930,7 +2038,8 @@
             "owner": "Calysto",
             "repo": "matlab_kernel",
             "stars": 469
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Matlab Kernel (🥉15 · ⭐ 470 · 💤) - Jupyter Kernel for Matlab. BSD-3"
@@ -1951,7 +2060,8 @@
             "owner": "dotnet",
             "repo": "interactive",
             "stars": 3200
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": ".NET Interactive (🥉13 · ⭐ 3.2K) - .NET Interactive combines the power of .NET with many other.. MIT"
@@ -1972,7 +2082,8 @@
             "owner": "JuliaLang",
             "repo": "IJulia.jl",
             "stars": 2897
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "IJulia.jl (🥉13 · ⭐ 2.9K) - Julia kernel for Jupyter. MIT"
@@ -1993,7 +2104,8 @@
             "owner": "jupyter-xeus",
             "repo": "xeus-sqlite",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "xeus-sqlite (🥉13 · ⭐ 170) - Jupyter kernel for SQLite. BSD-3"
@@ -2014,7 +2126,8 @@
             "owner": "hugetim",
             "repo": "nbstata",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "nbstata (🥉10 · ⭐ 56 · 💤) - A Jupyter kernel for Stata built on pystata. ❗️GPL-3.0"
@@ -2034,8 +2147,9 @@
             "last_commit": "2026-08-25T08:24:46Z",
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9622
-          }
+            "stars": 9624
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2050,12 +2164,13 @@
             "owner": "gopherdata",
             "repo": "gophernotes",
             "stars": 3967
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "IHaskell",
-          "description": "(🥉14 · ⭐ 2.6K · 💀) - adds ihaskell syntax highlighting to jupyterlab. BSD-3",
+          "description": "(🥉13 · ⭐ 2.6K · 💀) - adds ihaskell syntax highlighting to jupyterlab. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2064,8 +2179,9 @@
             "last_commit": "2026-08-15T04:48:31Z",
             "owner": "IHaskell",
             "repo": "IHaskell",
-            "stars": 2646
-          }
+            "stars": 2653
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2080,12 +2196,13 @@
             "owner": "yunabe",
             "repo": "lgo",
             "stars": 2454
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "IJavascript",
-          "description": "(🥈19 · ⭐ 2.2K · 💀) - IJavascript is a javascript kernel for the Jupyter notebook. BSD-3",
+          "description": "(🥇19 · ⭐ 2.2K · 💀) - IJavascript is a javascript kernel for the Jupyter notebook. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2095,7 +2212,8 @@
             "owner": "n-riesco",
             "repo": "ijavascript",
             "stars": 2257
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2110,7 +2228,8 @@
             "owner": "IRkernel",
             "repo": "IRkernel",
             "stars": 1699
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2125,7 +2244,8 @@
             "owner": "WolframResearch",
             "repo": "WolframLanguageForJupyter",
             "stars": 1214
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2140,7 +2260,8 @@
             "owner": "SpencerPark",
             "repo": "IJava",
             "stars": 1188
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2155,7 +2276,8 @@
             "owner": "clojupyter",
             "repo": "clojupyter",
             "stars": 867
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2170,12 +2292,13 @@
             "owner": "apache",
             "repo": "incubator-toree",
             "stars": 750
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "Bash Kernel",
-          "description": "(🥇21 · ⭐ 710 · 💀) - A bash kernel for IPython. BSD-3",
+          "description": "(🥇19 · ⭐ 710 · 💀) - A bash kernel for IPython. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2185,7 +2308,8 @@
             "owner": "takluyver",
             "repo": "bash_kernel",
             "stars": 729
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2200,12 +2324,13 @@
             "owner": "jupyter-server",
             "repo": "enterprise_gateway",
             "stars": 669
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "Kernel Gateway",
-          "description": "(🥈17 · ⭐ 560 · 💀) - A web server for spawning and communicating with.. ❗Unlicensed",
+          "description": "(🥉15 · ⭐ 560 · 💀) - A web server for spawning and communicating with.. ❗Unlicensed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2215,7 +2340,8 @@
             "owner": "jupyter-server",
             "repo": "kernel_gateway",
             "stars": 563
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2230,7 +2356,8 @@
             "owner": "ansible",
             "repo": "ansible-jupyter-kernel",
             "stars": 539
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2245,7 +2372,8 @@
             "owner": "fsprojects",
             "repo": "IfSharp",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2260,7 +2388,8 @@
             "owner": "pprzetacznik",
             "repo": "IElixir",
             "stars": 369
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2275,7 +2404,8 @@
             "owner": "akabe",
             "repo": "ocaml-jupyter",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2290,7 +2420,8 @@
             "owner": "zabirauf",
             "repo": "icsharp",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2305,7 +2436,8 @@
             "owner": "sassoftware",
             "repo": "sas_kernel",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2320,7 +2452,8 @@
             "owner": "adtech-labs",
             "repo": "spylon-kernel",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2335,7 +2468,8 @@
             "owner": "scijava",
             "repo": "scijava-jupyter-kernel",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2350,7 +2484,8 @@
             "owner": "jorgehpo",
             "repo": "notebookJS",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2365,7 +2500,8 @@
             "owner": "Cadair",
             "repo": "jupyter_environment_kernels",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2380,12 +2516,13 @@
             "owner": "minrk",
             "repo": "allthekernels",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "SSH Kernel",
-          "description": "(🥉11 · ⭐ 73 · 💀) - SSH Kernel for Jupyter. BSD-3",
+          "description": "(🥉10 · ⭐ 73 · 💀) - SSH Kernel for Jupyter. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2395,7 +2532,8 @@
             "owner": "NII-cloud-operation",
             "repo": "sshkernel",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2410,7 +2548,8 @@
             "owner": "deathbeds",
             "repo": "pidgy",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2425,7 +2564,8 @@
             "owner": "tdaff",
             "repo": "remote_ikernel",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2440,7 +2580,8 @@
             "owner": "bernhard-42",
             "repo": "ssh_ipykernel",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2455,7 +2596,8 @@
             "owner": "nteract",
             "repo": "kernel-relay",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 29 hidden projects..."
@@ -2476,7 +2618,8 @@
             "owner": "jupyter",
             "repo": "nbconvert",
             "stars": 1935
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "nbconvert (🥇33 · ⭐ 1.9K) - Jupyter Notebook Conversion. BSD-3"
@@ -2496,32 +2639,12 @@
             "last_commit": "2026-08-03T19:33:25Z",
             "owner": "voila-dashboards",
             "repo": "voila",
-            "stars": 5938
-          }
+            "stars": 5939
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Voila (🥈26 · ⭐ 5.9K) - Voil turns Jupyter notebooks into standalone web applications. BSD-3"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jupyter/nbdime",
-          "description": "(👨‍💻 57 · 🔀 180 · 📦 13K):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 46264628,
-            "language": "TypeScript",
-            "last_commit": "2026-06-10T10:12:19Z",
-            "owner": "jupyter",
-            "repo": "nbdime",
-            "stars": 2840
-          }
-        }
-      ],
-      "title": "nbdime (🥈25 · ⭐ 2.8K) - Tools for diffing and merging of Jupyter notebooks. BSD-3"
+      "title": "Voila (🥇25 · ⭐ 5.9K) - Voil turns Jupyter notebooks into standalone web applications. BSD-3"
     },
     {
       "description": null,
@@ -2539,31 +2662,33 @@
             "owner": "danielfrg",
             "repo": "mkdocs-jupyter",
             "stars": 506
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "mkdocs-jupyter (🥈25 · ⭐ 500) - Use Jupyter Notebook in mkdocs. Apache-2"
+      "title": "mkdocs-jupyter (🥇25 · ⭐ 500) - Use Jupyter Notebook in mkdocs. Apache-2"
     },
     {
       "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "damianavila/RISE",
-          "description": "(👨‍💻 44 · 🔀 420 · 📦 3.1K):",
+          "title": "jupyter/nbdime",
+          "description": "(👨‍💻 57 · 🔀 180 · 📦 13K):",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 12387090,
-            "language": "JavaScript",
-            "last_commit": "2023-10-29T13:51:07Z",
-            "owner": "damianavila",
-            "repo": "RISE",
-            "stars": 3738
-          }
+            "id": 46264628,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T10:12:19Z",
+            "owner": "jupyter",
+            "repo": "nbdime",
+            "stars": 2841
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "RISE (🥈23 · ⭐ 3.7K · 💤) - RISE: Live Reveal.js Jupyter/IPython Slideshow Extension. BSD-3"
+      "title": "nbdime (🥈24 · ⭐ 2.8K) - Tools for diffing and merging of Jupyter notebooks. BSD-3"
     },
     {
       "description": null,
@@ -2580,11 +2705,34 @@
             "last_commit": "2026-06-21T08:16:46Z",
             "owner": "getnikola",
             "repo": "nikola",
-            "stars": 2742
-          }
+            "stars": 2743
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "nikola (🥈23 · ⭐ 2.7K · 💤) - A static website and blog generator. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "damianavila/RISE",
+          "description": "(👨‍💻 44 · 🔀 420 · 📦 3.1K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12387090,
+            "language": "JavaScript",
+            "last_commit": "2023-10-29T13:51:07Z",
+            "owner": "damianavila",
+            "repo": "RISE",
+            "stars": 3737
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        }
+      ],
+      "title": "RISE (🥈22 · ⭐ 3.7K · 💤) - RISE: Live Reveal.js Jupyter/IPython Slideshow Extension. BSD-3"
     },
     {
       "description": null,
@@ -2602,7 +2750,8 @@
             "owner": "jupyter",
             "repo": "nbviewer",
             "stars": 2281
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "nbviewer (🥈18 · ⭐ 2.3K · 💤) - nbconvert as a web service: Render Jupyter Notebooks as static web.. BSD-3"
@@ -2619,11 +2768,12 @@
             "archived": false,
             "id": 4503128,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:02:43Z",
+            "last_commit": "2026-08-28T19:57:17Z",
             "owner": "stencila",
             "repo": "stencila",
             "stars": 900
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Stencila (🥉17 · ⭐ 900) - Documents with Scientific Intelligence. Apache-2"
@@ -2644,7 +2794,8 @@
             "owner": "jupyterhub",
             "repo": "binderhub",
             "stars": 2669
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "BinderHub (🥉16 · ⭐ 2.7K) - Run your code in the cloud, with technology so advanced, it feels.. BSD-3"
@@ -2665,7 +2816,8 @@
             "owner": "nteract",
             "repo": "commuter",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "commuter (🥉15 · ⭐ 500) - Notebook sharing hub. BSD-3"
@@ -2686,7 +2838,8 @@
             "owner": "nbgallery",
             "repo": "nbgallery",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "nbgallery (🥉14 · ⭐ 150) - Enterprise Jupyter notebook sharing and collaboration app. MIT"
@@ -2697,7 +2850,7 @@
         {
           "node_type": "item",
           "title": "Knowledge Repo",
-          "description": "(🥈18 · ⭐ 5.5K · 💀) - A next-generation curated knowledge sharing platform.. Apache-2",
+          "description": "(🥉16 · ⭐ 5.5K · 💀) - A next-generation curated knowledge sharing platform.. Apache-2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2707,7 +2860,8 @@
             "owner": "airbnb",
             "repo": "knowledge-repo",
             "stars": 5539
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2722,7 +2876,8 @@
             "owner": "aaren",
             "repo": "notedown",
             "stars": 859
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2737,12 +2892,13 @@
             "owner": "danielfrg",
             "repo": "jupyter-flex",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "scrapbook",
-          "description": "(🥉16 · ⭐ 290 · 💀) - A library for recording and reading data in notebooks. BSD-3",
+          "description": "(🥉15 · ⭐ 290 · 💀) - A library for recording and reading data in notebooks. BSD-3",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2751,8 +2907,9 @@
             "last_commit": "2022-04-13T16:57:46Z",
             "owner": "nteract",
             "repo": "scrapbook",
-            "stars": 292
-          }
+            "stars": 291
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2767,7 +2924,8 @@
             "owner": "elehcimd",
             "repo": "pynb",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2782,7 +2940,8 @@
             "owner": "SamLau95",
             "repo": "nbinteract",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2797,7 +2956,8 @@
             "owner": "nteract",
             "repo": "bookstore",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2812,7 +2972,8 @@
             "owner": "ideonate",
             "repo": "cdsdashboards",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -2827,12 +2988,13 @@
             "owner": "greenape",
             "repo": "mknotebooks",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "jnotebook-reader",
-          "description": "(🥉7 · ⭐ 41 · 💀) - An awesome viewer to browse and render Jupyter.. Apache-2",
+          "description": "(🥉7 · ⭐ 100 · 💀) - An awesome viewer to browse and render Jupyter.. Apache-2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2842,7 +3004,8 @@
             "owner": "line",
             "repo": "jnotebook_reader",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 11 hidden projects..."
@@ -2863,7 +3026,8 @@
             "owner": "jupyter",
             "repo": "nbformat",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "nbformat (🥇32 · ⭐ 310) - Reference implementation of the Jupyter Notebook format. BSD-3"
@@ -2884,7 +3048,8 @@
             "owner": "jupyter",
             "repo": "nbclient",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "nbclient (🥇30 · ⭐ 180) - A client library for executing notebooks. Formally nbconverts.. BSD-3"
@@ -2901,11 +3066,12 @@
             "archived": false,
             "id": 33653575,
             "language": "Python",
-            "last_commit": "2026-08-24T19:13:40Z",
+            "last_commit": "2026-08-28T12:17:00Z",
             "owner": "jupyter",
             "repo": "jupyter_client",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Jupyter Client (🥇28 · ⭐ 470) - Jupyter protocol client APIs. BSD-3"
@@ -2926,7 +3092,8 @@
             "owner": "nbQA-dev",
             "repo": "nbQA",
             "stars": 1204
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "nbQA (🥈22 · ⭐ 1.2K · 💤) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter.. MIT"
@@ -2947,7 +3114,8 @@
             "owner": "jupyterhub",
             "repo": "repo2docker",
             "stars": 1732
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "repo2docker (🥈20 · ⭐ 1.7K) - Turn repositories into Jupyter-enabled Docker images. BSD-3"
@@ -2958,20 +3126,21 @@
         {
           "node_type": "item",
           "title": "mljar/mercury",
-          "description": "(👨‍💻 22 · 🔀 290 · 📦 180):",
+          "description": "(👨‍💻 23 · 🔀 290 · 📦 180):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 440184597,
             "language": "Python",
-            "last_commit": "2026-08-27T18:05:16Z",
+            "last_commit": "2026-08-28T07:34:09Z",
             "owner": "mljar",
             "repo": "mercury",
             "stars": 4351
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "mercury (🥉17 · ⭐ 4.3K · 📉) - The fastest way to turn a Jupyter notebook into a beautiful,.. Apache-2"
+      "title": "mercury (🥉17 · ⭐ 4.4K) - Impress your boss and turn a Jupyter notebook into a beautiful,.. Apache-2"
     },
     {
       "description": null,
@@ -2989,7 +3158,8 @@
             "owner": "QuantEcon",
             "repo": "sphinxcontrib-jupyter",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "sphinxcontrib.jupyter (🥉14 · ⭐ 77 · 💤) - A Sphinx Extension for Generating Jupyter Notebooks. BSD-3"
@@ -3000,7 +3170,7 @@
         {
           "node_type": "item",
           "title": "fastpages",
-          "description": "(🥉12 · ⭐ 3.5K · 💀) - An easy to use blogging platform, with enhanced support for.. Apache-2",
+          "description": "(🥉15 · ⭐ 3.5K · 💀) - An easy to use blogging platform, with enhanced support for.. Apache-2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3010,7 +3180,8 @@
             "owner": "fastai",
             "repo": "fastpages",
             "stars": 3543
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3025,12 +3196,13 @@
             "owner": "twosigma",
             "repo": "beakerx",
             "stars": 2894
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "ipyparallel",
-          "description": "(🥈22 · ⭐ 2.6K) - IPython Parallel: Interactive Parallel Computing in Python. ❗Unlicensed",
+          "description": "(🥈21 · ⭐ 2.6K) - IPython Parallel: Interactive Parallel Computing in Python. ❗Unlicensed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3040,7 +3212,8 @@
             "owner": "ipython",
             "repo": "ipyparallel",
             "stars": 2647
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3055,7 +3228,8 @@
             "owner": "pixiedust",
             "repo": "pixiedust",
             "stars": 1040
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3070,7 +3244,8 @@
             "owner": "datitran",
             "repo": "jupyter2slides",
             "stars": 792
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3085,7 +3260,8 @@
             "owner": "computationalmodelling",
             "repo": "nbval",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3100,12 +3276,13 @@
             "owner": "nteract",
             "repo": "testbook",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "ipytest",
-          "description": "(🥉19 · ⭐ 320 · 💀) - Pytest in IPython notebooks. MIT",
+          "description": "(🥈19 · ⭐ 320 · 💀) - Pytest in IPython notebooks. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3115,7 +3292,8 @@
             "owner": "chmp",
             "repo": "ipytest",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3130,7 +3308,8 @@
             "owner": "ReviewNB",
             "repo": "treon",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3145,7 +3324,8 @@
             "owner": "takluyver",
             "repo": "nbopen",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3160,7 +3340,8 @@
             "owner": "stas00",
             "repo": "ipyexperiments",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3175,7 +3356,8 @@
             "owner": "jupyter",
             "repo": "jupyter-sphinx",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3189,8 +3371,9 @@
             "last_commit": "2022-12-08T03:56:51Z",
             "owner": "Invictify",
             "repo": "Jupter-Notebook-REST-API",
-            "stars": 164
-          }
+            "stars": 163
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3205,7 +3388,8 @@
             "owner": "treebeardtech",
             "repo": "nbmake-action",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3220,7 +3404,8 @@
             "owner": "krassowski",
             "repo": "jupyter-helpers",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3235,31 +3420,11 @@
             "owner": "takluyver",
             "repo": "jupyter_kernel_mgmt",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 18 hidden projects..."
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jupyterlab/jupyter-renderers",
-          "description": "(👨‍💻 32 · 🔀 81 · 📦 40):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 93772766,
-            "language": "HTML",
-            "last_commit": "2026-03-04T00:15:50Z",
-            "owner": "jupyterlab",
-            "repo": "jupyter-renderers",
-            "stars": 517
-          }
-        }
-      ],
-      "title": "JupyterLab Renderers (🥇18 · ⭐ 520) - Renderers and renderer extensions for JupyterLab. BSD-3"
     },
     {
       "description": null,
@@ -3277,10 +3442,33 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-latex",
             "stars": 686
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "JupyterLab Latex (🥈17 · ⭐ 680 · 💤) - JupyterLab extension for live editing of LaTeX documents. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jupyterlab/jupyter-renderers",
+          "description": "(👨‍💻 32 · 🔀 81 · 📦 40):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93772766,
+            "language": "HTML",
+            "last_commit": "2026-03-04T00:15:50Z",
+            "owner": "jupyterlab",
+            "repo": "jupyter-renderers",
+            "stars": 517
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        }
+      ],
+      "title": "JupyterLab Renderers (🥈17 · ⭐ 520) - Renderers and renderer extensions for JupyterLab. BSD-3"
     },
     {
       "description": null,
@@ -3298,7 +3486,8 @@
             "owner": "QuantStack",
             "repo": "jupyterlab-drawio",
             "stars": 623
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3313,7 +3502,8 @@
             "owner": "plotly",
             "repo": "jupyterlab-dash",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3328,7 +3518,8 @@
             "owner": "altair-viz",
             "repo": "jupyterlab_voyager",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3343,7 +3534,8 @@
             "owner": "quigleyj97",
             "repo": "jupyterlab-spreadsheet",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3358,7 +3550,8 @@
             "owner": "jupytercalpoly",
             "repo": "jupyterlab-tabular-data-editor",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 6 hidden projects..."
@@ -3379,7 +3572,8 @@
             "owner": "oriolmirosa",
             "repo": "jupyterlab_materialdarker",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Material Darker Theme (🥈12 · ⭐ 170 · 💤) - The Material Darker theme for JupyterLab. BSD-3"
@@ -3400,7 +3594,8 @@
             "owner": "telamonian",
             "repo": "theme-darcula",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3415,7 +3610,8 @@
             "owner": "yeebc",
             "repo": "jupyterlab-neon-theme",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3430,7 +3626,8 @@
             "owner": "dunovank",
             "repo": "jupyterlab_darkside_ui",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3445,7 +3642,8 @@
             "owner": "AllanChain",
             "repo": "jupyterlab-theme-solarized-dark",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3460,7 +3658,8 @@
             "owner": "mohirio",
             "repo": "jupyterlab-horizon-theme",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3475,12 +3674,13 @@
             "owner": "Rahlir",
             "repo": "theme-gruvbox",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "Nord Theme",
-          "description": "(🥉9 · ⭐ 26 · 💀) - JupyterLab - Nord Theme. BSD-3",
+          "description": "(🥉8 · ⭐ 26 · 💀) - JupyterLab - Nord Theme. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3490,7 +3690,8 @@
             "owner": "kenshohara",
             "repo": "theme-nord-extension",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3505,7 +3706,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-theme-toggle",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 8 hidden projects..."
@@ -3526,7 +3728,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-git",
             "stars": 1610
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "JupyterLab Git (🥇26 · ⭐ 1.6K) - A Git extension for JupyterLab. BSD-3"
@@ -3547,7 +3750,8 @@
             "owner": "jupyter-lsp",
             "repo": "jupyterlab-lsp",
             "stars": 2001
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "JupyterLab LSP (🥇25 · ⭐ 2K) - Coding assistance for JupyterLab (code navigation + hover.. BSD-3"
@@ -3568,7 +3772,8 @@
             "owner": "jupyterlab",
             "repo": "debugger",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "JupyterLab Debugger (🥇24 · ⭐ 15K) - A visual debugger for Jupyter notebooks, consoles, and.. BSD-3"
@@ -3589,7 +3794,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-toc",
             "stars": 728
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "JupyterLab TOC (🥇24 · ⭐ 15K) - Table of Contents extension for JupyterLab. BSD-3"
@@ -3610,7 +3816,8 @@
             "owner": "bokeh",
             "repo": "jupyter_bokeh",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Jupyter Bokeh (🥇22 · ⭐ 260) - An extension for rendering Bokeh content in JupyterLab notebooks. BSD-3"
@@ -3631,7 +3838,8 @@
             "owner": "elyra-ai",
             "repo": "elyra",
             "stars": 1996
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "elyra (🥈21 · ⭐ 2K) - Elyra extends JupyterLab with an AI centric approach. Apache-2"
@@ -3652,7 +3860,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "spellchecker",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "JupyterLab Spellchecker (🥈21 · ⭐ 210) - Spellchecker for JupyterLab notebook markdown cells.. BSD-3"
@@ -3673,7 +3882,8 @@
             "owner": "rapidsai",
             "repo": "jupyterlab-nvdashboard",
             "stars": 680
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "GPU Dashboards (🥈20 · ⭐ 670) - A JupyterLab extension for displaying dashboards of GPU usage. BSD-3"
@@ -3694,7 +3904,8 @@
             "owner": "deshaw",
             "repo": "jupyterlab-execute-time",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "jupyterlab-execute-time (🥈19 · ⭐ 400 · 💤) - A JupyterLab extension for displaying cell timings. BSD-3"
@@ -3714,8 +3925,9 @@
             "last_commit": "2026-04-15T18:56:36Z",
             "owner": "jupyter-widgets",
             "repo": "jupyterlab-sidecar",
-            "stars": 263
-          }
+            "stars": 264
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "JupyterLab SideCar (🥈18 · ⭐ 260) - A sidecar output widget for JupyterLab. BSD-3"
@@ -3736,7 +3948,8 @@
             "owner": "jpmorganchase",
             "repo": "jupyter-fs",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "jupyter-fs (🥈18 · ⭐ 240) - A filesystem-like contents manager for multiple backends in.. Apache-2"
@@ -3757,7 +3970,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab-kernelspy",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "JupyterLab Kernelspy (🥉14 · ⭐ 85) - A Jupyter Lab extension for inspecting messages to/from.. BSD-3"
@@ -3778,7 +3992,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab-variableInspector",
             "stars": 1168
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3793,7 +4008,8 @@
             "owner": "jwkvam",
             "repo": "jupyterlab-vim",
             "stars": 981
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3808,7 +4024,8 @@
             "owner": "xiaohk",
             "repo": "stickyland",
             "stars": 568
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3823,7 +4040,8 @@
             "owner": "microsoft",
             "repo": "gather",
             "stars": 534
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3838,7 +4056,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-github",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3853,7 +4072,8 @@
             "owner": "pbugnion",
             "repo": "jupyterlab-sql",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3868,7 +4088,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-google-drive",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3883,7 +4104,8 @@
             "owner": "timkpaine",
             "repo": "lantern",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3898,7 +4120,8 @@
             "owner": "dask",
             "repo": "dask-labextension",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3913,7 +4136,8 @@
             "owner": "chesterli29",
             "repo": "jupyterlab_tensorboard",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3928,7 +4152,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-system-monitor",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3943,7 +4168,8 @@
             "owner": "krassowski",
             "repo": "jupyterlab-go-to-definition",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3958,7 +4184,8 @@
             "owner": "jupytercalpoly",
             "repo": "jupyterlab-interactive-dashboard-editor",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3972,8 +4199,9 @@
             "last_commit": "2025-06-26T06:39:04Z",
             "owner": "jtpio",
             "repo": "ipylab",
-            "stars": 219
-          }
+            "stars": 220
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -3988,7 +4216,8 @@
             "owner": "aquirdTurtle",
             "repo": "Collapsible_Headings",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4003,7 +4232,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-data-explorer",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4018,7 +4248,8 @@
             "owner": "ReviewNB",
             "repo": "jupyterlab-gitplus",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4033,7 +4264,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-iframe",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4048,7 +4280,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-hdf5",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4063,7 +4296,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-celltags",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4078,7 +4312,8 @@
             "owner": "mlshapiro",
             "repo": "jupyterlab-flake8",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4093,7 +4328,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-commenting",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4108,7 +4344,8 @@
             "owner": "jpmorganchase",
             "repo": "nbcelltests",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4123,7 +4360,8 @@
             "owner": "itsjafer",
             "repo": "jupyterlab-sparkmonitor",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4138,7 +4376,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-autoversion",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4153,7 +4392,8 @@
             "owner": "vatlab",
             "repo": "jupyterlab-sos",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4168,7 +4408,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4183,12 +4424,13 @@
             "owner": "jtpio",
             "repo": "jupyterlab-python-bytecode",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "JupyterLab Flake8",
-          "description": "(🥉13 · ⭐ 110 · 💀) - A jupyterlab extension to email notebooks directly.. Apache-2",
+          "description": "(🥉12 · ⭐ 110 · 💀) - A jupyterlab extension to email notebooks directly.. Apache-2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4198,12 +4440,13 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "JupyterLab Email",
-          "description": "(🥉12 · ⭐ 53 · 💀) - A jupyterlab extension to email notebooks directly.. Apache-2",
+          "description": "(🥉11 · ⭐ 53 · 💀) - A jupyterlab extension to email notebooks directly.. Apache-2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4213,7 +4456,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4228,7 +4472,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-shortcutui",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4243,7 +4488,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-python-file",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4258,7 +4504,8 @@
             "owner": "tkp-archive",
             "repo": "knowledgelab",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4273,7 +4520,8 @@
             "owner": "gavincyi",
             "repo": "jupyterlab-executor",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4288,7 +4536,8 @@
             "owner": "manuzhang",
             "repo": "jupyterlab_spark",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4303,7 +4552,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-topbar",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 36 hidden projects..."
@@ -4320,11 +4570,12 @@
             "archived": false,
             "id": 24390283,
             "language": "Python",
-            "last_commit": "2026-08-27T16:59:06Z",
+            "last_commit": "2026-08-28T20:20:25Z",
             "owner": "jupyterhub",
             "repo": "oauthenticator",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "OAuthenticator (🥇23 · ⭐ 440) - OAuth + JupyterHub Authenticator = OAuthenticator. BSD-3"
@@ -4345,10 +4596,11 @@
             "owner": "jupyterhub",
             "repo": "ltiauthenticator",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "LTI Authenticator (🥈14 · ⭐ 73) - A JupyterHub authenticator for LTI. BSD-3"
+      "title": "LTI Authenticator (🥈11 · ⭐ 73 · 📉) - A JupyterHub authenticator for LTI. BSD-3"
     },
     {
       "description": null,
@@ -4366,10 +4618,11 @@
             "owner": "jupyterhub",
             "repo": "firstuseauthenticator",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "First Use Authenticator (🥈13 · ⭐ 50 · 💤) - JupyterHub Authenticator that lets users set.. BSD-3"
+      "title": "First Use Authenticator (🥉10 · ⭐ 50 · 💤) - JupyterHub Authenticator that lets users set.. BSD-3"
     },
     {
       "description": null,
@@ -4387,12 +4640,13 @@
             "owner": "jupyterhub",
             "repo": "ldapauthenticator",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "Native Authenticator",
-          "description": "(🥈18 · ⭐ 72 · 💀) - JupyterHub-native User Authenticator. BSD-3",
+          "description": "(🥈14 · ⭐ 72 · 💀) - JupyterHub-native User Authenticator. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4402,7 +4656,8 @@
             "owner": "jupyterhub",
             "repo": "nativeauthenticator",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4417,12 +4672,13 @@
             "owner": "mogthesprog",
             "repo": "jwtauthenticator",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "Remote User Auth",
-          "description": "(🥉11 · ⭐ 12 · 💀) - REMOTE_USER authenticator for Jupyterhub. ❗️GPL-3.0",
+          "description": "(🥈11 · ⭐ 12 · 💀) - REMOTE_USER authenticator for Jupyterhub. ❗️GPL-3.0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4432,12 +4688,13 @@
             "owner": "cwaldbieser",
             "repo": "jhub_remote_user_authenticator",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "SAML Authenticator",
-          "description": "(🥈14 · ⭐ 40 · 💀) - jupyterhub-samlauthenticator. MIT",
+          "description": "(🥈11 · ⭐ 40 · 💀) - jupyterhub-samlauthenticator. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4447,12 +4704,13 @@
             "owner": "HewlettPackard",
             "repo": "jupyterhub-samlauthenticator",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "dummyauthenticator",
-          "description": "(🥉12 · ⭐ 28 · 💀) - A Dummy JupyterHub Authenticator to make testing easy. BSD-3",
+          "description": "(🥈12 · ⭐ 28 · 💀) - A Dummy JupyterHub Authenticator to make testing easy. BSD-3",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4462,7 +4720,8 @@
             "owner": "jupyterhub",
             "repo": "dummyauthenticator",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4477,12 +4736,13 @@
             "owner": "cwaldbieser",
             "repo": "jhub_cas_authenticator",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "Keberos Authenticator",
-          "description": "(🥉11 · ⭐ 12) - A JupyterHub authenticator using Kerberos. BSD-3",
+          "description": "(🥉9 · ⭐ 12) - A JupyterHub authenticator using Kerberos. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4492,7 +4752,8 @@
             "owner": "jupyterhub",
             "repo": "kerberosauthenticator",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4507,7 +4768,8 @@
             "owner": "jupyterhub",
             "repo": "nullauthenticator",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4522,12 +4784,13 @@
             "owner": "andreas-h",
             "repo": "sshauthenticator",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "Hash Authenticator",
-          "description": "(🥉12 · ⭐ 4) - Authenticate users with passwords generated from their.. BSD-3",
+          "description": "(🥈12 · ⭐ 4) - Authenticate users with passwords generated from their.. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4537,7 +4800,8 @@
             "owner": "thedataincubator",
             "repo": "jupyterhub-hashauthenticator",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4552,7 +4816,8 @@
             "owner": "ucphhpc",
             "repo": "jhub-authenticators",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 12 hidden projects..."
@@ -4573,10 +4838,11 @@
             "owner": "jupyterhub",
             "repo": "kubespawner",
             "stars": 608
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "KubeSpawner (🥇21 · ⭐ 610) - Kubernetes spawner for JupyterHub. BSD-3"
+      "title": "KubeSpawner (🥈19 · ⭐ 610) - Kubernetes spawner for JupyterHub. BSD-3"
     },
     {
       "description": null,
@@ -4594,7 +4860,8 @@
             "owner": "jupyterhub",
             "repo": "sudospawner",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "SudoSpawner (🥉16 · ⭐ 51 · 💤) - Spawn JupyterHub single-user servers with sudo. BSD-3"
@@ -4615,7 +4882,8 @@
             "owner": "jupyterhub",
             "repo": "systemdspawner",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "SystemdSpawner (🥉14 · ⭐ 99 · 💤) - Spawn JupyterHub single-user notebook servers with systemd. BSD-3"
@@ -4636,7 +4904,8 @@
             "owner": "jupyterhub",
             "repo": "dockerspawner",
             "stars": 544
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4651,7 +4920,8 @@
             "owner": "jupyterhub",
             "repo": "batchspawner",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4666,12 +4936,13 @@
             "owner": "jupyterhub",
             "repo": "wrapspawner",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
           "title": "YarnSpawner",
-          "description": "(🥉11 · ⭐ 19 · 💀) - Spawn JupyterHub single user notebook servers in Hadoop/YARN.. BSD-3",
+          "description": "(🥉10 · ⭐ 19 · 💀) - Spawn JupyterHub single user notebook servers in Hadoop/YARN.. BSD-3",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4681,7 +4952,8 @@
             "owner": "jupyterhub",
             "repo": "yarnspawner",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 5 hidden projects..."
@@ -4698,14 +4970,15 @@
             "archived": false,
             "id": 658518,
             "language": "Python",
-            "last_commit": "2026-08-26T12:05:21Z",
+            "last_commit": "2026-08-28T09:00:30Z",
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16774
-          }
+            "stars": 16773
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "ipython (🥇37 · ⭐ 17K) - Official repository for IPython itself. Other repos in the IPython.. BSD-3"
+      "title": "ipython (🥇36 · ⭐ 17K) - Official repository for IPython itself. Other repos in the IPython.. BSD-3"
     },
     {
       "description": null,
@@ -4723,10 +4996,11 @@
             "owner": "jupyter-server",
             "repo": "jupyter_server",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "jupyter_server (🥉29 · ⭐ 560) - The backendi.e. core services, APIs, and REST endpointsto.. BSD-3"
+      "title": "jupyter_server (🥉29 · ⭐ 570) - The backendi.e. core services, APIs, and REST endpointsto.. BSD-3"
     },
     {
       "description": null,
@@ -4744,7 +5018,8 @@
             "owner": "jupyter",
             "repo": "jupyter-packaging",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 1 hidden projects..."
@@ -4765,7 +5040,8 @@
             "owner": "abhishekkrthakur",
             "repo": "colabcode",
             "stars": 2158
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4780,7 +5056,8 @@
             "owner": "datapane",
             "repo": "datapane",
             "stars": 1399
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4795,7 +5072,8 @@
             "owner": "jupyter",
             "repo": "jupyter_console",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Show 3 hidden projects..."
@@ -4816,7 +5094,8 @@
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
             "stars": 23733
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4827,11 +5106,12 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-27T01:03:19Z",
+            "last_commit": "2026-08-28T02:24:47Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4846,7 +5126,8 @@
             "owner": "mauhai",
             "repo": "awesome-jupyterlab",
             "stars": 2623
-          }
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Related Resources"
@@ -4863,11 +5144,12 @@
             "archived": false,
             "id": 326066116,
             "language": null,
-            "last_commit": "2026-08-20T21:41:32Z",
+            "last_commit": "2026-08-28T07:06:42Z",
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1230
-          }
+            "stars": 1232
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         },
         {
           "node_type": "item",
@@ -4878,28 +5160,29 @@
             "archived": false,
             "id": 326066116,
             "language": null,
-            "last_commit": "2026-08-20T21:41:32Z",
+            "last_commit": "2026-08-28T07:06:42Z",
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1230
-          }
+            "stars": 1232
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
       "title": "Contribution"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:44:34.164Z",
+    "last_updated": "2026-08-28T21:15:02.238Z",
     "original_repository_info": {
       "archived": false,
       "id": 326066116,
       "language": null,
-      "last_commit": "2026-08-20T21:41:32Z",
+      "last_commit": "2026-08-28T07:06:42Z",
       "owner": "ml-tooling",
       "repo": "best-of-jupyter",
-      "stars": 1230
+      "stars": 1232
     },
-    "original_repository_sha": "6623afb21dd26d56d75b94c0f356650f941c7d85",
+    "original_repository_sha": "ba55d411f0771224fcb5d2439c513f2a59dba115",
     "enhanced_repository": "enhansome/enhansome-best-of-jupyter",
     "enhanced_repository_description": null,
     "title": "Awesome best of jupyter with stars"
