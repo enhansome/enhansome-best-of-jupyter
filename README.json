@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T16:59:27Z",
-            "open_issues": 2599,
+            "open_issues": 2600,
             "owner": "jupyterlab",
             "repo": "jupyterlab",
             "stars": 15275,
@@ -46,7 +46,7 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T07:26:18Z",
-            "open_issues": 1899,
+            "open_issues": 1900,
             "owner": "jupyter",
             "repo": "notebook",
             "stars": 13327,
@@ -114,7 +114,7 @@
             "open_issues": 8,
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8461,
+            "stars": 8462,
             "topics": [
               "docker",
               "ipython",
@@ -148,7 +148,7 @@
             "id": 1155631492,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T13:24:16Z",
+            "last_commit": "2026-08-29T09:40:08Z",
             "open_issues": 32,
             "owner": "nteract",
             "repo": "nteract",
@@ -179,7 +179,7 @@
             "open_issues": 260,
             "owner": "microsoft",
             "repo": "vscode-jupyter",
-            "stars": 1531,
+            "stars": 1533,
             "topics": [
               "datascience",
               "jupyter",
@@ -239,7 +239,7 @@
             "open_issues": 34,
             "owner": "Kaggle",
             "repo": "docker-python",
-            "stars": 2731,
+            "stars": 2732,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:02.238Z"
@@ -503,7 +503,7 @@
             "open_issues": 55,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23733,
+            "stars": 23736,
             "topics": [
               "automl",
               "chatgpt",
@@ -547,7 +547,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-29T01:09:56Z",
-            "open_issues": 845,
+            "open_issues": 846,
             "owner": "bokeh",
             "repo": "bokeh",
             "stars": 20437,
@@ -586,7 +586,7 @@
             "id": 145848899,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T21:42:51Z",
+            "last_commit": "2026-08-29T09:49:33Z",
             "open_issues": 1114,
             "owner": "holoviz",
             "repo": "panel",
@@ -662,7 +662,7 @@
             "open_issues": 299,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7861,
+            "stars": 7863,
             "topics": [
               "data-drift",
               "data-quality",
@@ -805,7 +805,7 @@
             "open_issues": 196,
             "owner": "nteract",
             "repo": "papermill",
-            "stars": 6478,
+            "stars": 6477,
             "topics": [
               "julia",
               "jupyter",
@@ -1043,7 +1043,7 @@
             "open_issues": 325,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13682,
+            "stars": 13684,
             "topics": [
               "big-data-analytics",
               "data-analysis",
@@ -1085,7 +1085,7 @@
             "open_issues": 81,
             "owner": "PAIR-code",
             "repo": "facets",
-            "stars": 7336,
+            "stars": 7335,
             "topics": [
               "data-visualization",
               "machine-learning"
@@ -2946,7 +2946,7 @@
             "id": 177417757,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T22:23:34Z",
+            "last_commit": "2026-08-29T13:50:22Z",
             "open_issues": 2373,
             "owner": "lfortran",
             "repo": "lfortran",
@@ -3015,7 +3015,7 @@
             "language": "Scala",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T20:30:28Z",
-            "open_issues": 138,
+            "open_issues": 140,
             "owner": "almond-sh",
             "repo": "almond",
             "stars": 1625,
@@ -3297,7 +3297,7 @@
             "open_issues": 73,
             "owner": "xonsh",
             "repo": "xonsh",
-            "stars": 9624,
+            "stars": 9626,
             "topics": [
               "anthropic",
               "claude",
@@ -4140,7 +4140,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-06-10T10:12:19Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "jupyter",
             "repo": "nbdime",
             "stars": 2841,
@@ -6300,7 +6300,7 @@
             "open_issues": 57,
             "owner": "pbugnion",
             "repo": "jupyterlab-sql",
-            "stars": 429,
+            "stars": 428,
             "topics": [
               "database",
               "jupyterlab",
@@ -7850,7 +7850,7 @@
             "open_issues": 55,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23733,
+            "stars": 23736,
             "topics": [
               "automl",
               "chatgpt",
@@ -8031,7 +8031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:29.180Z",
+    "last_updated": "2026-08-29T15:18:05.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.",
