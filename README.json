@@ -19,7 +19,7 @@
             "open_issues": 1890,
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13407,
+            "stars": 13408,
             "topics": [
               "closember",
               "jupyter",
@@ -30,7 +30,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Jupyter (🥇36 · ⭐ 14K) - Jupyter Interactive Notebook. BSD-3"
+      "title": "Jupyter (🥇36 · ⭐ 15K) - Jupyter Interactive Notebook. BSD-3"
     },
     {
       "description": null,
@@ -38,7 +38,7 @@
         {
           "node_type": "item",
           "title": "jupyterlab/jupyterlab",
-          "description": "(👨‍💻 730 · 🔀 4.1K · 📦 22K):",
+          "description": "(👨‍💻 740 · 🔀 4.1K · 📦 22K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-01T16:04:21Z",
-            "open_issues": 2620,
+            "open_issues": 2623,
             "owner": "jupyterlab",
             "repo": "jupyterlab",
             "stars": 15329,
@@ -77,8 +77,8 @@
             "id": 20785986,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T08:26:27Z",
-            "open_issues": 198,
+            "last_commit": "2026-10-01T17:25:58Z",
+            "open_issues": 201,
             "owner": "jupyterhub",
             "repo": "jupyterhub",
             "stars": 8346,
@@ -128,7 +128,7 @@
         {
           "node_type": "item",
           "title": "nteract/nteract",
-          "description": "(👨‍💻 65 · 🔀 550):",
+          "description": "(👨‍💻 86 · 🔀 550):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -137,17 +137,17 @@
             "id": 1155631492,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T16:01:18Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-02T15:41:40Z",
+            "open_issues": 48,
             "owner": "nteract",
             "repo": "nteract",
-            "stars": 176,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "nteract (🥈21 · ⭐ 6.3K · 🐣) - Were back! Now firing notebooks out of a t-shirt gun. BSD-3"
+      "title": "nteract (🥈21 · ⭐ 6.3K) - Were back! Now firing notebooks out of a t-shirt gun. BSD-3"
     },
     {
       "description": null,
@@ -164,11 +164,11 @@
             "id": 294546561,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T01:28:17Z",
-            "open_issues": 283,
+            "last_commit": "2026-10-02T11:52:49Z",
+            "open_issues": 287,
             "owner": "microsoft",
             "repo": "vscode-jupyter",
-            "stars": 1537,
+            "stars": 1536,
             "topics": [
               "datascience",
               "jupyter",
@@ -207,7 +207,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "docker-python (🥉16 · ⭐ 2.9K) - Kaggle Python docker image. Apache-2"
+      "title": "docker-python (🥉17 · ⭐ 2.9K) - Kaggle Python docker image. Apache-2"
     },
     {
       "description": null,
@@ -243,7 +243,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Hydrogen (🥉12 · ⭐ 4.1K) - Run code interactively, inspect data, and plot. All the power of Jupyter.. MIT"
+      "title": "Hydrogen (🥉12 · ⭐ 4.1K · 💤) - Run code interactively, inspect data, and plot. All the power of.. MIT"
     },
     {
       "description": null,
@@ -264,7 +264,7 @@
             "open_issues": 10,
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8469,
+            "stars": 8468,
             "topics": [
               "docker",
               "ipython",
@@ -325,7 +325,7 @@
         {
           "node_type": "item",
           "title": "DataLab",
-          "description": "(🥉16 · ⭐ 970 · 💀) - Interactive tools and developer experiences for Big Data on.. Apache-2",
+          "description": "(🥉16 · ⭐ 980 · 💀) - Interactive tools and developer experiences for Big Data on.. Apache-2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -497,7 +497,7 @@
             "open_issues": 58,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23840,
+            "stars": 23841,
             "topics": [
               "automl",
               "chatgpt",
@@ -540,11 +540,11 @@
             "id": 3834332,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T16:00:46Z",
+            "last_commit": "2026-10-02T16:13:46Z",
             "open_issues": 848,
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20457,
+            "stars": 20455,
             "topics": [
               "bokeh",
               "data-visualisation",
@@ -610,11 +610,11 @@
             "id": 145848899,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T21:22:31Z",
+            "last_commit": "2026-10-02T16:06:16Z",
             "open_issues": 1116,
             "owner": "holoviz",
             "repo": "panel",
-            "stars": 5781,
+            "stars": 5782,
             "topics": [
               "bokeh",
               "control-panels",
@@ -656,7 +656,7 @@
             "open_issues": 323,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7953,
+            "stars": 7959,
             "topics": [
               "data-drift",
               "data-quality",
@@ -677,7 +677,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "evidently (🥇28 · ⭐ 7.9K · 📈) - Evidently is an open-source ML and LLM observability.. Apache-2"
+      "title": "evidently (🥇28 · ⭐ 7.9K) - Evidently is an open-source ML and LLM observability framework... Apache-2"
     },
     {
       "description": null,
@@ -716,7 +716,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "papermill (🥇27 · ⭐ 6.4K · 📈) - Parameterize, execute, and analyze notebooks. BSD-3"
+      "title": "papermill (🥇27 · ⭐ 6.4K) - Parameterize, execute, and analyze notebooks. BSD-3"
     },
     {
       "description": null,
@@ -756,37 +756,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "bqplot/bqplot",
-          "description": "(👨‍💻 71 · 🔀 480 · 📦 65):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Plotting library for IPython/Jupyter notebooks",
-            "homepage": "https://bqplot.github.io/bqplot",
-            "id": 43191201,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-05-07T08:33:08Z",
-            "open_issues": 279,
-            "owner": "bqplot",
-            "repo": "bqplot",
-            "stars": 3692,
-            "topics": [
-              "ipython",
-              "jupyter",
-              "visualizations"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:02.238Z"
-        }
-      ],
-      "title": "bqplot (🥈25 · ⭐ 3.7K) - Plotting library for IPython/Jupyter notebooks. Apache-2"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "mwouts/itables",
           "description": "(👨‍💻 25 · 🔀 62 · 📦 1.6K):",
           "children": [],
@@ -818,6 +787,37 @@
         }
       ],
       "title": "itables (🥈25 · ⭐ 980) - Python DataFrames as Interactive DataTables. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bqplot/bqplot",
+          "description": "(👨‍💻 71 · 🔀 480 · 📦 65):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Plotting library for IPython/Jupyter notebooks",
+            "homepage": "https://bqplot.github.io/bqplot",
+            "id": 43191201,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-07T08:33:08Z",
+            "open_issues": 279,
+            "owner": "bqplot",
+            "repo": "bqplot",
+            "stars": 3692,
+            "topics": [
+              "ipython",
+              "jupyter",
+              "visualizations"
+            ]
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        }
+      ],
+      "title": "bqplot (🥈24 · ⭐ 3.7K · 📉) - Plotting library for IPython/Jupyter notebooks. Apache-2"
     },
     {
       "description": null,
@@ -890,40 +890,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "nicolaskruchten/jupyter_pivottablejs",
-          "description": "(👨‍💻 3 · 🔀 88 · 📦 550):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Drag’n’drop Pivot Tables and Charts for Jupyter/IPython Notebook, care of PivotTable.js",
-            "homepage": "http://nicolas.kruchten.com/content/2015/09/jupyter_pivottablejs/",
-            "id": 42180629,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2024-03-15T12:50:01Z",
-            "open_issues": 26,
-            "owner": "nicolaskruchten",
-            "repo": "jupyter_pivottablejs",
-            "stars": 707,
-            "topics": [
-              "data-analysis",
-              "data-science",
-              "interactive",
-              "jupyter-notebook",
-              "pivot-chart",
-              "pivot-tables"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:02.238Z"
-        }
-      ],
-      "title": "pivottablejs (🥈20 · ⭐ 690) - Dragndrop Pivot Tables and Charts for Jupyter/IPython Notebook,.. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "InsightSoftwareConsortium/itkwidgets",
           "description": "(👨‍💻 27 · 🔀 84 · 📦 400):",
           "children": [],
@@ -962,7 +928,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "itkwidgets (🥈20 · ⭐ 620) - An elegant Python interface for visualization on the web platform.. Apache-2"
+      "title": "itkwidgets (🥈20 · ⭐ 620 · 💤) - An elegant Python interface for visualization on the web.. Apache-2"
     },
     {
       "description": null,
@@ -979,8 +945,8 @@
             "id": 185452341,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T16:41:20Z",
-            "open_issues": 356,
+            "last_commit": "2026-10-02T14:45:53Z",
+            "open_issues": 353,
             "owner": "spacetelescope",
             "repo": "jdaviz",
             "stars": 177,
@@ -1006,11 +972,11 @@
             "id": 277645425,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T16:53:21Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-02T15:24:00Z",
+            "open_issues": 103,
             "owner": "microsoft",
             "repo": "responsible-ai-toolbox",
-            "stars": 1842,
+            "stars": 1841,
             "topics": [
               "data-analysis",
               "data-science",
@@ -1038,6 +1004,40 @@
         }
       ],
       "title": "responsible-ai-widgets (🥉19 · ⭐ 1.8K) - Responsible AI Toolbox is a suite of tools providing.. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nicolaskruchten/jupyter_pivottablejs",
+          "description": "(👨‍💻 3 · 🔀 88):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Drag’n’drop Pivot Tables and Charts for Jupyter/IPython Notebook, care of PivotTable.js",
+            "homepage": "http://nicolas.kruchten.com/content/2015/09/jupyter_pivottablejs/",
+            "id": 42180629,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2024-03-15T12:50:01Z",
+            "open_issues": 26,
+            "owner": "nicolaskruchten",
+            "repo": "jupyter_pivottablejs",
+            "stars": 707,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "interactive",
+              "jupyter-notebook",
+              "pivot-chart",
+              "pivot-tables"
+            ]
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        }
+      ],
+      "title": "pivottablejs (🥉18 · ⭐ 690 · 📉) - Dragndrop Pivot Tables and Charts for Jupyter/IPython Notebook,.. MIT"
     },
     {
       "description": null,
@@ -1121,10 +1121,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-11T19:49:45Z",
-            "open_issues": 333,
+            "open_issues": 337,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13719,
+            "stars": 13718,
             "topics": [
               "big-data-analytics",
               "data-analysis",
@@ -1166,7 +1166,7 @@
             "open_issues": 81,
             "owner": "PAIR-code",
             "repo": "facets",
-            "stars": 7332,
+            "stars": 7333,
             "topics": [
               "data-visualization",
               "machine-learning"
@@ -1206,7 +1206,7 @@
         {
           "node_type": "item",
           "title": "D-Tale",
-          "description": "(🥈24 · ⭐ 5.2K) - Visualizer for Pandas Data Structures. ❗️LGPL-2.1",
+          "description": "(🥈22 · ⭐ 5.2K · 📉) - Visualizer for Pandas Data Structures. ❗️LGPL-2.1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1518,7 +1518,7 @@
         {
           "node_type": "item",
           "title": "ipysheet",
-          "description": "(🥉16 · ⭐ 540 · 💀) - Spreadsheet in the Jupyter notebook. MIT",
+          "description": "(🥉17 · ⭐ 540 · 💀) - Spreadsheet in the Jupyter notebook. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1973,7 +1973,39 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "jupyter-server-proxy (🥇25 · ⭐ 400) - Jupyter notebook server extension to proxy web services. BSD-3"
+      "title": "jupyter-server-proxy (🥇24 · ⭐ 400) - Jupyter notebook server extension to proxy web services. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jupyter-contrib/jupyter_nbextensions_configurator",
+          "description": "(👨‍💻 24 · 🔀 120 · 📦 1.3K):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A jupyter notebook serverextension providing config interfaces for nbextensions.",
+            "homepage": null,
+            "id": 61915705,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2024-06-05T16:43:47Z",
+            "open_issues": 72,
+            "owner": "Jupyter-contrib",
+            "repo": "jupyter_nbextensions_configurator",
+            "stars": 980,
+            "topics": [
+              "jupyter",
+              "jupyter-nbextensions-configurator",
+              "jupyter-notebook",
+              "nbextension"
+            ]
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        }
+      ],
+      "title": "NBextensions Configurator (🥇23 · ⭐ 980 · 📈) - A jupyter notebook serverextension providing config.. BSD-3"
     },
     {
       "description": null,
@@ -2000,7 +2032,41 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Resource Usage (🥇23 · ⭐ 540 · 📉) - Jupyter Notebook Extension for monitoring your own Resource.. BSD-2"
+      "title": "Resource Usage (🥇23 · ⭐ 540) - Jupyter Notebook Extension for monitoring your own Resource.. BSD-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jupyter/nbgrader",
+          "description": "(👨‍💻 110 · 🔀 340 · 📦 3):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A system for assigning and grading notebooks",
+            "homepage": "https://nbgrader.readthedocs.io/",
+            "id": 23984796,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-10-01T07:06:40Z",
+            "open_issues": 292,
+            "owner": "jupyter",
+            "repo": "nbgrader",
+            "stars": 1373,
+            "topics": [
+              "grading",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterhub",
+              "nbgrader",
+              "teaching"
+            ]
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        }
+      ],
+      "title": "nbgrader (🥈22 · ⭐ 1.4K · 📈) - A system for assigning and grading notebooks. BSD-3"
     },
     {
       "description": null,
@@ -2008,7 +2074,7 @@
         {
           "node_type": "item",
           "title": "oschuett/appmode",
-          "description": "(👨‍💻 11 · 🔀 70 · 📦 390):",
+          "description": "(👨‍💻 12 · 🔀 70 · 📦 390):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2027,7 +2093,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Appmode (🥈21 · ⭐ 470) - A Jupyter extensions that turns notebooks into web applications. MIT"
+      "title": "Appmode (🥈21 · ⭐ 460) - A Jupyter extensions that turns notebooks into web applications. MIT"
     },
     {
       "description": null,
@@ -2086,7 +2152,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "jupyter-archive (🥈20 · ⭐ 90) - A Jupyter/Jupyterlab extension to make, download and extract.. BSD-3"
+      "title": "jupyter-archive (🥈19 · ⭐ 90) - A Jupyter/Jupyterlab extension to make, download and extract.. BSD-3"
     },
     {
       "description": null,
@@ -2233,34 +2299,6 @@
         },
         {
           "node_type": "item",
-          "title": "nbgrader",
-          "description": "(🥈20 · ⭐ 1.4K · 💀) - A system for assigning and grading notebooks. BSD-3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A system for assigning and grading notebooks",
-            "homepage": "https://nbgrader.readthedocs.io/",
-            "id": 23984796,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T07:06:40Z",
-            "open_issues": 292,
-            "owner": "jupyter",
-            "repo": "nbgrader",
-            "stars": 1373,
-            "topics": [
-              "grading",
-              "jupyter",
-              "jupyter-notebook",
-              "jupyterhub",
-              "nbgrader",
-              "teaching"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:02.238Z"
-        },
-        {
-          "node_type": "item",
           "title": "pyforest",
           "description": "(🥉17 · ⭐ 1.1K · 💀) - pyforest - feel the bliss of automated imports. MIT",
           "children": [],
@@ -2277,32 +2315,6 @@
             "repo": "pyforest",
             "stars": 1119,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:15:02.238Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NBextensions Configurator",
-          "description": "(🥈22 · ⭐ 980 · 💀) - A jupyter notebook serverextension providing config.. BSD-3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A jupyter notebook serverextension providing config interfaces for nbextensions.",
-            "homepage": null,
-            "id": 61915705,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2024-06-05T16:43:47Z",
-            "open_issues": 72,
-            "owner": "Jupyter-contrib",
-            "repo": "jupyter_nbextensions_configurator",
-            "stars": 980,
-            "topics": [
-              "jupyter",
-              "jupyter-nbextensions-configurator",
-              "jupyter-notebook",
-              "nbextension"
-            ]
           },
           "first_seen": "2026-08-28T21:15:02.238Z"
         },
@@ -2568,7 +2580,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Show 16 hidden projects..."
+      "title": "Show 14 hidden projects..."
     },
     {
       "description": null,
@@ -2595,47 +2607,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "ipython-sql (🥇26 · ⭐ 1.8K · 📈) - %%sql magic for IPython, hopefully evolving into full SQL client. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jupyter-incubator/sparkmagic",
-          "description": "(👨‍💻 73 · 🔀 440 · 📦 400):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Jupyter magics and kernels for working with remote Spark clusters",
-            "homepage": null,
-            "id": 42875585,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2025-09-09T14:08:11Z",
-            "open_issues": 167,
-            "owner": "jupyter-incubator",
-            "repo": "sparkmagic",
-            "stars": 1367,
-            "topics": [
-              "cluster",
-              "jupyter",
-              "jupyter-notebook",
-              "kerberos",
-              "kernel",
-              "livy",
-              "magic",
-              "notebook",
-              "pandas-dataframe",
-              "pyspark",
-              "spark",
-              "sql-query"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:02.238Z"
-        }
-      ],
-      "title": "sparkmagic (🥇22 · ⭐ 1.4K · 💤) - Jupyter magics and kernels for working with remote Spark.. BSD-3"
+      "title": "ipython-sql (🥇26 · ⭐ 1.8K) - %%sql magic for IPython, hopefully evolving into full SQL client. MIT"
     },
     {
       "description": null,
@@ -2701,8 +2673,42 @@
       "items": [
         {
           "node_type": "item",
+          "title": "sparkmagic",
+          "description": "(🥇22 · ⭐ 1.4K · 💀) - Jupyter magics and kernels for working with remote Spark.. BSD-3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Jupyter magics and kernels for working with remote Spark clusters",
+            "homepage": null,
+            "id": 42875585,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2025-09-09T14:08:11Z",
+            "open_issues": 167,
+            "owner": "jupyter-incubator",
+            "repo": "sparkmagic",
+            "stars": 1367,
+            "topics": [
+              "cluster",
+              "jupyter",
+              "jupyter-notebook",
+              "kerberos",
+              "kernel",
+              "livy",
+              "magic",
+              "notebook",
+              "pandas-dataframe",
+              "pyspark",
+              "spark",
+              "sql-query"
+            ]
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        },
+        {
+          "node_type": "item",
           "title": "heat",
-          "description": "(🥉13 · ⭐ 680 · 💀) - IPython magic command to profile and view your python code as a heat map. MIT",
+          "description": "(🥉16 · ⭐ 680 · 💀) - IPython magic command to profile and view your python code as a heat map. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2715,7 +2721,7 @@
             "open_issues": 2,
             "owner": "csurfer",
             "repo": "pyheatmagic",
-            "stars": 1029,
+            "stars": 1030,
             "topics": [
               "heatmap",
               "ipython",
@@ -2885,7 +2891,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Show 8 hidden projects..."
+      "title": "Show 9 hidden projects..."
     },
     {
       "description": null,
@@ -2893,7 +2899,7 @@
         {
           "node_type": "item",
           "title": "ipython/ipykernel",
-          "description": "(👨‍💻 200 · 🔀 400 · 📦 560K):",
+          "description": "(👨‍💻 200 · 🔀 410 · 📦 560K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3052,7 +3058,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "gophernotes (🥈19 · ⭐ 4K · 📈) - The Go kernel for Jupyter notebooks and nteract. MIT"
+      "title": "gophernotes (🥈19 · ⭐ 4K) - The Go kernel for Jupyter notebooks and nteract. MIT"
     },
     {
       "description": null,
@@ -3069,8 +3075,8 @@
             "id": 177417757,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T00:43:50Z",
-            "open_issues": 3029,
+            "last_commit": "2026-10-02T15:17:44Z",
+            "open_issues": 2997,
             "owner": "lfortran",
             "repo": "lfortran",
             "stars": 1246,
@@ -3138,7 +3144,7 @@
             "language": "Scala",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-30T18:37:42Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "almond-sh",
             "repo": "almond",
             "stars": 1627,
@@ -3213,38 +3219,6 @@
         }
       ],
       "title": "xeus-cling (🥈16 · ⭐ 3.2K · 💤) - Jupyter kernel for the C++ programming language. BSD-3"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SciRuby/iruby",
-          "description": "(👨‍💻 55 · 🔀 34 · 📦 900):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official gem repository: Ruby kernel for Jupyter/IPython Notebook",
-            "homepage": "https://github.com/SciRuby/iruby",
-            "id": 31613113,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2026-06-30T01:27:30Z",
-            "open_issues": 49,
-            "owner": "SciRuby",
-            "repo": "iruby",
-            "stars": 924,
-            "topics": [
-              "interactive",
-              "jupyter",
-              "repl",
-              "ruby"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:02.238Z"
-        }
-      ],
-      "title": "IRuby (🥈16 · ⭐ 930 · 💤) - Official gem repository: Ruby kernel for Jupyter/IPython Notebook. MIT"
     },
     {
       "description": null,
@@ -3327,7 +3301,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "xeus-sqlite (🥉13 · ⭐ 170) - Jupyter kernel for SQLite. BSD-3"
+      "title": "xeus-sqlite (🥉13 · ⭐ 170 · 💤) - Jupyter kernel for SQLite. BSD-3"
     },
     {
       "description": null,
@@ -3390,7 +3364,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "nbstata (🥉10 · ⭐ 56 · 💤) - A Jupyter kernel for Stata built on pystata. ❗️GPL-3.0"
+      "title": "nbstata (🥉12 · ⭐ 60 · 📈) - A Jupyter kernel for Stata built on pystata. ❗️GPL-3.0"
     },
     {
       "description": null,
@@ -3526,7 +3500,7 @@
             "open_issues": 75,
             "owner": "IRkernel",
             "repo": "IRkernel",
-            "stars": 1698,
+            "stars": 1697,
             "topics": [
               "jupyter",
               "jupyter-kernels",
@@ -3553,7 +3527,7 @@
             "open_issues": 49,
             "owner": "WolframResearch",
             "repo": "WolframLanguageForJupyter",
-            "stars": 1217,
+            "stars": 1216,
             "topics": [
               "jupyter",
               "jupyter-kernels",
@@ -3585,6 +3559,32 @@
               "java",
               "jupyter",
               "jupyter-kernels"
+            ]
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        },
+        {
+          "node_type": "item",
+          "title": "IRuby",
+          "description": "(🥈16 · ⭐ 930 · 💀) - Official gem repository: Ruby kernel for Jupyter/IPython Notebook. MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official gem repository: Ruby kernel for Jupyter/IPython Notebook",
+            "homepage": "https://github.com/SciRuby/iruby",
+            "id": 31613113,
+            "language": "Ruby",
+            "license": "MIT",
+            "last_commit": "2026-06-30T01:27:30Z",
+            "open_issues": 49,
+            "owner": "SciRuby",
+            "repo": "iruby",
+            "stars": 924,
+            "topics": [
+              "interactive",
+              "jupyter",
+              "repl",
+              "ruby"
             ]
           },
           "first_seen": "2026-08-28T21:15:02.238Z"
@@ -3672,7 +3672,7 @@
             "open_issues": 88,
             "owner": "jupyter-server",
             "repo": "enterprise_gateway",
-            "stars": 668,
+            "stars": 667,
             "topics": [
               "enterprise",
               "gateway",
@@ -3707,7 +3707,7 @@
             "open_issues": 25,
             "owner": "jupyter-server",
             "repo": "kernel_gateway",
-            "stars": 563,
+            "stars": 562,
             "topics": [
               "jupyter",
               "jupyter-kernels"
@@ -4087,7 +4087,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "Show 27 hidden projects..."
+      "title": "Show 28 hidden projects..."
     },
     {
       "description": null,
@@ -4114,7 +4114,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "nbconvert (🥇33 · ⭐ 1.9K) - Jupyter Notebook Conversion. BSD-3"
+      "title": "nbconvert (🥇32 · ⭐ 1.9K · 📉) - Jupyter Notebook Conversion. BSD-3"
     },
     {
       "description": null,
@@ -4135,7 +4135,7 @@
             "open_issues": 331,
             "owner": "voila-dashboards",
             "repo": "voila",
-            "stars": 5946,
+            "stars": 5947,
             "topics": [
               "dashboarding",
               "jupyter",
@@ -4154,7 +4154,7 @@
         {
           "node_type": "item",
           "title": "jupyter/nbdime",
-          "description": "(👨‍💻 57 · 🔀 180 · 📦 13K):",
+          "description": "(👨‍💻 57 · 🔀 190 · 📦 13K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4187,7 +4187,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "nbdime (🥈25 · ⭐ 2.8K · 💤) - Tools for diffing and merging of Jupyter notebooks. BSD-3"
+      "title": "nbdime (🥈25 · ⭐ 2.8K) - Tools for diffing and merging of Jupyter notebooks. BSD-3"
     },
     {
       "description": null,
@@ -4195,7 +4195,7 @@
         {
           "node_type": "item",
           "title": "danielfrg/mkdocs-jupyter",
-          "description": "(👨‍💻 39 · 🔀 65 · 📦 5.4K):",
+          "description": "(👨‍💻 39 · 🔀 65 · 📦 5.5K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4220,7 +4220,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "mkdocs-jupyter (🥈25 · ⭐ 500) - Use Jupyter Notebook in mkdocs. Apache-2"
+      "title": "mkdocs-jupyter (🥈24 · ⭐ 500) - Use Jupyter Notebook in mkdocs. Apache-2"
     },
     {
       "description": null,
@@ -4228,7 +4228,7 @@
         {
           "node_type": "item",
           "title": "damianavila/RISE",
-          "description": "(👨‍💻 44 · 🔀 420 · 📦 3.1K):",
+          "description": "(👨‍💻 44 · 🔀 420 · 📦 3.2K):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4241,7 +4241,7 @@
             "open_issues": 162,
             "owner": "damianavila",
             "repo": "RISE",
-            "stars": 3737,
+            "stars": 3736,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:02.238Z"
@@ -4264,8 +4264,8 @@
             "id": 5303123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T02:03:56Z",
-            "open_issues": 195,
+            "last_commit": "2026-10-01T21:57:46Z",
+            "open_issues": 198,
             "owner": "jupyter",
             "repo": "nbviewer",
             "stars": 2282,
@@ -4295,7 +4295,7 @@
             "id": 4503128,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T04:47:40Z",
+            "last_commit": "2026-10-02T13:11:52Z",
             "open_issues": 146,
             "owner": "stencila",
             "repo": "stencila",
@@ -4374,7 +4374,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "commuter (🥉14 · ⭐ 500) - Notebook sharing hub. BSD-3"
+      "title": "commuter (🥉15 · ⭐ 500) - Notebook sharing hub. BSD-3"
     },
     {
       "description": null,
@@ -4391,8 +4391,8 @@
             "id": 78565565,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T20:09:42Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-02T13:39:56Z",
+            "open_issues": 44,
             "owner": "nbgallery",
             "repo": "nbgallery",
             "stars": 150,
@@ -4414,7 +4414,7 @@
         {
           "node_type": "item",
           "title": "Knowledge Repo",
-          "description": "(🥉18 · ⭐ 5.5K · 💀) - A next-generation curated knowledge sharing platform.. Apache-2",
+          "description": "(🥈25 · ⭐ 5.5K · 💀) - A next-generation curated knowledge sharing platform.. Apache-2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4799,7 +4799,7 @@
             "open_issues": 23,
             "owner": "nbQA-dev",
             "repo": "nbQA",
-            "stars": 1206,
+            "stars": 1207,
             "topics": [
               "black",
               "codequality",
@@ -4852,7 +4852,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "repo2docker (🥈20 · ⭐ 1.7K) - Turn repositories into Jupyter-enabled Docker images. BSD-3"
+      "title": "repo2docker (🥉19 · ⭐ 1.7K) - Turn repositories into Jupyter-enabled Docker images. BSD-3"
     },
     {
       "description": null,
@@ -4873,7 +4873,7 @@
             "open_issues": 4,
             "owner": "mljar",
             "repo": "mercury",
-            "stars": 4355,
+            "stars": 4353,
             "topics": [
               "data-science",
               "data-visualization",
@@ -4968,7 +4968,7 @@
         {
           "node_type": "item",
           "title": "ipyparallel",
-          "description": "(🥈22 · ⭐ 2.6K) - IPython Parallel: Interactive Parallel Computing in Python. ❗Unlicensed",
+          "description": "(🥈21 · ⭐ 2.6K) - IPython Parallel: Interactive Parallel Computing in Python. ❗Unlicensed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4977,7 +4977,7 @@
             "id": 33655518,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T07:13:52Z",
+            "last_commit": "2026-10-01T18:14:14Z",
             "open_issues": 77,
             "owner": "ipython",
             "repo": "ipyparallel",
@@ -5006,7 +5006,7 @@
             "open_issues": 164,
             "owner": "pixiedust",
             "repo": "pixiedust",
-            "stars": 1040,
+            "stars": 1041,
             "topics": [
               "data-science",
               "jupyter-notebook",
@@ -5339,7 +5339,7 @@
         {
           "node_type": "item",
           "title": "Kernel Management",
-          "description": "(🥉9 · 💀) - Experimental. BSD-3",
+          "description": "(🥉10 · 💀) - Experimental. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5426,7 +5426,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "JupyterLab Renderers (🥈17 · ⭐ 520) - Renderers and renderer extensions for JupyterLab. BSD-3"
+      "title": "JupyterLab Renderers (🥇18 · ⭐ 520 · 💤) - Renderers and renderer extensions for JupyterLab. BSD-3"
     },
     {
       "description": null,
@@ -5509,7 +5509,7 @@
         {
           "node_type": "item",
           "title": "JupyterLab Spreadsheet",
-          "description": "(🥉13 · ⭐ 200 · 💀) - JupyterLab plugin for viewing spreadsheets, such as.. BSD-3",
+          "description": "(🥉14 · ⭐ 200 · 💀) - JupyterLab plugin for viewing spreadsheets, such as.. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5822,7 +5822,7 @@
             "id": 94917848,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T13:44:05Z",
+            "last_commit": "2026-10-02T06:37:06Z",
             "open_issues": 147,
             "owner": "jupyterlab",
             "repo": "jupyterlab-git",
@@ -5837,6 +5837,37 @@
         }
       ],
       "title": "JupyterLab Git (🥇26 · ⭐ 1.6K) - A Git extension for JupyterLab. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jupyterlab/jupyterlab-toc",
+          "description": "(👨‍💻 14 · 🔀 4.1K):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Table of Contents extension for JupyterLab",
+            "homepage": null,
+            "id": 124914240,
+            "language": "TypeScript",
+            "license": "BSD-3-Clause",
+            "last_commit": "2022-07-07T04:18:47Z",
+            "open_issues": 75,
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-toc",
+            "stars": 728,
+            "topics": [
+              "jupyter",
+              "jupyterlab",
+              "jupyterlab-extension"
+            ]
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        }
+      ],
+      "title": "JupyterLab TOC (🥇24 · ⭐ 15K) - Table of Contents extension for JupyterLab. BSD-3"
     },
     {
       "description": null,
@@ -5878,38 +5909,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "JupyterLab LSP (🥇25 · ⭐ 2K) - Coding assistance for JupyterLab (code navigation + hover.. BSD-3"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jupyterlab/jupyterlab-toc",
-          "description": "(👨‍💻 14 · 🔀 4.1K):",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Table of Contents extension for JupyterLab",
-            "homepage": null,
-            "id": 124914240,
-            "language": "TypeScript",
-            "license": "BSD-3-Clause",
-            "last_commit": "2022-07-07T04:18:47Z",
-            "open_issues": 75,
-            "owner": "jupyterlab",
-            "repo": "jupyterlab-toc",
-            "stars": 728,
-            "topics": [
-              "jupyter",
-              "jupyterlab",
-              "jupyterlab-extension"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:02.238Z"
-        }
-      ],
-      "title": "JupyterLab TOC (🥇24 · ⭐ 15K) - Table of Contents extension for JupyterLab. BSD-3"
+      "title": "JupyterLab LSP (🥇24 · ⭐ 2K) - Coding assistance for JupyterLab (code navigation + hover.. BSD-3"
     },
     {
       "description": null,
@@ -5926,8 +5926,8 @@
             "id": 216914329,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T07:58:05Z",
-            "open_issues": 264,
+            "last_commit": "2026-10-01T20:06:15Z",
+            "open_issues": 265,
             "owner": "elyra-ai",
             "repo": "elyra",
             "stars": 1997,
@@ -5995,6 +5995,33 @@
       "items": [
         {
           "node_type": "item",
+          "title": "rapidsai/jupyterlab-nvdashboard",
+          "description": "(👨‍💻 27 · 🔀 86 · 📦 3):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A JupyterLab extension for displaying dashboards of GPU usage.",
+            "homepage": null,
+            "id": 201956456,
+            "language": "TypeScript",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-10-01T19:03:35Z",
+            "open_issues": 34,
+            "owner": "rapidsai",
+            "repo": "jupyterlab-nvdashboard",
+            "stars": 680,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:15:02.238Z"
+        }
+      ],
+      "title": "GPU Dashboards (🥈20 · ⭐ 670) - A JupyterLab extension for displaying dashboards of GPU usage. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "jupyterlab-contrib/spellchecker",
           "description": "(👨‍💻 7 · 🔀 22 · 📦 340):",
           "children": [],
@@ -6018,34 +6045,7 @@
           "first_seen": "2026-08-28T21:15:02.238Z"
         }
       ],
-      "title": "JupyterLab Spellchecker (🥇21 · ⭐ 210) - Spellchecker for JupyterLab notebook markdown cells.. BSD-3"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rapidsai/jupyterlab-nvdashboard",
-          "description": "(👨‍💻 27 · 🔀 86 · 📦 3):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A JupyterLab extension for displaying dashboards of GPU usage.",
-            "homepage": null,
-            "id": 201956456,
-            "language": "TypeScript",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T14:26:15Z",
-            "open_issues": 34,
-            "owner": "rapidsai",
-            "repo": "jupyterlab-nvdashboard",
-            "stars": 680,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:15:02.238Z"
-        }
-      ],
-      "title": "GPU Dashboards (🥈20 · ⭐ 670) - A JupyterLab extension for displaying dashboards of GPU usage. BSD-3"
+      "title": "JupyterLab Spellchecker (🥈20 · ⭐ 210) - Spellchecker for JupyterLab notebook markdown cells.. BSD-3"
     },
     {
       "description": null,
@@ -6053,7 +6053,7 @@
         {
           "node_type": "item",
           "title": "jpmorganchase/jupyter-fs",
-          "description": "(👨‍💻 22 · 🔀 48 · 📦 16):",
+          "description": "(👨‍💻 23 · 🔀 48 · 📦 16):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6086,7 +6086,7 @@
         {
           "node_type": "item",
           "title": "deshaw/jupyterlab-execute-time",
-          "description": "(👨‍💻 23 · 🔀 50 · 📦 3):",
+          "description": "(👨‍💻 24 · 🔀 50 · 📦 3):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6099,7 +6099,7 @@
             "open_issues": 14,
             "owner": "deshaw",
             "repo": "jupyterlab-execute-time",
-            "stars": 403,
+            "stars": 404,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:02.238Z"
@@ -6181,7 +6181,7 @@
             "id": 124823433,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T13:53:39Z",
+            "last_commit": "2026-10-02T00:53:19Z",
             "open_issues": 4,
             "owner": "timkpaine",
             "repo": "jupyterlab-iframe",
@@ -6244,8 +6244,8 @@
             "id": 143177684,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:05:21Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-01T18:24:55Z",
+            "open_issues": 1,
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
             "stars": 63,
@@ -6414,7 +6414,7 @@
             "open_issues": 38,
             "owner": "microsoft",
             "repo": "gather",
-            "stars": 533,
+            "stars": 532,
             "topics": [
               "jupyterlab-extension"
             ]
@@ -6501,7 +6501,7 @@
         {
           "node_type": "item",
           "title": "Lantern",
-          "description": "(🥉11 · ⭐ 250 · 💀) - Data exploration glue. Apache-2",
+          "description": "(🥉10 · ⭐ 250 · 💀) - Data exploration glue. Apache-2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6854,7 +6854,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T02:23:17Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "jpmorganchase",
             "repo": "nbcelltests",
             "stars": 97,
@@ -6962,7 +6962,7 @@
             "id": 143883226,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T13:55:59Z",
+            "last_commit": "2026-10-02T00:04:04Z",
             "open_issues": 2,
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
@@ -6989,7 +6989,7 @@
             "id": 143883226,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T13:55:59Z",
+            "last_commit": "2026-10-02T00:04:04Z",
             "open_issues": 2,
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
@@ -7405,7 +7405,7 @@
         {
           "node_type": "item",
           "title": "Keberos Authenticator",
-          "description": "(🥉10 · ⭐ 12) - A JupyterHub authenticator using Kerberos. BSD-3",
+          "description": "(🥉11 · ⭐ 12) - A JupyterHub authenticator using Kerberos. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7471,7 +7471,7 @@
         {
           "node_type": "item",
           "title": "Hash Authenticator",
-          "description": "(🥉11 · ⭐ 4) - Authenticate users with passwords generated from their.. BSD-3",
+          "description": "(🥉10 · ⭐ 4) - Authenticate users with passwords generated from their.. BSD-3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7492,7 +7492,7 @@
         {
           "node_type": "item",
           "title": "Remote Authenticator",
-          "description": "(🥉8 · ⭐ 2 · 💤) - A collection of JupyterHub Authenticators, including.. ❗️GPL-3.0",
+          "description": "(🥉8 · ⭐ 2 · 💀) - A collection of JupyterHub Authenticators, including.. ❗️GPL-3.0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7521,7 +7521,7 @@
         {
           "node_type": "item",
           "title": "jupyterhub/kubespawner",
-          "description": "(👨‍💻 96 · 🔀 310):",
+          "description": "(👨‍💻 97 · 🔀 310):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7598,7 +7598,7 @@
             "open_issues": 30,
             "owner": "jupyterhub",
             "repo": "systemdspawner",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "jupyter",
               "jupyterhub",
@@ -7739,7 +7739,7 @@
             "open_issues": 1305,
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16786,
+            "stars": 16785,
             "topics": [
               "closember",
               "data-science",
@@ -7858,7 +7858,7 @@
             "open_issues": 1,
             "owner": "datapane",
             "repo": "datapane",
-            "stars": 1397,
+            "stars": 1398,
             "topics": [
               "dashboard",
               "data-visualization",
@@ -7911,7 +7911,7 @@
             "open_issues": 58,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23840,
+            "stars": 23841,
             "topics": [
               "automl",
               "chatgpt",
@@ -7948,7 +7948,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-30T23:57:54Z",
+            "last_commit": "2026-10-01T23:58:31Z",
             "open_issues": 8,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -8015,11 +8015,11 @@
             "id": 326066116,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-25T08:10:08Z",
+            "last_commit": "2026-10-01T21:10:16Z",
             "open_issues": 22,
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1242,
+            "stars": 1243,
             "topics": [
               "awesome",
               "best-of",
@@ -8057,11 +8057,11 @@
             "id": 326066116,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-25T08:10:08Z",
+            "last_commit": "2026-10-01T21:10:16Z",
             "open_issues": 22,
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1242,
+            "stars": 1243,
             "topics": [
               "awesome",
               "best-of",
@@ -8092,7 +8092,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:07:49.861Z",
+    "last_updated": "2026-10-02T16:21:25.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.",
@@ -8100,11 +8100,11 @@
       "id": 326066116,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-09-25T08:10:08Z",
+      "last_commit": "2026-10-01T21:10:16Z",
       "open_issues": 22,
       "owner": "ml-tooling",
       "repo": "best-of-jupyter",
-      "stars": 1242,
+      "stars": 1243,
       "topics": [
         "awesome",
         "best-of",
@@ -8128,7 +8128,7 @@
         "python"
       ]
     },
-    "original_repository_sha": "d50753a707da66a8bd0bdf75c8fbb72802578d95",
+    "original_repository_sha": "7f2eb4bc951392f36911fc7da064a098c83aabb8",
     "enhanced_repository": "enhansome/enhansome-best-of-jupyter",
     "enhanced_repository_description": null,
     "title": "Awesome best of jupyter with stars"
