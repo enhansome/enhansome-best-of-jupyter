@@ -75,16 +75,16 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 <details><summary><b><a href="https://github.com/jupyter/notebook">Jupyter</a></b> (🥇36 ·  ⭐ 15K) - Jupyter Interactive Notebook. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyter/notebook) ⭐ 13,460 | 🐛 1,889 | 🌐 Jupyter Notebook | 📅 2026-10-29 (👨‍💻 670 · 🔀 5.8K · 📦 380K):
+* [GitHub](https://github.com/jupyter/notebook) ⭐ 13,461 | 🐛 1,889 | 🌐 Jupyter Notebook | 📅 2026-10-30 (👨‍💻 670 · 🔀 5.8K · 📦 380K):
 
   ```
   git clone https://github.com/jupyter/notebook
   ```
-* [PyPi](https://pypi.org/project/notebook) (📥 29M / month · 📦 3.9K · ⏱️ 05.10.2026):
+* [PyPi](https://pypi.org/project/notebook) (📥 29M / month · 📦 3.9K · ⏱️ 29.10.2026):
   ```
   pip install notebook
   ```
-* [Conda](https://anaconda.org/conda-forge/jupyter) (📥 7.7M · ⏱️ 22.04.2025):
+* [Conda](https://anaconda.org/conda-forge/jupyter) (📥 7.8M · ⏱️ 22.04.2025):
   ```
   conda install -c conda-forge jupyter
   ```
@@ -96,20 +96,20 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/jupyterlab/jupyterlab">JupyterLab</a></b> (🥇34 ·  ⭐ 15K) - JupyterLab computational environment. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyterlab/jupyterlab) ⭐ 15,380 | 🐛 2,620 | 🌐 TypeScript | 📅 2026-10-29 (👨‍💻 740 · 🔀 4.1K · 📦 22K):
+* [GitHub](https://github.com/jupyterlab/jupyterlab) ⭐ 15,381 | 🐛 2,607 | 🌐 TypeScript | 📅 2026-10-30 (👨‍💻 750 · 🔀 4.1K · 📦 22K):
 
   ```
   git clone https://github.com/jupyterlab/jupyterlab
   ```
-* [PyPi](https://pypi.org/project/jupyterlab) (📥 30M / month · 📦 5.5K · ⏱️ 21.09.2026):
+* [PyPi](https://pypi.org/project/jupyterlab) (📥 30M / month · 📦 5.6K · ⏱️ 29.10.2026):
   ```
   pip install jupyterlab
   ```
-* [Conda](https://anaconda.org/conda-forge/jupyterlab) (📥 26M · ⏱️ 21.09.2026):
+* [Conda](https://anaconda.org/conda-forge/jupyterlab) (📥 26M · ⏱️ 29.10.2026):
   ```
   conda install -c conda-forge jupyterlab
   ```
-* [npm](https://www.npmjs.com/package/@jupyterlab/ui-components) (📥 330K / month · 📦 550 · ⏱️ 21.09.2026):
+* [npm](https://www.npmjs.com/package/@jupyterlab/ui-components) (📥 310K / month · 📦 580 · ⏱️ 29.10.2026):
   ```
   npm install @jupyterlab/ui-components
   ```
@@ -117,22 +117,39 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/jupyterhub/jupyterhub">JupyterHub</a></b> (🥈30 ·  ⭐ 8.7K) - Multi-user server for Jupyter notebooks. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyterhub/jupyterhub) ⭐ 8,359 | 🐛 207 | 🌐 Python | 📅 2026-10-27 (👨‍💻 400 · 🔀 2.1K · 📦 3.7K):
+* [GitHub](https://github.com/jupyterhub/jupyterhub) ⭐ 8,360 | 🐛 207 | 🌐 Python | 📅 2026-10-29 (👨‍💻 400 · 🔀 2.1K · 📦 3.7K):
 
   ```
   git clone https://github.com/jupyterhub/jupyterhub
   ```
-* [PyPi](https://pypi.org/project/jupyterhub) (📥 260K / month · 📦 260 · ⏱️ 14.10.2026):
+* [PyPi](https://pypi.org/project/jupyterhub) (📥 260K / month · 📦 260 · ⏱️ 20.10.2026):
   ```
   pip install jupyterhub
   ```
-* [Conda](https://anaconda.org/conda-forge/jupyterhub) (📥 1.8M · ⏱️ 14.10.2026):
+* [Conda](https://anaconda.org/conda-forge/jupyterhub) (📥 1.8M · ⏱️ 20.10.2026):
   ```
   conda install -c conda-forge jupyterhub
   ```
-* [Docker Hub](https://hub.docker.com/r/jupyterhub/jupyterhub) (📥 7.2M · ⭐ 350 · ⏱️ 14.10.2026):
+* [Docker Hub](https://hub.docker.com/r/jupyterhub/jupyterhub) (📥 7.3M · ⭐ 350 · ⏱️ 28.10.2026):
   ```
   docker pull jupyterhub/jupyterhub
+  ```
+
+</details>
+<details><summary><b><a href="https://github.com/nteract/nteract">nteract</a></b> (🥈22 ·  ⭐ 6.3K · 📈) - Were back! Now firing notebooks out of a t-shirt gun. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+* [GitHub](https://github.com/nteract/nteract) ⭐ 190 | 🐛 50 | 🌐 Rust | 📅 2026-10-30 (👨‍💻 220 · 🔀 550):
+
+  ```
+  git clone https://github.com/nteract/nteract
+  ```
+* [PyPi](https://pypi.org/project/nteract_on_jupyter) (📥 640 / month · ⏱️ 16.07.2019):
+  ```
+  pip install nteract_on_jupyter
+  ```
+* [npm](https://www.npmjs.com/package/@nteract/messaging) (📥 12K / month · 📦 31 · ⏱️ 22.10.2021):
+  ```
+  npm install @nteract/messaging
   ```
 
 </details>
@@ -153,26 +170,9 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
 
 </details>
-<details><summary><b><a href="https://github.com/nteract/nteract">nteract</a></b> (🥈21 ·  ⭐ 6.3K) - Were back! Now firing notebooks out of a t-shirt gun. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-* [GitHub](https://github.com/nteract/nteract) ⭐ 189 | 🐛 41 | 🌐 Rust | 📅 2026-10-29 (👨‍💻 140 · 🔀 550):
-
-  ```
-  git clone https://github.com/nteract/nteract
-  ```
-* [PyPi](https://pypi.org/project/nteract_on_jupyter) (📥 640 / month · ⏱️ 16.07.2019):
-  ```
-  pip install nteract_on_jupyter
-  ```
-* [npm](https://www.npmjs.com/package/@nteract/messaging) (📥 18K / month · 📦 31 · ⏱️ 22.10.2021):
-  ```
-  npm install @nteract/messaging
-  ```
-
-</details>
 <details><summary><b><a href="https://github.com/microsoft/vscode-jupyter">VSCode Jupyter</a></b> (🥉18 ·  ⭐ 1.4K · 💤) - VS Code Jupyter extension. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/microsoft/vscode-jupyter) ⭐ 1,545 | 🐛 276 | 🌐 TypeScript | 📅 2026-10-26 (👨‍💻 290 · 🔀 350 · 📦 3):
+* [GitHub](https://github.com/microsoft/vscode-jupyter) ⭐ 1,545 | 🐛 277 | 🌐 TypeScript | 📅 2026-10-30 (👨‍💻 290 · 🔀 350 · 📦 3):
 
   ```
   git clone https://github.com/microsoft/vscode-jupyter
@@ -185,12 +185,12 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/kaggle/docker-python">docker-python</a></b> (🥉17 ·  ⭐ 2.9K) - Kaggle Python docker image. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/kaggle/docker-python) ⭐ 2,743 | 🐛 35 | 🌐 Python | 📅 2026-10-22 (👨‍💻 170 · 🔀 1K):
+* [GitHub](https://github.com/kaggle/docker-python) ⭐ 2,743 | 🐛 36 | 🌐 Python | 📅 2026-10-29 (👨‍💻 170 · 🔀 1K):
 
   ```
   git clone https://github.com/kaggle/docker-python
   ```
-* [Docker Hub](https://hub.docker.com/r/kaggle/python) (📥 210K · ⭐ 190 · ⏱️ 01.10.2026):
+* [Docker Hub](https://hub.docker.com/r/kaggle/python) (📥 210K · ⭐ 190 · ⏱️ 22.10.2026):
   ```
   docker pull kaggle/python
   ```
@@ -207,14 +207,14 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary>Show 8 hidden projects...</summary>
 
-* <b>[Docker Stacks](https://github.com/jupyter/docker-stacks) ⭐ 8,472 | 🐛 15 | 🌐 Python | 📅 2026-10-26</b> (🥈23 ·  ⭐ 8.8K · 💀) - Ready-to-run Docker images containing Jupyter applications. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[Docker Stacks](https://github.com/jupyter/docker-stacks) ⭐ 8,473 | 🐛 15 | 🌐 Python | 📅 2026-10-26</b> (🥈23 ·  ⭐ 8.8K · 💀) - Ready-to-run Docker images containing Jupyter applications. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,551 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-26</b> (🥉14 ·  ⭐ 3.5K · 💀) - All-in-one web-based IDE specialized for machine learning.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[DataLab](https://github.com/googledatalab/datalab) ⚠️ Archived</b> (🥉16 ·  ⭐ 980 · 💀) - Interactive tools and developer experiences for Big Data on.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter) ⭐ 768 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-11</b> (🥉10 ·  ⭐ 690 · 💀) - GPU-Jupyter: Leverage the flexibility of Jupyterlab through.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[ML Hub](https://github.com/ml-tooling/ml-hub) ⭐ 322 | 🐛 17 | 🌐 Python | 📅 2021-12-23</b> (🥉11 ·  ⭐ 320 · 💀) - Multi-user development platform for machine learning teams. Simple.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[jupyverse](https://github.com/jupyter-server/jupyverse) ⭐ 297 | 🐛 38 | 🌐 Python | 📅 2026-10-26</b> (🥉17 ·  ⭐ 300) - Modern Jupyter server based on FastAPI. <code>❗Unlicensed</code>
+* <b>[jupyverse](https://github.com/jupyter-server/jupyverse) ⭐ 297 | 🐛 35 | 🌐 Python | 📅 2026-10-30</b> (🥉17 ·  ⭐ 300) - Modern Jupyter server based on FastAPI. <code>❗Unlicensed</code>
 * <b>[retrolab](https://github.com/jupyterlab/retrolab) ⚠️ Archived</b> (🥈19 ·  ⭐ 280 · 💀) - JupyterLab distribution with a retro look and feel. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-* <b>[jupyterlite](https://github.com/jtpio/jupyterlite) ⭐ 113 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-29</b> (🥉6 ·  ⭐ 13 · 💀) - Wasm powered Jupyter running in the browser. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[jupyterlite](https://github.com/jtpio/jupyterlite) ⭐ 113 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-30</b> (🥉6 ·  ⭐ 13 · 💀) - Wasm powered Jupyter running in the browser. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 
 </details>
 <br>
@@ -225,16 +225,16 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 *Extensions that provide interactive UI-widgets and visualization tools.*
 
-🔗 <b>[best-of-ml-python - Data Visualization](https://github.com/ml-tooling/best-of-ml-python#data-visualization) ⭐ 23,848 | 🐛 58 | 📅 2026-10-29</b>  - Python-based data visualization libraries.
+🔗 <b>[best-of-ml-python - Data Visualization](https://github.com/ml-tooling/best-of-ml-python#data-visualization) ⭐ 23,849 | 🐛 58 | 📅 2026-10-29</b>  - Python-based data visualization libraries.
 
 <details><summary><b><a href="https://github.com/bokeh/bokeh">bokeh</a></b> (🥇34 ·  ⭐ 20K) - Interactive Data Visualization in the browser, from Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/bokeh/bokeh) ⭐ 20,465 | 🐛 790 | 🌐 TypeScript | 📅 2026-10-29 (👨‍💻 750 · 🔀 4.3K · 📦 110K):
+* [GitHub](https://github.com/bokeh/bokeh) ⭐ 20,465 | 🐛 791 | 🌐 TypeScript | 📅 2026-10-30 (👨‍💻 750 · 🔀 4.3K · 📦 110K):
 
   ```
   git clone https://github.com/bokeh/bokeh
   ```
-* [PyPi](https://pypi.org/project/bokeh) (📥 5.2M / month · 📦 2.6K · ⏱️ 13.10.2026):
+* [PyPi](https://pypi.org/project/bokeh) (📥 5.2M / month · 📦 2.6K · ⏱️ 26.10.2026):
   ```
   pip install bokeh
   ```
@@ -242,7 +242,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge bokeh
   ```
-* [npm](https://www.npmjs.com/package/@bokeh/bokehjs) (📥 58K / month · 📦 23 · ⏱️ 13.10.2026):
+* [npm](https://www.npmjs.com/package/@bokeh/bokehjs) (📥 50K / month · 📦 23 · ⏱️ 26.10.2026):
   ```
   npm install @bokeh/bokehjs
   ```
@@ -271,20 +271,20 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/holoviz/panel">panel</a></b> (🥇30 ·  ⭐ 5.8K) - Panel: The powerful data exploration & web app framework for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/holoviz/panel) ⭐ 5,807 | 🐛 885 | 🌐 Python | 📅 2026-10-29 (👨‍💻 280 · 🔀 640 · 📦 19K):
+* [GitHub](https://github.com/holoviz/panel) ⭐ 5,807 | 🐛 908 | 🌐 Python | 📅 2026-10-30 (👨‍💻 290 · 🔀 650 · 📦 19K):
 
   ```
   git clone https://github.com/holoviz/panel
   ```
-* [PyPi](https://pypi.org/project/panel) (📥 1.2M / month · 📦 750 · ⏱️ 14.10.2026):
+* [PyPi](https://pypi.org/project/panel) (📥 1.2M / month · 📦 750 · ⏱️ 23.10.2026):
   ```
   pip install panel
   ```
-* [Conda](https://anaconda.org/conda-forge/panel) (📥 3.1M · ⏱️ 18.08.2026):
+* [Conda](https://anaconda.org/conda-forge/panel) (📥 3.1M · ⏱️ 23.10.2026):
   ```
   conda install -c conda-forge panel
   ```
-* [npm](https://www.npmjs.com/package/@holoviz/panel) (📥 8.4K / month · 📦 5 · ⏱️ 14.10.2026):
+* [npm](https://www.npmjs.com/package/@holoviz/panel) (📥 7.4K / month · 📦 5 · ⏱️ 23.10.2026):
   ```
   npm install @holoviz/panel
   ```
@@ -292,7 +292,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/evidentlyai/evidently">evidently</a></b> (🥇28 ·  ⭐ 7.9K) - Evidently is an open-source ML and LLM observability framework... <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/evidentlyai/evidently) ⭐ 8,023 | 🐛 352 | 🌐 Jupyter Notebook | 📅 2026-09-29 (👨‍💻 97 · 🔀 920 · 📦 7.1K):
+* [GitHub](https://github.com/evidentlyai/evidently) ⭐ 8,024 | 🐛 352 | 🌐 Jupyter Notebook | 📅 2026-09-29 (👨‍💻 97 · 🔀 920 · 📦 7.1K):
 
   ```
   git clone https://github.com/evidentlyai/evidently
@@ -309,7 +309,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/nteract/papermill">papermill</a></b> (🥇27 ·  ⭐ 6.4K) - Parameterize, execute, and analyze notebooks. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/nteract/papermill) ⭐ 6,496 | 🐛 198 | 🌐 Python | 📅 2026-10-05 (👨‍💻 130 · 🔀 450 · 📦 8.4K):
+* [GitHub](https://github.com/nteract/papermill) ⭐ 6,498 | 🐛 198 | 🌐 Python | 📅 2026-10-05 (👨‍💻 130 · 🔀 450 · 📦 8.5K):
 
   ```
   git clone https://github.com/nteract/papermill
@@ -335,11 +335,11 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install ipympl
   ```
-* [Conda](https://anaconda.org/conda-forge/ipympl) (📥 2.9M · ⏱️ 24.01.2026):
+* [Conda](https://anaconda.org/conda-forge/ipympl) (📥 3M · ⏱️ 24.01.2026):
   ```
   conda install -c conda-forge ipympl
   ```
-* [npm](https://www.npmjs.com/package/jupyter-matplotlib) (📥 28K / month · 📦 7 · ⏱️ 21.01.2026):
+* [npm](https://www.npmjs.com/package/jupyter-matplotlib) (📥 27K / month · 📦 7 · ⏱️ 21.01.2026):
   ```
   npm install jupyter-matplotlib
   ```
@@ -347,7 +347,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/mwouts/itables">itables</a></b> (🥈25 ·  ⭐ 980) - Python DataFrames as Interactive DataTables. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/mwouts/itables) ⭐ 980 | 🐛 45 | 🌐 Python | 📅 2026-10-16 (👨‍💻 25 · 🔀 62 · 📦 1.6K):
+* [GitHub](https://github.com/mwouts/itables) ⭐ 980 | 🐛 46 | 🌐 Python | 📅 2026-10-30 (👨‍💻 25 · 🔀 62 · 📦 1.6K):
 
   ```
   git clone https://github.com/mwouts/itables
@@ -356,7 +356,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install itables
   ```
-* [Conda](https://anaconda.org/conda-forge/itables) (📥 420K · ⏱️ 24.07.2026):
+* [Conda](https://anaconda.org/conda-forge/itables) (📥 430K · ⏱️ 24.07.2026):
   ```
   conda install -c conda-forge itables
   ```
@@ -364,7 +364,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/bqplot/bqplot">bqplot</a></b> (🥈24 ·  ⭐ 3.7K) - Plotting library for IPython/Jupyter notebooks. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/bqplot/bqplot) ⭐ 3,693 | 🐛 278 | 🌐 TypeScript | 📅 2026-10-27 (👨‍💻 72 · 🔀 480 · 📦 65):
+* [GitHub](https://github.com/bqplot/bqplot) ⭐ 3,693 | 🐛 278 | 🌐 TypeScript | 📅 2026-10-27 (👨‍💻 73 · 🔀 480 · 📦 65):
 
   ```
   git clone https://github.com/bqplot/bqplot
@@ -377,7 +377,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge bqplot
   ```
-* [npm](https://www.npmjs.com/package/bqplot) (📥 3.4K / month · 📦 23 · ⏱️ 15.07.2026):
+* [npm](https://www.npmjs.com/package/bqplot) (📥 2.3K / month · 📦 23 · ⏱️ 15.07.2026):
   ```
   npm install bqplot
   ```
@@ -404,7 +404,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
 
 </details>
-<details><summary><b><a href="https://github.com/jpmorganchase/ipyregulartable">ipyregulartable</a></b> (🥈22 ·  ⭐ 3.3K · 📈) - ipywidgets wrapper around regular-table. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/jpmorganchase/ipyregulartable">ipyregulartable</a></b> (🥈22 ·  ⭐ 3.3K) - ipywidgets wrapper around regular-table. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 * [GitHub]() (👨‍💻 7 · 🔀 970 · 📦 15):
 
@@ -440,7 +440,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge ipyvolume
   ```
-* [npm](https://www.npmjs.com/package/ipyvolume) (📥 960 / month · 📦 6 · ⏱️ 02.06.2023):
+* [npm](https://www.npmjs.com/package/ipyvolume) (📥 650 / month · 📦 6 · ⏱️ 02.06.2023):
   ```
   npm install ipyvolume
   ```
@@ -457,11 +457,11 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install ipyvuetify
   ```
-* [Conda](https://anaconda.org/conda-forge/ipyvuetify) (📥 400K · ⏱️ 12.10.2026):
+* [Conda](https://anaconda.org/conda-forge/ipyvuetify) (📥 410K · ⏱️ 12.10.2026):
   ```
   conda install -c conda-forge ipyvuetify
   ```
-* [npm](https://www.npmjs.com/package/jupyter-vuetify) (📥 6.5K / month · 📦 6 · ⏱️ 06.10.2026):
+* [npm](https://www.npmjs.com/package/jupyter-vuetify) (📥 4.8K / month · 📦 6 · ⏱️ 06.10.2026):
   ```
   npm install jupyter-vuetify
   ```
@@ -482,7 +482,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge nglview
   ```
-* [npm](https://www.npmjs.com/package/nglview-js-widgets) (📥 1.1K / month · 📦 7 · ⏱️ 28.11.2024):
+* [npm](https://www.npmjs.com/package/nglview-js-widgets) (📥 890 / month · 📦 7 · ⏱️ 28.11.2024):
   ```
   npm install nglview-js-widgets
   ```
@@ -499,11 +499,11 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install itkwidgets
   ```
-* [Conda](https://anaconda.org/conda-forge/itkwidgets) (📥 640K · ⏱️ 22.04.2025):
+* [Conda](https://anaconda.org/conda-forge/itkwidgets) (📥 650K · ⏱️ 22.04.2025):
   ```
   conda install -c conda-forge itkwidgets
   ```
-* [npm](https://www.npmjs.com/package/itkwidgets) (📥 110 / month · 📦 5 · ⏱️ 02.03.2023):
+* [npm](https://www.npmjs.com/package/itkwidgets) (📥 46 / month · 📦 5 · ⏱️ 02.03.2023):
   ```
   npm install itkwidgets
   ```
@@ -511,12 +511,12 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/spacetelescope/jdaviz">jdaviz</a></b> (🥈20 ·  ⭐ 170) - Interactive data visualization and analysis tools for astronomical.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/spacetelescope/jdaviz) ⭐ 178 | 🐛 359 | 🌐 Python | 📅 2026-10-29 (👨‍💻 45 · 🔀 91 · 📦 75):
+* [GitHub](https://github.com/spacetelescope/jdaviz) ⭐ 178 | 🐛 357 | 🌐 Python | 📅 2026-10-30 (👨‍💻 46 · 🔀 91 · 📦 75):
 
   ```
   git clone https://github.com/spacetelescope/jdaviz
   ```
-* [PyPi](https://pypi.org/project/jdaviz) (📥 1.9K / month · 📦 12 · ⏱️ 23.09.2026):
+* [PyPi](https://pypi.org/project/jdaviz) (📥 1.9K / month · 📦 12 · ⏱️ 16.10.2026):
   ```
   pip install jdaviz
   ```
@@ -537,7 +537,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge ipyvue
   ```
-* [npm](https://www.npmjs.com/package/jupyter-vue) (📥 5.5K / month · 📦 16 · ⏱️ 06.10.2026):
+* [npm](https://www.npmjs.com/package/jupyter-vue) (📥 3.9K / month · 📦 16 · ⏱️ 06.10.2026):
   ```
   npm install jupyter-vue
   ```
@@ -545,7 +545,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/microsoft/responsible-ai-toolbox">responsible-ai-widgets</a></b> (🥉19 ·  ⭐ 1.8K) - Responsible AI Toolbox is a suite of tools providing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/microsoft/responsible-ai-toolbox) ⭐ 1,850 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-29 (👨‍💻 47 · 🔀 490):
+* [GitHub](https://github.com/microsoft/responsible-ai-toolbox) ⭐ 1,850 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-29 (👨‍💻 48 · 🔀 490):
 
   ```
   git clone https://github.com/microsoft/responsible-ai-toolbox
@@ -571,7 +571,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge ipycanvas
   ```
-* [npm](https://www.npmjs.com/package/ipycanvas) (📥 430 / month · 📦 7 · ⏱️ 11.12.2025):
+* [npm](https://www.npmjs.com/package/ipycanvas) (📥 400 / month · 📦 7 · ⏱️ 11.12.2025):
   ```
   npm install ipycanvas
   ```
@@ -630,7 +630,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/medialab/ipysigma">ipysigma</a></b> (🥉17 ·  ⭐ 280 · 💤) - A Jupyter widget using sigma.js to render interactive networks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub]() (👨‍💻 6 · 🔀 25 · 📦 93):
+* [GitHub]() (👨‍💻 6 · 🔀 25 · 📦 94):
 
   ```
   git clone https://github.com/Yomguithereal/ipysigma
@@ -639,7 +639,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install ipysigma
   ```
-* [npm](https://www.npmjs.com/package/ipysigma) (📥 240 / month · 📦 5 · ⏱️ 25.11.2025):
+* [npm](https://www.npmjs.com/package/ipysigma) (📥 130 / month · 📦 5 · ⏱️ 25.11.2025):
   ```
   npm install ipysigma
   ```
@@ -647,10 +647,10 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary>Show 33 hidden projects...</summary>
 
-* <b>[pandas-profiling](https://github.com/ydataai/pandas-profiling) ⭐ 13,743 | 🐛 340 | 🌐 Python | 📅 2026-09-11</b> (🥈24 ·  ⭐ 14K · 💀) - Deprecated pandas-profiling package, use ydata-profiling.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[pandas-profiling](https://github.com/ydataai/pandas-profiling) ⭐ 13,746 | 🐛 328 | 🌐 Python | 📅 2026-10-30</b> (🥈24 ·  ⭐ 14K · 💀) - Deprecated pandas-profiling package, use ydata-profiling.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[facets-overview](https://github.com/PAIR-code/facets) ⚠️ Archived</b> (🥈22 ·  ⭐ 7.4K · 💀) - Visualizations for machine learning datasets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[lux](https://github.com/lux-org/lux) ⭐ 5,379 | 🐛 90 | 🌐 Python | 📅 2024-03-20</b> (🥉18 ·  ⭐ 5.3K · 💀) - Automatically visualize your pandas dataframe via a single print!. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[D-Tale](https://github.com/man-group/dtale) ⭐ 5,234 | 🐛 71 | 🌐 TypeScript | 📅 2026-07-24</b> (🥈22 ·  ⭐ 5.2K) - Visualizer for Pandas Data Structures. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code>
+* <b>[lux](https://github.com/lux-org/lux) ⭐ 5,380 | 🐛 90 | 🌐 Python | 📅 2024-03-20</b> (🥉18 ·  ⭐ 5.3K · 💀) - Automatically visualize your pandas dataframe via a single print!. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+* <b>[D-Tale](https://github.com/man-group/dtale) ⭐ 5,235 | 🐛 71 | 🌐 TypeScript | 📅 2026-07-24</b> (🥈22 ·  ⭐ 5.2K) - Visualizer for Pandas Data Structures. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code>
 * <b>[qgrid](https://github.com/quantopian/qgrid) ⭐ 3,078 | 🐛 181 | 🌐 Python | 📅 2024-01-12</b> (🥈21 ·  ⭐ 3.1K · 💀) - An interactive grid for sorting, filtering, and editing DataFrames.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) ⭐ 1,543 | 🐛 300 | 🌐 TypeScript | 📅 2026-05-07</b> (🥇26 ·  ⭐ 1.5K · 💀) - A Jupyter - Leaflet.js bridge. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[geonotebook](https://github.com/OpenGeoscience/geonotebook) ⚠️ Archived</b> (🥉12 ·  ⭐ 1.1K · 💀) - A Jupyter notebook extension for geospatial visualization.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
@@ -660,11 +660,11 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 * <b>[jupyter-dash](https://github.com/plotly/jupyter-dash) ⚠️ Archived</b> (🥈21 ·  ⭐ 960 · 💀) - OBSOLETE - Dash v2.11+ has Jupyter support built in!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[pigeon](https://github.com/agermanidis/pigeon) ⭐ 787 | 🐛 15 | 🌐 Python | 📅 2024-04-04</b> (🥉13 ·  ⭐ 790 · 💀) - Quickly annotate data from the comfort of your Jupyter notebook. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[gmaps](https://github.com/pbugnion/gmaps) ⭐ 764 | 🐛 80 | 🌐 Python | 📅 2026-04-13</b> (🥉17 ·  ⭐ 760 · 💀) - Google maps for Jupyter notebooks. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-* <b>[Mapbox GL](https://github.com/mapbox/mapboxgl-jupyter) ⭐ 681 | 🐛 43 | 🌐 Python | 📅 2025-02-06</b> (🥉17 ·  ⭐ 680 · 💀) - Use Mapbox GL JS to visualize data in a Python Jupyter notebook. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[Mapbox GL](https://github.com/mapbox/mapboxgl-jupyter) ⭐ 680 | 🐛 43 | 🌐 Python | 📅 2025-02-06</b> (🥉17 ·  ⭐ 680 · 💀) - Use Mapbox GL JS to visualize data in a Python Jupyter notebook. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[ipydatagrid](https://github.com/jupyter-widgets/ipydatagrid) ⭐ 644 | 🐛 85 | 🌐 TypeScript | 📅 2026-01-15</b> (🥉19 ·  ⭐ 600 · 💀) - Fast Datagrid widget for the Jupyter Notebook and JupyterLab. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[ipysheet](https://github.com/QuantStack/ipysheet) ⭐ 551 | 🐛 76 | 🌐 Python | 📅 2024-01-04</b> (🥉17 ·  ⭐ 540 · 💀) - Spreadsheet in the Jupyter notebook. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[nbtutor](https://github.com/lgpage/nbtutor) ⭐ 473 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-18</b> (🥉17 ·  ⭐ 410 · 💀) - Visualize Python code execution (line-by-line) in Jupyter Notebook.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-* <b>[ipycytoscape](https://github.com/cytoscape/ipycytoscape) ⭐ 291 | 🐛 74 | 🌐 Python | 📅 2026-10-05</b> (🥈20 ·  ⭐ 280 · 💀) - A Cytoscape Jupyter widget. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[ipycytoscape](https://github.com/cytoscape/ipycytoscape) ⭐ 291 | 🐛 75 | 🌐 Python | 📅 2026-10-05</b> (🥈20 ·  ⭐ 280 · 💀) - A Cytoscape Jupyter widget. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) ⭐ 253 | 🐛 44 | 🌐 JavaScript | 📅 2024-02-20</b> (🥈21 ·  ⭐ 250 · 💀) - WebRTC for Jupyter notebook/lab. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[Vision UI](https://github.com/asvcode/Vision_UI) ⭐ 246 | 🐛 2 | 🌐 Python | 📅 2025-07-18</b> (🥉6 ·  ⭐ 190 · 💀) - UI visual interface for fastai - now compatible with Google.. <code>❗Unlicensed</code>
 * <b>[Jupyter DataTables](https://github.com/CermakM/jupyter-datatables) ⚠️ Archived</b> (🥉11 ·  ⭐ 65 · 💀) - Jupyter Notebook extension leveraging pandas DataFrames.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -692,7 +692,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 <details><summary><b><a href="https://github.com/jupyterhub/jupyter-server-proxy">jupyter-server-proxy</a></b> (🥇25 ·  ⭐ 400) - Jupyter notebook server extension to proxy web services. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyterhub/jupyter-server-proxy) ⭐ 404 | 🐛 95 | 🌐 Python | 📅 2026-10-26 (👨‍💻 82 · 🔀 150 · 📦 5):
+* [GitHub](https://github.com/jupyterhub/jupyter-server-proxy) ⭐ 404 | 🐛 95 | 🌐 Python | 📅 2026-10-26 (👨‍💻 83 · 🔀 150 · 📦 5):
 
   ```
   git clone https://github.com/jupyterhub/jupyter-server-proxy
@@ -705,7 +705,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyter-server-proxy
   ```
-* [npm](https://www.npmjs.com/package/@jupyterlab/server-proxy) (📥 440 / month · 📦 9 · ⏱️ 11.06.2024):
+* [npm](https://www.npmjs.com/package/@jupyterlab/server-proxy) (📥 320 / month · 📦 9 · ⏱️ 11.06.2024):
   ```
   npm install @jupyterlab/server-proxy
   ```
@@ -743,7 +743,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge nbresuse
   ```
-* [npm](https://www.npmjs.com/package/@jupyter-server/resource-usage) (📥 2.6K / month · 📦 6 · ⏱️ 11.08.2026):
+* [npm](https://www.npmjs.com/package/@jupyter-server/resource-usage) (📥 2.2K / month · 📦 6 · ⏱️ 11.08.2026):
   ```
   npm install @jupyter-server/resource-usage
   ```
@@ -802,7 +802,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/jupyterlab-contrib/jupyter-archive">jupyter-archive</a></b> (🥈19 ·  ⭐ 90) - A Jupyter/Jupyterlab extension to make, download and extract.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyterlab-contrib/jupyter-archive) ⭐ 90 | 🐛 13 | 🌐 Python | 📅 2026-09-13 (👨‍💻 13 · 🔀 17 · 📦 390):
+* [GitHub](https://github.com/jupyterlab-contrib/jupyter-archive) ⭐ 90 | 🐛 13 | 🌐 Python | 📅 2026-10-30 (👨‍💻 13 · 🔀 17 · 📦 390):
 
   ```
   git clone https://github.com/jupyterlab-contrib/jupyter-archive
@@ -815,7 +815,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyter-archive
   ```
-* [npm](https://www.npmjs.com/package/@hadim/jupyter-archive) (📥 53 / month · 📦 5 · ⏱️ 30.07.2026):
+* [npm](https://www.npmjs.com/package/@hadim/jupyter-archive) (📥 200 / month · 📦 5 · ⏱️ 30.07.2026):
   ```
   npm install @hadim/jupyter-archive
   ```
@@ -853,7 +853,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge mamba_gator
   ```
-* [npm](https://www.npmjs.com/package/@mamba-org/gator-lab) (📥 10 / month · 📦 5 · ⏱️ 03.09.2021):
+* [npm](https://www.npmjs.com/package/@mamba-org/gator-lab) (📥 7 / month · 📦 5 · ⏱️ 03.09.2021):
   ```
   npm install @mamba-org/gator-lab
   ```
@@ -871,7 +871,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 <details><summary>Show 14 hidden projects...</summary>
 
 * <b>[Jupyter Themes](https://github.com/dunovank/jupyter-themes) ⭐ 9,819 | 🐛 205 | 🌐 CSS | 📅 2025-06-22</b> (🥈22 ·  ⭐ 9.8K · 💀) - Custom Jupyter Notebook Themes. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b>[Contrib NBextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) ⭐ 5,270 | 🐛 387 | 🌐 JavaScript | 📅 2024-07-04</b> (🥇23 ·  ⭐ 5.3K · 💀) - A collection of various notebook extensions for.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[Contrib NBextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) ⭐ 5,269 | 🐛 387 | 🌐 JavaScript | 📅 2024-07-04</b> (🥇23 ·  ⭐ 5.3K · 💀) - A collection of various notebook extensions for.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[pyforest](https://github.com/8080labs/pyforest) ⭐ 1,119 | 🐛 11 | 🌐 Python | 📅 2024-07-16</b> (🥉17 ·  ⭐ 1.1K · 💀) - pyforest - feel the bliss of automated imports. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[jupyter-tabnine](https://github.com/codota/jupyter-tabnine) ⚠️ Archived</b> (🥉15 ·  ⭐ 790 · 💀) - Autocompletion with Deep Learning on Jupyter Notebook. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[jupyter-tensorboard](https://github.com/lspvic/jupyter_tensorboard) ⭐ 460 | 🐛 44 | 🌐 Python | 📅 2022-06-14</b> (🥉13 ·  ⭐ 460 · 💀) - Start Tensorboard in Jupyter Notebook. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -964,7 +964,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 <details><summary><b><a href="https://github.com/ipython/ipykernel">IPython Kernel</a></b> (🥇33 ·  ⭐ 730) - IPython Kernel for Jupyter. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/ipython/ipykernel) ⭐ 735 | 🐛 305 | 🌐 Python | 📅 2026-10-28 (👨‍💻 200 · 🔀 410 · 📦 560K):
+* [GitHub](https://github.com/ipython/ipykernel) ⭐ 735 | 🐛 306 | 🌐 Python | 📅 2026-10-28 (👨‍💻 210 · 🔀 410 · 📦 560K):
 
   ```
   git clone https://github.com/ipython/ipykernel
@@ -981,7 +981,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/Calysto/metakernel">Metakernel</a></b> (🥇24 ·  ⭐ 370) - Jupyter/IPython Kernel Tools. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/Calysto/metakernel) ⭐ 372 | 🐛 0 | 🌐 Python | 📅 2026-10-28 (👨‍💻 38 · 🔀 92 · 📦 1.1K):
+* [GitHub](https://github.com/Calysto/metakernel) ⭐ 372 | 🐛 0 | 🌐 Python | 📅 2026-10-28 (👨‍💻 39 · 🔀 92 · 📦 1.1K):
 
   ```
   git clone https://github.com/Calysto/metakernel
@@ -1024,12 +1024,12 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/gopherdata/gophernotes">gophernotes</a></b> (🥈19 ·  ⭐ 4K) - The Go kernel for Jupyter notebooks and nteract. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/gopherdata/gophernotes) ⭐ 3,969 | 🐛 54 | 🌐 Go | 📅 2026-09-23 (👨‍💻 29 · 🔀 260 · 📦 21):
+* [GitHub](https://github.com/gopherdata/gophernotes) ⭐ 3,970 | 🐛 54 | 🌐 Go | 📅 2026-09-23 (👨‍💻 29 · 🔀 260 · 📦 21):
 
   ```
   git clone https://github.com/gopherdata/gophernotes
   ```
-* [Docker Hub](https://hub.docker.com/r/gopherdata/gophernotes) (📥 93K · ⭐ 7 · ⏱️ 22.12.2018):
+* [Docker Hub](https://hub.docker.com/r/gopherdata/gophernotes) (📥 94K · ⭐ 7 · ⏱️ 22.12.2018):
   ```
   docker pull gopherdata/gophernotes
   ```
@@ -1041,7 +1041,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/lfortran/lfortran">LFortran</a></b> (🥈19 ·  ⭐ 1.1K) - Official main repository for LFortran. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/lfortran/lfortran) ⭐ 1,257 | 🐛 4,085 | 🌐 C++ | 📅 2026-10-29 (👨‍💻 170 · 🔀 210):
+* [GitHub](https://github.com/lfortran/lfortran) ⭐ 1,257 | 🐛 4,131 | 🌐 C++ | 📅 2026-10-30 (👨‍💻 170 · 🔀 210):
 
   ```
   git clone https://github.com/lfortran/lfortran
@@ -1050,7 +1050,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install lfortran
   ```
-* [Conda](https://anaconda.org/conda-forge/lfortran) (📥 440K · ⏱️ 07.10.2026):
+* [Conda](https://anaconda.org/conda-forge/lfortran) (📥 480K · ⏱️ 25.10.2026):
   ```
   conda install -c conda-forge lfortran
   ```
@@ -1067,7 +1067,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install xeus-python
   ```
-* [Conda](https://anaconda.org/conda-forge/xeus-python) (📥 2.7M · ⏱️ 24.09.2026):
+* [Conda](https://anaconda.org/conda-forge/xeus-python) (📥 2.7M · ⏱️ 19.10.2026):
   ```
   conda install -c conda-forge xeus-python
   ```
@@ -1075,7 +1075,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/almond-sh/almond">almond</a></b> (🥈17 ·  ⭐ 1.6K) - A Scala kernel for Jupyter. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/almond-sh/almond) ⭐ 1,630 | 🐛 31 | 🌐 Scala | 📅 2026-10-29 (👨‍💻 44 · 🔀 240):
+* [GitHub](https://github.com/almond-sh/almond) ⭐ 1,630 | 🐛 28 | 🌐 Scala | 📅 2026-10-29 (👨‍💻 45 · 🔀 240):
 
   ```
   git clone https://github.com/almond-sh/almond
@@ -1088,7 +1088,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/evcxr/evcxr">Evcxr</a></b> (🥈16 ·  ⭐ 6.5K) - An evaluation context for Rust, including a Jupyter Kernel. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/evcxr/evcxr) ⭐ 6,508 | 🐛 124 | 🌐 Rust | 📅 2026-10-27 (👨‍💻 59 · 🔀 240 · 📦 180):
+* [GitHub](https://github.com/evcxr/evcxr) ⭐ 6,508 | 🐛 125 | 🌐 Rust | 📅 2026-10-27 (👨‍💻 59 · 🔀 240 · 📦 180):
 
   ```
   git clone https://github.com/evcxr/evcxr
@@ -1136,9 +1136,18 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install sas_kernel
   ```
-* [Conda](https://anaconda.org/anaconda/sas_kernel) (📥 4.6K · ⏱️ 01.09.2026):
+* [Conda](https://anaconda.org/anaconda/sas_kernel) (📥 4.7K · ⏱️ 01.09.2026):
   ```
   conda install -c anaconda sas_kernel
+  ```
+
+</details>
+<details><summary><b><a href="https://github.com/JuliaLang/IJulia.jl">IJulia.jl</a></b> (🥉13 ·  ⭐ 2.9K) - Julia kernel for Jupyter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+* [GitHub](https://github.com/JuliaLang/IJulia.jl) ⭐ 2,909 | 🐛 37 | 🌐 Julia | 📅 2026-10-09 (👨‍💻 120 · 🔀 430):
+
+  ```
+  git clone https://github.com/JuliaLang/IJulia.jl
   ```
 
 </details>
@@ -1152,15 +1161,6 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 * [Conda](https://anaconda.org/conda-forge/xeus-sqlite) (📥 100K · ⏱️ 09.03.2026):
   ```
   conda install -c conda-forge xeus-sqlite
-  ```
-
-</details>
-<details><summary><b><a href="https://github.com/JuliaLang/IJulia.jl">IJulia.jl</a></b> (🥉12 ·  ⭐ 2.9K) - Julia kernel for Jupyter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-* [GitHub](https://github.com/JuliaLang/IJulia.jl) ⭐ 2,909 | 🐛 37 | 🌐 Julia | 📅 2026-10-09 (👨‍💻 120 · 🔀 430):
-
-  ```
-  git clone https://github.com/JuliaLang/IJulia.jl
   ```
 
 </details>
@@ -1179,16 +1179,16 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary>Show 28 hidden projects...</summary>
 
-* <b>[xonsh](https://github.com/xonsh/xonsh) ⭐ 9,684 | 🐛 88 | 🌐 Python | 📅 2026-10-29</b> (🥇27 ·  ⭐ 9.6K) - Python-powered shell. Full-featured, cross-platform and AI-friendly. <code>[❗️Custom](https://github.com/xonsh/xonsh/blob/main/license) ⭐ 9,684 | 🐛 88 | 🌐 Python | 📅 2026-10-29</code>
-* <b>[IHaskell](https://github.com/gibiansky/IHaskell/) ⭐ 2,664 | 🐛 51 | 🌐 Jupyter Notebook | 📅 2026-08-15</b> (🥉14 ·  ⭐ 2.6K · 💀) - adds ihaskell syntax highlighting to jupyterlab. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[xonsh](https://github.com/xonsh/xonsh) ⭐ 9,682 | 🐛 88 | 🌐 Python | 📅 2026-10-30</b> (🥇27 ·  ⭐ 9.7K) - Python-powered shell. Full-featured, cross-platform and AI-friendly. <code>[❗️Custom](https://github.com/xonsh/xonsh/blob/main/license) ⭐ 9,682 | 🐛 88 | 🌐 Python | 📅 2026-10-30</code>
+* <b>[IHaskell](https://github.com/gibiansky/IHaskell/) ⭐ 2,664 | 🐛 51 | 🌐 Jupyter Notebook | 📅 2026-08-15</b> (🥉13 ·  ⭐ 2.6K · 💀) - adds ihaskell syntax highlighting to jupyterlab. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[lgo](https://github.com/yunabe/lgo) ⭐ 2,455 | 🐛 24 | 🌐 Go | 📅 2020-11-20</b> (🥉10 ·  ⭐ 2K · 💀) - Interactive Go programming with Jupyter. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-* <b>[IJavascript](https://github.com/n-riesco/ijavascript) ⭐ 2,260 | 🐛 59 | 🌐 JavaScript | 📅 2024-07-03</b> (🥈19 ·  ⭐ 2.2K · 💀) - IJavascript is a javascript kernel for the Jupyter notebook. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[IJavascript](https://github.com/n-riesco/ijavascript) ⭐ 2,259 | 🐛 59 | 🌐 JavaScript | 📅 2024-07-03</b> (🥈19 ·  ⭐ 2.2K · 💀) - IJavascript is a javascript kernel for the Jupyter notebook. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[IRkernel](https://github.com/IRkernel/IRkernel) ⭐ 1,699 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2024-04-30</b> (🥈17 ·  ⭐ 1.8K · 💀) - R kernel for Jupyter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[Wolfram Kernel](https://github.com/WolframResearch/WolframLanguageForJupyter) ⭐ 1,220 | 🐛 49 | 🌐 Mathematica | 📅 2023-12-22</b> (🥉10 ·  ⭐ 1.2K · 💀) - Wolfram Language kernel for Jupyter notebooks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b>[IJava](https://github.com/SpencerPark/IJava) ⭐ 1,193 | 🐛 94 | 🌐 Java | 📅 2024-06-01</b> (🥉10 ·  ⭐ 1.1K · 💀) - A Jupyter kernel for executing Java code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[IJava](https://github.com/SpencerPark/IJava) ⭐ 1,192 | 🐛 94 | 🌐 Java | 📅 2024-06-01</b> (🥉10 ·  ⭐ 1.1K · 💀) - A Jupyter kernel for executing Java code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[IRuby](https://github.com/SciRuby/iruby) ⭐ 926 | 🐛 49 | 🌐 Ruby | 📅 2026-06-30</b> (🥈16 ·  ⭐ 930 · 💀) - Official gem repository: Ruby kernel for Jupyter/IPython Notebook. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[clojupyter](https://github.com/clojupyter/clojupyter) ⭐ 869 | 🐛 13 | 🌐 Clojure | 📅 2025-03-18</b> (🥉12 ·  ⭐ 830 · 💀) - a Jupyter kernel for Clojure. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b>[Apache Toree](https://github.com/apache/incubator-toree) ⭐ 750 | 🐛 14 | 🌐 Scala | 📅 2026-10-19</b> (🥈16 ·  ⭐ 740 · 💀) - Jupyter kernel for Apache Spark. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+* <b>[Apache Toree](https://github.com/apache/incubator-toree) ⭐ 750 | 🐛 11 | 🌐 Scala | 📅 2026-10-30</b> (🥈16 ·  ⭐ 740 · 💀) - Jupyter kernel for Apache Spark. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[Bash Kernel](https://github.com/takluyver/bash_kernel) ⭐ 730 | 🐛 23 | 🌐 Python | 📅 2026-09-09</b> (🥈21 ·  ⭐ 710 · 💀) - A bash kernel for IPython. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[Enterprise Gateway](http://github.com/jupyter/enterprise_gateway) ⭐ 668 | 🐛 89 | 🌐 Python | 📅 2026-10-27</b> (🥉15 ·  ⭐ 670) - A web server for spawning and communicating with.. <code>❗Unlicensed</code>
 * <b>[Kernel Gateway](http://github.com/jupyter-incubator/kernel_gateway) ⭐ 562 | 🐛 25 | 🌐 Python | 📅 2024-03-12</b> (🥈17 ·  ⭐ 560 · 💀) - A web server for spawning and communicating with.. <code>❗Unlicensed</code>
@@ -1199,7 +1199,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 * <b>[ICSharp](https://github.com/zabirauf/icsharp) ⚠️ Archived</b> (🥉9 ·  ⭐ 280 · 💀) - C# kernel for Jupyter. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[Spylon Kernel](https://github.com/vericast/spylon-kernel) ⭐ 191 | 🐛 26 | 🌐 Python | 📅 2024-01-11</b> (🥈18 ·  ⭐ 190 · 💀) - Jupyter kernel for scala and spark. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[SciJava Kernel](https://github.com/scijava/scijava-jupyter-kernel) ⚠️ Archived</b> (🥈17 ·  ⭐ 180 · 💀) - \[RETIRED] Try IJava or BeakerX. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[notebookJS](https://github.com/jorgehpo/notebookJS) ⭐ 176 | 🐛 1 | 🌐 Python | 📅 2022-12-25</b> (🥈16 ·  ⭐ 270 · 💀) - notebookJS: seamless JavaScript integration in Python Notebooks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[notebookJS](https://github.com/jorgehpo/notebookJS) ⭐ 176 | 🐛 1 | 🌐 Python | 📅 2022-12-25</b> (🥈17 ·  ⭐ 270 · 💀) - notebookJS: seamless JavaScript integration in Python Notebooks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[Kernel Detection](https://github.com/Cadair/jupyter_environment_kernels) ⭐ 150 | 🐛 7 | 🌐 Python | 📅 2022-11-23</b> (🥉14 ·  ⭐ 150 · 💀) - An Jupyter plugin to enable the automatic detection of.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
 * <b>[allthekernels](https://github.com/minrk/allthekernels) ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2026-03-01</b> (🥉13 ·  ⭐ 69 · 💀) - A multiplexer kernel for Jupyter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[SSH Kernel](https://github.com/NII-cloud-operation/sshkernel) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2021-11-04</b> (🥉11 ·  ⭐ 73 · 💀) - SSH Kernel for Jupyter. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
@@ -1217,14 +1217,14 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 *Tools to share, convert and simplify collaboration (e.g., via git) with notebook files.*
 
-<details><summary><b><a href="https://github.com/jupyter/nbconvert">nbconvert</a></b> (🥇33 ·  ⭐ 1.9K · 📈) - Jupyter Notebook Conversion. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jupyter/nbconvert">nbconvert</a></b> (🥇34 ·  ⭐ 1.9K · 📈) - Jupyter Notebook Conversion. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyter/nbconvert) ⭐ 1,944 | 🐛 629 | 🌐 Python | 📅 2026-10-12 (👨‍💻 290 · 🔀 620 · 📦 380K):
+* [GitHub](https://github.com/jupyter/nbconvert) ⭐ 1,944 | 🐛 630 | 🌐 Python | 📅 2026-10-12 (👨‍💻 290 · 🔀 620 · 📦 380K):
 
   ```
   git clone https://github.com/jupyter/nbconvert
   ```
-* [PyPi](https://pypi.org/project/nbconvert) (📥 50M / month · 📦 3.6K · ⏱️ 12.10.2026):
+* [PyPi](https://pypi.org/project/nbconvert) (📥 50M / month · 📦 3.7K · ⏱️ 12.10.2026):
   ```
   pip install nbconvert
   ```
@@ -1245,11 +1245,11 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install jupytext
   ```
-* [Conda](https://anaconda.org/conda-forge/jupytext) (📥 1.8M · ⏱️ 13.10.2026):
+* [Conda](https://anaconda.org/conda-forge/jupytext) (📥 1.8M · ⏱️ 16.10.2026):
   ```
   conda install -c conda-forge jupytext
   ```
-* [npm](https://www.npmjs.com/package/jupyterlab-jupytext) (📥 630 / month · 📦 5 · ⏱️ 05.05.2024):
+* [npm](https://www.npmjs.com/package/jupyterlab-jupytext) (📥 520 / month · 📦 5 · ⏱️ 05.05.2024):
   ```
   npm install jupyterlab-jupytext
   ```
@@ -1270,7 +1270,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge voila
   ```
-* [npm](https://www.npmjs.com/package/@jupyter-voila/jupyterlab-preview) (📥 130 / month · 📦 5 · ⏱️ 19.05.2020):
+* [npm](https://www.npmjs.com/package/@jupyter-voila/jupyterlab-preview) (📥 82 / month · 📦 5 · ⏱️ 19.05.2020):
   ```
   npm install @jupyter-voila/jupyterlab-preview
   ```
@@ -1308,24 +1308,24 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge nbdime
   ```
-* [npm](https://www.npmjs.com/package/nbdime-jupyterlab) (📥 5.7K / month · 📦 12 · ⏱️ 10.02.2026):
+* [npm](https://www.npmjs.com/package/nbdime-jupyterlab) (📥 6.2K / month · 📦 12 · ⏱️ 10.02.2026):
   ```
   npm install nbdime-jupyterlab
   ```
 
 </details>
-<details><summary><b><a href="https://github.com/danielfrg/mkdocs-jupyter">mkdocs-jupyter</a></b> (🥈24 ·  ⭐ 500) - Use Jupyter Notebook in mkdocs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/danielfrg/mkdocs-jupyter">mkdocs-jupyter</a></b> (🥈25 ·  ⭐ 510 · 📈) - Use Jupyter Notebook in mkdocs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/danielfrg/mkdocs-jupyter) ⭐ 509 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-22 (👨‍💻 39 · 🔀 65 · 📦 5.5K):
+* [GitHub](https://github.com/danielfrg/mkdocs-jupyter) ⭐ 509 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-22 (👨‍💻 41 · 🔀 65 · 📦 5.6K):
 
   ```
   git clone https://github.com/danielfrg/mkdocs-jupyter
   ```
-* [PyPi](https://pypi.org/project/mkdocs-jupyter) (📥 280K / month · 📦 1.1K · ⏱️ 17.04.2026):
+* [PyPi](https://pypi.org/project/mkdocs-jupyter) (📥 280K / month · 📦 1.5K · ⏱️ 22.10.2026):
   ```
   pip install mkdocs-jupyter
   ```
-* [Conda](https://anaconda.org/conda-forge/mkdocs-jupyter) (📥 200K · ⏱️ 10.09.2026):
+* [Conda](https://anaconda.org/conda-forge/mkdocs-jupyter) (📥 200K · ⏱️ 22.10.2026):
   ```
   conda install -c conda-forge mkdocs-jupyter
   ```
@@ -1346,7 +1346,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge rise
   ```
-* [npm](https://www.npmjs.com/package/rise-reveal) (📥 38 / month · 📦 3 · ⏱️ 03.07.2019):
+* [npm](https://www.npmjs.com/package/rise-reveal) (📥 64 / month · 📦 3 · ⏱️ 03.07.2019):
   ```
   npm install rise-reveal
   ```
@@ -1365,14 +1365,14 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
 
 </details>
-<details><summary><b><a href="https://github.com/stencila/stencila">Stencila</a></b> (🥉17 ·  ⭐ 900) - Documents with Scientific Intelligence. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/stencila/stencila">Stencila</a></b> (🥉17 ·  ⭐ 910) - Documents with Scientific Intelligence. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/stencila/stencila) ⭐ 914 | 🐛 148 | 🌐 Rust | 📅 2026-10-28 (👨‍💻 52 · 🔀 58 · 📦 20):
+* [GitHub](https://github.com/stencila/stencila) ⭐ 914 | 🐛 148 | 🌐 Rust | 📅 2026-10-30 (👨‍💻 54 · 🔀 58 · 📦 20):
 
   ```
   git clone https://github.com/stencila/stencila
   ```
-* [npm](https://www.npmjs.com/package/stencila) (📥 540 / month · 📦 9 · ⏱️ 06.11.2020):
+* [npm](https://www.npmjs.com/package/stencila) (📥 400 / month · 📦 9 · ⏱️ 06.11.2020):
   ```
   npm install stencila
   ```
@@ -1402,7 +1402,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   git clone https://github.com/nteract/commuter
   ```
-* [npm](https://www.npmjs.com/package/@nteract/commuter) (📥 550 / month · 📦 5 · ⏱️ 27.10.2020):
+* [npm](https://www.npmjs.com/package/@nteract/commuter) (📥 530 / month · 📦 5 · ⏱️ 27.10.2020):
   ```
   npm install @nteract/commuter
   ```
@@ -1415,7 +1415,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   git clone https://github.com/nbgallery/nbgallery
   ```
-* [Docker Hub](https://hub.docker.com/r/nbgallery/nbgallery) (📥 180K · ⭐ 5 · ⏱️ 02.10.2026):
+* [Docker Hub](https://hub.docker.com/r/nbgallery/nbgallery) (📥 180K · ⭐ 5 · ⏱️ 22.10.2026):
   ```
   docker pull nbgallery/nbgallery
   ```
@@ -1447,7 +1447,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 <details><summary><b><a href="https://github.com/jupyter/nbformat">nbformat</a></b> (🥇32 ·  ⭐ 310) - Reference implementation of the Jupyter Notebook format. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyter/nbformat) ⭐ 315 | 🐛 90 | 🌐 Python | 📅 2026-10-19 (👨‍💻 86 · 🔀 170 · 📦 390K):
+* [GitHub](https://github.com/jupyter/nbformat) ⭐ 315 | 🐛 90 | 🌐 Python | 📅 2026-10-19 (👨‍💻 86 · 🔀 180 · 📦 390K):
 
   ```
   git clone https://github.com/jupyter/nbformat
@@ -1460,7 +1460,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge nbformat
   ```
-* [npm](https://www.npmjs.com/package/nbformat-schema) (📥 70 / month · 📦 5 · ⏱️ 04.04.2024):
+* [npm](https://www.npmjs.com/package/nbformat-schema) (📥 190 / month · 📦 5 · ⏱️ 04.04.2024):
   ```
   npm install nbformat-schema
   ```
@@ -1477,7 +1477,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install nbclient
   ```
-* [Conda](https://anaconda.org/conda-forge/nbclient) (📥 26M · ⏱️ 31.08.2026):
+* [Conda](https://anaconda.org/conda-forge/nbclient) (📥 27M · ⏱️ 31.08.2026):
   ```
   conda install -c conda-forge nbclient
   ```
@@ -1485,7 +1485,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/jupyter/jupyter_client">Jupyter Client</a></b> (🥇28 ·  ⭐ 470) - Jupyter protocol client APIs. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyter/jupyter_client) ⭐ 480 | 🐛 209 | 🌐 Python | 📅 2026-08-28 (👨‍💻 140 · 🔀 320):
+* [GitHub](https://github.com/jupyter/jupyter_client) ⭐ 481 | 🐛 209 | 🌐 Python | 📅 2026-08-28 (👨‍💻 140 · 🔀 320):
 
   ```
   git clone https://github.com/jupyter/jupyter_client
@@ -1494,7 +1494,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install jupyter-client
   ```
-* [Conda](https://anaconda.org/conda-forge/jupyter_client) (📥 43M · ⏱️ 28.08.2026):
+* [Conda](https://anaconda.org/conda-forge/jupyter_client) (📥 44M · ⏱️ 28.08.2026):
   ```
   conda install -c conda-forge jupyter_client
   ```
@@ -1507,13 +1507,13 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   git clone https://github.com/fastai/nbdev
   ```
-* [PyPi](https://pypi.org/project/nbdev) (📥 64K / month · 📦 560 · ⏱️ 05.10.2026):
+* [PyPi](https://pypi.org/project/nbdev) (📥 64K / month · 📦 590 · ⏱️ 29.10.2026):
   ```
   pip install nbdev
   ```
 
 </details>
-<details><summary><b><a href="https://github.com/nbQA-dev/nbQA">nbQA</a></b> (🥈22 ·  ⭐ 1.2K · 💤) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/nbQA-dev/nbQA">nbQA</a></b> (🥈23 ·  ⭐ 1.2K · 📈) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 * [GitHub](https://github.com/nbQA-dev/nbQA) ⭐ 1,208 | 🐛 24 | 🌐 Python | 📅 2026-10-19 (👨‍💻 36 · 🔀 48):
 
@@ -1524,7 +1524,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install nbqa
   ```
-* [Conda](https://anaconda.org/conda-forge/nbqa) (📥 340K · ⏱️ 22.04.2025):
+* [Conda](https://anaconda.org/conda-forge/nbqa) (📥 340K · ⏱️ 20.10.2026):
   ```
   conda install -c conda-forge nbqa
   ```
@@ -1545,7 +1545,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/mljar/mercury">mercury</a></b> (🥉18 ·  ⭐ 4.4K) - Impress your boss and turn a Jupyter notebook into a beautiful,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/mljar/mercury) ⭐ 4,359 | 🐛 4 | 🌐 Python | 📅 2026-10-26 (👨‍💻 23 · 🔀 290 · 📦 180):
+* [GitHub](https://github.com/mljar/mercury) ⭐ 4,358 | 🐛 4 | 🌐 Python | 📅 2026-10-26 (👨‍💻 23 · 🔀 290 · 📦 180):
 
   ```
   git clone https://github.com/mljar/mercury
@@ -1602,13 +1602,13 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyterlab-latex
   ```
-* [npm](https://www.npmjs.com/package/@jupyterlab/latex) (📥 87 / month · 📦 5 · ⏱️ 17.12.2025):
+* [npm](https://www.npmjs.com/package/@jupyterlab/latex) (📥 83 / month · 📦 5 · ⏱️ 17.12.2025):
   ```
   npm install @jupyterlab/latex
   ```
 
 </details>
-<details><summary><b><a href="https://github.com/jupyterlab/jupyter-renderers">JupyterLab Renderers</a></b> (🥈18 ·  ⭐ 520 · 💤) - Renderers and renderer extensions for JupyterLab. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jupyterlab/jupyter-renderers">JupyterLab Renderers</a></b> (🥈17 ·  ⭐ 520 · 💤) - Renderers and renderer extensions for JupyterLab. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 * [GitHub](https://github.com/jupyterlab/jupyter-renderers) ⭐ 517 | 🐛 46 | 🌐 HTML | 📅 2026-03-04 (👨‍💻 32 · 🔀 81 · 📦 40):
 
@@ -1623,7 +1623,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyterlab-vega3
   ```
-* [npm](https://www.npmjs.com/package/@jupyterlab/geojson-extension) (📥 950 / month · 📦 10 · ⏱️ 01.08.2023):
+* [npm](https://www.npmjs.com/package/@jupyterlab/geojson-extension) (📥 250 / month · 📦 10 · ⏱️ 01.08.2023):
   ```
   npm install @jupyterlab/geojson-extension
   ```
@@ -1632,7 +1632,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 <details><summary>Show 6 hidden projects...</summary>
 
 * <b>[JupyterLab Drawio](https://github.com/QuantStack/jupyterlab-drawio) ⭐ 624 | 🐛 54 | 🌐 JavaScript | 📅 2024-07-25</b> (🥇19 ·  ⭐ 600 · 💀) - A standalone embedding of the FOSS drawio / mxgraph.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-* <b>[JupyterLab Dash](https://github.com/plotly/jupyterlab-dash) ⚠️ Archived</b> (🥉17 ·  ⭐ 960 · 💀) - An Extension for the Interactive development of Dash apps in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[JupyterLab Dash](https://github.com/plotly/jupyterlab-dash) ⚠️ Archived</b> (🥈17 ·  ⭐ 960 · 💀) - An Extension for the Interactive development of Dash apps in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[JupyterLab Voyager](https://github.com/altair-viz/jupyterlab_voyager) ⭐ 304 | 🐛 63 | 🌐 TypeScript | 📅 2022-12-06</b> (🥉13 ·  ⭐ 300 · 💀) - JupyterLab extension visualize data with Voyager. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[JupyterLab Spreadsheet](https://github.com/quigleyj97/jupyterlab-spreadsheet) ⭐ 201 | 🐛 11 | 🌐 TypeScript | 📅 2023-05-06</b> (🥉13 ·  ⭐ 200 · 💀) - JupyterLab plugin for viewing spreadsheets, such as.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[jupyterlab-tabular-data-editor](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor) ⭐ 134 | 🐛 32 | 🌐 TypeScript | 📅 2021-03-24</b> (🥉11 ·  ⭐ 140 · 💀) - Manipulate your tabular data responsively and.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
@@ -1658,7 +1658,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install jupyterlab-materialdarker
   ```
-* [npm](https://www.npmjs.com/package/@oriolmirosa/jupyterlab_materialdarker) (📥 30 / month · 📦 5 · ⏱️ 16.12.2022):
+* [npm](https://www.npmjs.com/package/@oriolmirosa/jupyterlab_materialdarker) (📥 27 / month · 📦 5 · ⏱️ 16.12.2022):
   ```
   npm install @oriolmirosa/jupyterlab_materialdarker
   ```
@@ -1671,7 +1671,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 * <b>[jupyterlab\_darkside\_ui](https://github.com/dunovank/jupyterlab_darkside_ui) ⭐ 119 | 🐛 0 | 🌐 CSS | 📅 2023-09-18</b> (🥉10 ·  ⭐ 120 · 💀) - Darkside ui and syntax theme for jupyterlab. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[jupyterlab-theme-solarized-dark](https://github.com/AllanChain/jupyterlab-theme-solarized-dark) ⭐ 115 | 🐛 2 | 🌐 SCSS | 📅 2026-04-15</b> (🥈12 ·  ⭐ 110 · 💀) - JupyterLab Theme Solarized Dark. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[Horizon Theme](https://github.com/mohirio/jupyterlab-horizon-theme) ⭐ 97 | 🐛 5 | 🌐 CSS | 📅 2024-04-11</b> (🥈12 ·  ⭐ 76 · 💀) - VSCode Horizon Theme port for JupyterLab. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-* <b>[Gruvbox Theme](https://github.com/Rahlir/theme-gruvbox) ⭐ 51 | 🐛 0 | 🌐 CSS | 📅 2020-04-12</b> (🥉11 ·  ⭐ 52 · 💀) - Gruvbox dark theme for Jupyter Lab. Modeled on classic.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[Gruvbox Theme](https://github.com/Rahlir/theme-gruvbox) ⭐ 51 | 🐛 0 | 🌐 CSS | 📅 2020-04-12</b> (🥉10 ·  ⭐ 52 · 💀) - Gruvbox dark theme for Jupyter Lab. Modeled on classic.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[Nord Theme](https://github.com/kenshohara/theme-nord-extension) ⭐ 27 | 🐛 1 | 🌐 CSS | 📅 2020-09-20</b> (🥉8 ·  ⭐ 26 · 💀) - JupyterLab - Nord Theme. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[Theme Toggle](https://github.com/jtpio/jupyterlab-theme-toggle) ⚠️ Archived</b> (🥉10 ·  ⭐ 11 · 💀) - JupyterLab extension to toggle the theme in the Top Bar area. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 
@@ -1686,20 +1686,20 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 <details><summary><b><a href="https://perspective-dev.github.io">Perspective</a></b> (🥇26 ·  ⭐ 11K) - Interactive data grid, pivot table and charts for large, real-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub]() (👨‍💻 100 · 🔀 1.3K · 📦 220):
+* [GitHub]() (👨‍💻 100 · 🔀 1.4K · 📦 220):
 
   ```
   git clone https://github.com/finos/perspective
   ```
-* [PyPi](https://pypi.org/project/perspective-python) (📥 30K / month · 📦 44 · ⏱️ 14.10.2026):
+* [PyPi](https://pypi.org/project/perspective-python) (📥 30K / month · 📦 44 · ⏱️ 23.10.2026):
   ```
   pip install perspective-python
   ```
-* [Conda](https://anaconda.org/conda-forge/perspective) (📥 3.2M · ⏱️ 18.09.2026):
+* [Conda](https://anaconda.org/conda-forge/perspective) (📥 3.2M · ⏱️ 23.10.2026):
   ```
   conda install -c conda-forge perspective
   ```
-* [npm](https://www.npmjs.com/package/@finos/perspective-jupyterlab) (📥 180 / month · 📦 6 · ⏱️ 03.09.2025):
+* [npm](https://www.npmjs.com/package/@finos/perspective-jupyterlab) (📥 140 / month · 📦 6 · ⏱️ 03.09.2025):
   ```
   npm install @finos/perspective-jupyterlab
   ```
@@ -1707,7 +1707,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/jupyterlab/jupyterlab-git">JupyterLab Git</a></b> (🥇26 ·  ⭐ 1.6K) - A Git extension for JupyterLab. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyterlab/jupyterlab-git) ⭐ 1,612 | 🐛 152 | 🌐 TypeScript | 📅 2026-10-28 (👨‍💻 110 · 🔀 410 · 📦 3.4K):
+* [GitHub](https://github.com/jupyterlab/jupyterlab-git) ⭐ 1,613 | 🐛 152 | 🌐 TypeScript | 📅 2026-10-28 (👨‍💻 110 · 🔀 410 · 📦 3.4K):
 
   ```
   git clone https://github.com/jupyterlab/jupyterlab-git
@@ -1720,7 +1720,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyterlab-git
   ```
-* [npm](https://www.npmjs.com/package/@jupyterlab/git) (📥 2.7K / month · 📦 11 · ⏱️ 07.10.2026):
+* [npm](https://www.npmjs.com/package/@jupyterlab/git) (📥 2.5K / month · 📦 11 · ⏱️ 07.10.2026):
   ```
   npm install @jupyterlab/git
   ```
@@ -1733,7 +1733,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   git clone https://github.com/jupyterlab/jupyterlab-toc
   ```
-* [npm](https://www.npmjs.com/package/@jupyterlab/toc) (📥 190K / month · 📦 29 · ⏱️ 21.09.2026):
+* [npm](https://www.npmjs.com/package/@jupyterlab/toc) (📥 170K / month · 📦 29 · ⏱️ 29.10.2026):
   ```
   npm install @jupyterlab/toc
   ```
@@ -1750,7 +1750,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install jupyterlab-lsp
   ```
-* [Conda](https://anaconda.org/conda-forge/jupyter-lsp) (📥 9.7M · ⏱️ 02.04.2026):
+* [Conda](https://anaconda.org/conda-forge/jupyter-lsp) (📥 10M · ⏱️ 02.04.2026):
   ```
   conda install -c conda-forge jupyter-lsp
   ```
@@ -1762,7 +1762,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/elyra-ai/elyra">elyra</a></b> (🥇21 ·  ⭐ 2K) - Elyra extends JupyterLab with an AI centric approach. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/elyra-ai/elyra) ⭐ 2,002 | 🐛 243 | 🌐 Python | 📅 2026-10-28 (👨‍💻 77 · 🔀 360 · 📦 76):
+* [GitHub](https://github.com/elyra-ai/elyra) ⭐ 2,002 | 🐛 244 | 🌐 Python | 📅 2026-10-28 (👨‍💻 77 · 🔀 360 · 📦 76):
 
   ```
   git clone https://github.com/elyra-ai/elyra
@@ -1775,7 +1775,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge elyra
   ```
-* [npm](https://www.npmjs.com/package/@elyra/services) (📥 140 / month · 📦 10 · ⏱️ 29.03.2023):
+* [npm](https://www.npmjs.com/package/@elyra/services) (📥 38 / month · 📦 10 · ⏱️ 29.03.2023):
   ```
   npm install @elyra/services
   ```
@@ -1796,7 +1796,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyterlab_code_formatter
   ```
-* [npm](https://www.npmjs.com/package/@ryantam626/jupyterlab_code_formatter) (📥 51 / month · 📦 5 · ⏱️ 16.04.2023):
+* [npm](https://www.npmjs.com/package/@ryantam626/jupyterlab_code_formatter) (📥 39 / month · 📦 5 · ⏱️ 16.04.2023):
   ```
   npm install @ryantam626/jupyterlab_code_formatter
   ```
@@ -1813,11 +1813,11 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install jupyter-bokeh
   ```
-* [Conda](https://anaconda.org/conda-forge/jupyter_bokeh) (📥 280K · ⏱️ 09.06.2026):
+* [Conda](https://anaconda.org/conda-forge/jupyter_bokeh) (📥 290K · ⏱️ 09.06.2026):
   ```
   conda install -c conda-forge jupyter_bokeh
   ```
-* [npm](https://www.npmjs.com/package/@bokeh/jupyter_bokeh) (📥 930 / month · 📦 5 · ⏱️ 09.06.2026):
+* [npm](https://www.npmjs.com/package/@bokeh/jupyter_bokeh) (📥 710 / month · 📦 5 · ⏱️ 09.06.2026):
   ```
   npm install @bokeh/jupyter_bokeh
   ```
@@ -1834,11 +1834,11 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install jupyterlab-nvdashboard
   ```
-* [Conda](https://anaconda.org/conda-forge/jupyterlab-nvdashboard) (📥 85K · ⏱️ 25.06.2026):
+* [Conda](https://anaconda.org/conda-forge/jupyterlab-nvdashboard) (📥 86K · ⏱️ 25.06.2026):
   ```
   conda install -c conda-forge jupyterlab-nvdashboard
   ```
-* [npm](https://www.npmjs.com/package/jupyterlab-nvdashboard) (📥 86 / month · 📦 5 · ⏱️ 27.04.2021):
+* [npm](https://www.npmjs.com/package/jupyterlab-nvdashboard) (📥 28 / month · 📦 5 · ⏱️ 27.04.2021):
   ```
   npm install jupyterlab-nvdashboard
   ```
@@ -1859,7 +1859,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyterlab-spellchecker
   ```
-* [npm](https://www.npmjs.com/package/@ijmbarr/jupyterlab_spellchecker) (📥 44 / month · 📦 5 · ⏱️ 08.10.2021):
+* [npm](https://www.npmjs.com/package/@ijmbarr/jupyterlab_spellchecker) (📥 190 / month · 📦 5 · ⏱️ 08.10.2021):
   ```
   npm install @ijmbarr/jupyterlab_spellchecker
   ```
@@ -1897,7 +1897,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyterlab_execute_time
   ```
-* [npm](https://www.npmjs.com/package/jupyterlab-execute-time) (📥 91 / month · 📦 5 · ⏱️ 18.01.2021):
+* [npm](https://www.npmjs.com/package/jupyterlab-execute-time) (📥 61 / month · 📦 5 · ⏱️ 18.01.2021):
   ```
   npm install jupyterlab-execute-time
   ```
@@ -1914,7 +1914,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install sidecar
   ```
-* [Conda](https://anaconda.org/conda-forge/sidecar) (📥 50K · ⏱️ 27.02.2026):
+* [Conda](https://anaconda.org/conda-forge/sidecar) (📥 51K · ⏱️ 27.02.2026):
   ```
   conda install -c conda-forge sidecar
   ```
@@ -1939,7 +1939,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyterlab_templates
   ```
-* [npm](https://www.npmjs.com/package/jupyterlab_templates) (📥 250 / month · 📦 5 · ⏱️ 12.02.2024):
+* [npm](https://www.npmjs.com/package/jupyterlab_templates) (📥 160 / month · 📦 5 · ⏱️ 12.02.2024):
   ```
   npm install jupyterlab_templates
   ```
@@ -1956,7 +1956,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install aquirdturtle-collapsible-headings
   ```
-* [npm](https://www.npmjs.com/package/@aquirdturtle/collapsible_headings) (📥 61 / month · 📦 5 · ⏱️ 11.01.2021):
+* [npm](https://www.npmjs.com/package/@aquirdturtle/collapsible_headings) (📥 16 / month · 📦 5 · ⏱️ 11.01.2021):
   ```
   npm install @aquirdturtle/collapsible_headings
   ```
@@ -1977,7 +1977,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyterlab_iframe
   ```
-* [npm](https://www.npmjs.com/package/jupyterlab_iframe) (📥 110 / month · 📦 2 · ⏱️ 16.07.2023):
+* [npm](https://www.npmjs.com/package/jupyterlab_iframe) (📥 120 / month · 📦 2 · ⏱️ 16.07.2023):
   ```
   npm install jupyterlab_iframe
   ```
@@ -1994,51 +1994,13 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install jupyterlab-quickopen
   ```
-* [npm](https://www.npmjs.com/package/@parente/jupyterlab-quickopen) (📥 13 / month · 📦 5 · ⏱️ 20.03.2020):
+* [npm](https://www.npmjs.com/package/@parente/jupyterlab-quickopen) (📥 6 / month · 📦 5 · ⏱️ 20.03.2020):
   ```
   npm install @parente/jupyterlab-quickopen
   ```
 
 </details>
-<details><summary><b><a href="https://github.com/timkpaine/jupyterlab_autoversion">JupyterLab Autoversion</a></b> (🥉14 ·  ⭐ 75) - Automatically version jupyter notebooks in JupyterLab. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-* [GitHub](https://github.com/timkpaine/jupyterlab_autoversion) ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2026-10-18 (👨‍💻 7 · 🔀 10 · 📦 19):
-
-  ```
-  git clone https://github.com/timkpaine/jupyterlab_autoversion
-  ```
-* [PyPi](https://pypi.org/project/jupyterlab_autoversion) (📥 82 / month · ⏱️ 19.06.2024):
-  ```
-  pip install jupyterlab_autoversion
-  ```
-* [Conda](https://anaconda.org/conda-forge/jupyterlab_autoversion) (📥 46K · ⏱️ 01.09.2026):
-  ```
-  conda install -c conda-forge jupyterlab_autoversion
-  ```
-* [npm](https://www.npmjs.com/package/jupyterlab_autoversion) (📥 39 / month · 📦 5 · ⏱️ 19.06.2024):
-  ```
-  npm install jupyterlab_autoversion
-  ```
-
-</details>
-<details><summary><b><a href="https://github.com/timkpaine/jupyterlab_commands">jupyterlab_commands</a></b> (🥉14 ·  ⭐ 44) - Add arbitrary python commands to the jupyterlab.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-* [GitHub](https://github.com/timkpaine/jupyterlab_commands) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-18 (👨‍💻 5 · 🔀 5 · 📦 12):
-
-  ```
-  git clone https://github.com/timkpaine/jupyterlab_commands
-  ```
-* [PyPi](https://pypi.org/project/jupyterlab-commands) (📥 28 / month · ⏱️ 12.07.2023):
-  ```
-  pip install jupyterlab-commands
-  ```
-* [Conda](https://anaconda.org/conda-forge/jupyterlab_commands) (📥 26K · ⏱️ 01.09.2026):
-  ```
-  conda install -c conda-forge jupyterlab_commands
-  ```
-
-</details>
-<details><summary><b><a href="https://github.com/jupyterlab-contrib/jupyterlab-kernelspy">JupyterLab Kernelspy</a></b> (🥉13 ·  ⭐ 85 · 💤) - A Jupyter Lab extension for inspecting messages.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jupyterlab-contrib/jupyterlab-kernelspy">JupyterLab Kernelspy</a></b> (🥉14 ·  ⭐ 85 · 💤) - A Jupyter Lab extension for inspecting messages.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 * [GitHub](https://github.com/jupyterlab-contrib/jupyterlab-kernelspy) ⭐ 86 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-07 (👨‍💻 6 · 🔀 12 · 📦 7):
 
@@ -2053,9 +2015,47 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   conda install -c conda-forge jupyterlab-kernelspy
   ```
-* [npm](https://www.npmjs.com/package/jupyterlab-kernelspy) (📥 130 / month · 📦 5 · ⏱️ 30.08.2023):
+* [npm](https://www.npmjs.com/package/jupyterlab-kernelspy) (📥 240 / month · 📦 5 · ⏱️ 30.08.2023):
   ```
   npm install jupyterlab-kernelspy
+  ```
+
+</details>
+<details><summary><b><a href="https://github.com/timkpaine/jupyterlab_autoversion">JupyterLab Autoversion</a></b> (🥉14 ·  ⭐ 75) - Automatically version jupyter notebooks in JupyterLab. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+* [GitHub](https://github.com/timkpaine/jupyterlab_autoversion) ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2026-10-30 (👨‍💻 7 · 🔀 10 · 📦 19):
+
+  ```
+  git clone https://github.com/timkpaine/jupyterlab_autoversion
+  ```
+* [PyPi](https://pypi.org/project/jupyterlab_autoversion) (📥 82 / month · ⏱️ 19.06.2024):
+  ```
+  pip install jupyterlab_autoversion
+  ```
+* [Conda](https://anaconda.org/conda-forge/jupyterlab_autoversion) (📥 46K · ⏱️ 01.09.2026):
+  ```
+  conda install -c conda-forge jupyterlab_autoversion
+  ```
+* [npm](https://www.npmjs.com/package/jupyterlab_autoversion) (📥 10 / month · 📦 5 · ⏱️ 19.06.2024):
+  ```
+  npm install jupyterlab_autoversion
+  ```
+
+</details>
+<details><summary><b><a href="https://github.com/timkpaine/jupyterlab_commands">jupyterlab_commands</a></b> (🥉14 ·  ⭐ 44) - Add arbitrary python commands to the jupyterlab.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+* [GitHub](https://github.com/timkpaine/jupyterlab_commands) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-30 (👨‍💻 5 · 🔀 5 · 📦 12):
+
+  ```
+  git clone https://github.com/timkpaine/jupyterlab_commands
+  ```
+* [PyPi](https://pypi.org/project/jupyterlab-commands) (📥 28 / month · ⏱️ 12.07.2023):
+  ```
+  pip install jupyterlab-commands
+  ```
+* [Conda](https://anaconda.org/conda-forge/jupyterlab_commands) (📥 26K · ⏱️ 01.09.2026):
+  ```
+  conda install -c conda-forge jupyterlab_commands
   ```
 
 </details>
@@ -2070,7 +2070,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 * <b>[JupyterLab SQL](https://github.com/pbugnion/jupyterlab-sql) ⭐ 428 | 🐛 57 | 🌐 TypeScript | 📅 2023-01-05</b> (🥉12 ·  ⭐ 410 · 💀) - SQL GUI for JupyterLab. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[JupyterLab Google Drive](https://github.com/jupyterlab/jupyterlab-google-drive) ⚠️ Archived</b> (🥉14 ·  ⭐ 400 · 💀) - Cloud storage for JupyterLab using Google Drive. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[Lantern](https://github.com/timkpaine/lantern) ⭐ 350 | 🐛 2 | 🌐 Python | 📅 2026-07-20</b> (🥉10 ·  ⭐ 250 · 💀) - Data exploration glue. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[dask-labextension](https://github.com/dask/dask-labextension) ⭐ 329 | 🐛 46 | 🌐 TypeScript | 📅 2025-06-02</b> (🥈19 ·  ⭐ 330 · 💀) - JupyterLab extension for Dask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[dask-labextension](https://github.com/dask/dask-labextension) ⭐ 329 | 🐛 47 | 🌐 TypeScript | 📅 2025-06-02</b> (🥈19 ·  ⭐ 330 · 💀) - JupyterLab extension for Dask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[JupyterLab Tensorboard](https://github.com/chaoleili/jupyterlab_tensorboard) ⭐ 312 | 🐛 25 | 🌐 TypeScript | 📅 2022-07-21</b> (🥉13 ·  ⭐ 320 · 💀) - A JupyterLab extension for tensorboard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[JupyterLab System Monitor](https://github.com/jtpio/jupyterlab-system-monitor) ⚠️ Archived</b> (🥈20 ·  ⭐ 300 · 💀) - JupyterLab extension to display system metrics. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[JupyterLab Go-To-Definition](https://github.com/krassowski/jupyterlab-go-to-definition) ⭐ 226 | 🐛 11 | 🌐 TypeScript | 📅 2021-08-23</b> (🥉13 ·  ⭐ 230 · 💀) - Navigate to variables definition with a click in.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
@@ -2083,14 +2083,14 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 * <b>[jupyterlab-flake8](https://github.com/mlshapiro/jupyterlab-flake8) ⭐ 111 | 🐛 8 | 🌐 TypeScript | 📅 2021-09-16</b> (🥉14 ·  ⭐ 110 · 💀) - Jupyterlab python linter for notebooks and text files.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[JupyterLab Commenting](https://github.com/jupyterlab/jupyterlab-commenting) ⭐ 103 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2021-02-10</b> (🥉12 ·  ⭐ 100 · 💀) - Commenting and annotation for JupyterLab. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[nbcelltests](https://github.com/jpmorganchase/nbcelltests) ⭐ 97 | 🐛 41 | 🌐 Python | 📅 2026-10-27</b> (🥉14 ·  ⭐ 93 · 💀) - Cell-by-cell testing for production Jupyter notebooks in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[jupyterlab-sparkmonitor](https://github.com/itsjafer/jupyterlab-sparkmonitor) ⭐ 92 | 🐛 12 | 🌐 JavaScript | 📅 2022-12-27</b> (🥉13 ·  ⭐ 92 · 💀) - JupyterLab extension that enables monitoring launched.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+* <b>[jupyterlab-sparkmonitor](https://github.com/itsjafer/jupyterlab-sparkmonitor) ⭐ 92 | 🐛 12 | 🌐 JavaScript | 📅 2022-12-27</b> (🥉12 ·  ⭐ 92 · 💀) - JupyterLab extension that enables monitoring launched.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[jupyterlab-sos](https://github.com/vatlab/jupyterlab-sos) ⭐ 79 | 🐛 23 | 🌐 HTML | 📅 2026-02-07</b> (🥉13 ·  ⭐ 75 · 💀) - Jupyterlab extension for SoS Polyglot Notebook and Workflow\.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-* <b>[JupyterLab Bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) ⭐ 62 | 🐛 22 | 🌐 TypeScript | 📅 2023-01-03</b> (🥉10 ·  ⭐ 62 · 💀) - JupyterLab extension to explore CPython Bytecode. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[JupyterLab Bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) ⭐ 62 | 🐛 22 | 🌐 TypeScript | 📅 2023-01-03</b> (🥉9 ·  ⭐ 62 · 💀) - JupyterLab extension to explore CPython Bytecode. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[JupyterLab Flake8](https://github.com/timkpaine/jupyterlab_email) ⭐ 60 | 🐛 2 | 🌐 Python | 📅 2026-10-28</b> (🥉12 ·  ⭐ 110 · 💀) - A jupyterlab extension to email notebooks directly.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[JupyterLab Email](https://github.com/timkpaine/jupyterlab_email) ⭐ 60 | 🐛 2 | 🌐 Python | 📅 2026-10-28</b> (🥉11 ·  ⭐ 53 · 💀) - A jupyterlab extension to email notebooks directly.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[JupyterLab Shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) ⚠️ Archived</b> (🥉11 ·  ⭐ 54 · 💀) - A JupyterLab extension for managing keyboard shortcuts. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[JupyterLab Shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) ⚠️ Archived</b> (🥉10 ·  ⭐ 54 · 💀) - A JupyterLab extension for managing keyboard shortcuts. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[JupyterLab Python Files](https://github.com/jtpio/jupyterlab-python-file) ⚠️ Archived</b> (🥉12 ·  ⭐ 51 · 💀) - JupyterLab extension to create Python files. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-* <b>[KnowledgeLab](https://github.com/timkpaine/knowledgelab) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-10-05</b> (🥉9 ·  ⭐ 6 · 💀) - KnowledgeRepo + JupyterLab. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code>
+* <b>[KnowledgeLab](https://github.com/timkpaine/knowledgelab) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-10-05</b> (🥉8 ·  ⭐ 6 · 💀) - KnowledgeRepo + JupyterLab. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code>
 * <b>[jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) ⭐ 18 | 🐛 3 | 🌐 TypeScript | 📅 2023-09-10</b> (🥉10 ·  ⭐ 15 · 💀) - JupyterLab extension to execute the scripts from the.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[JupyterLab Spark](https://github.com/manuzhang/jupyterlab_spark) ⭐ 12 | 🐛 2 | 🌐 TypeScript | 📅 2021-09-05</b> (🥉8 ·  ⭐ 12 · 💀) - Spark Application UI extension for JupyterLab. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[JupyterLab Top Bar](https://github.com/jtpio/jupyterlab-topbar) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-23</b> (🥉12 ·  ⭐ 6 · 💀) - JupyterLab Top Bar extension. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
@@ -2136,7 +2136,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/jupyterhub/firstuseauthenticator">First Use Authenticator</a></b> (🥈13 ·  ⭐ 50 · 💤) - JupyterHub Authenticator that lets users set.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyterhub/firstuseauthenticator) ⭐ 50 | 🐛 9 | 🌐 Python | 📅 2026-10-23 (👨‍💻 15 · 🔀 33):
+* [GitHub](https://github.com/jupyterhub/firstuseauthenticator) ⭐ 50 | 🐛 9 | 🌐 Python | 📅 2026-10-23 (👨‍💻 16 · 🔀 33):
 
   ```
   git clone https://github.com/jupyterhub/firstuseauthenticator
@@ -2235,9 +2235,9 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 *Core components of the Jupyter architecture.*
 
-<details><summary><b><a href="https://github.com/ipython/ipython">ipython</a></b> (🥇36 ·  ⭐ 17K) - Official repository for IPython itself. Other repos in the IPython.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/ipython/ipython">ipython</a></b> (🥇37 ·  ⭐ 17K · 📈) - Official repository for IPython itself. Other repos in the IPython.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/ipython/ipython) ⭐ 16,796 | 🐛 1,269 | 🌐 Python | 📅 2026-10-29 (👨‍💻 1.1K · 🔀 4.5K · 📦 760K):
+* [GitHub](https://github.com/ipython/ipython) ⭐ 16,796 | 🐛 1,271 | 🌐 Python | 📅 2026-10-30 (👨‍💻 1.1K · 🔀 4.5K · 📦 760K):
 
   ```
   git clone https://github.com/ipython/ipython
@@ -2246,7 +2246,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
   ```
   pip install ipython
   ```
-* [Conda](https://anaconda.org/conda-forge/ipython) (📥 57M · ⏱️ 01.09.2026):
+* [Conda](https://anaconda.org/conda-forge/ipython) (📥 58M · ⏱️ 01.09.2026):
   ```
   conda install -c conda-forge ipython
   ```
@@ -2254,12 +2254,12 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary><b><a href="https://github.com/jupyter-server/jupyter_server">jupyter_server</a></b> (🥉29 ·  ⭐ 570) - The backendi.e. core services, APIs, and REST endpointsto.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyter-server/jupyter_server) ⭐ 570 | 🐛 245 | 🌐 Python | 📅 2026-10-28 (👨‍💻 550 · 🔀 420):
+* [GitHub](https://github.com/jupyter-server/jupyter_server) ⭐ 570 | 🐛 244 | 🌐 Python | 📅 2026-10-28 (👨‍💻 550 · 🔀 420):
 
   ```
   git clone https://github.com/jupyter-server/jupyter_server
   ```
-* [PyPi](https://pypi.org/project/jupyter_server) (📥 33M / month · 📦 1.5K · ⏱️ 15.09.2026):
+* [PyPi](https://pypi.org/project/jupyter_server) (📥 33M / month · 📦 1.6K · ⏱️ 15.09.2026):
   ```
   pip install jupyter_server
   ```
@@ -2311,7 +2311,7 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 </details>
 <details><summary>Show 3 hidden projects...</summary>
 
-* <b>[colabcode](https://github.com/abhishekkrthakur/colabcode) ⭐ 2,160 | 🐛 64 | 🌐 Python | 📅 2024-09-14</b> (🥉15 ·  ⭐ 2.2K · 💀) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[colabcode](https://github.com/abhishekkrthakur/colabcode) ⭐ 2,161 | 🐛 64 | 🌐 Python | 📅 2024-09-14</b> (🥉15 ·  ⭐ 2.2K · 💀) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[datapane](https://github.com/datapane/datapane) ⭐ 1,399 | 🐛 1 | 🌐 Python | 📅 2023-10-16</b> (🥉17 ·  ⭐ 1.4K · 💀) - Build and share data reports in 100% Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[jupyter-console](https://github.com/jupyter/jupyter_console) ⭐ 281 | 🐛 75 | 🌐 Python | 📅 2026-09-14</b> (🥇24 ·  ⭐ 270 · 💀) - Jupyter Terminal Console. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 
@@ -2321,8 +2321,8 @@ This curated list contains 300 awesome open-source projects with a total of 420K
 
 ## Related Resources
 
-* [**best-of-ml-python**](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,848 | 🐛 58 | 📅 2026-10-29: A ranked list of awesome machine learning python libraries.
-* [**awesome-jupyter**](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,684 | 🐛 12 | 📅 2026-10-29: A curated list of awesome Jupyter projects, libraries and resources.
+* [**best-of-ml-python**](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,849 | 🐛 58 | 📅 2026-10-29: A ranked list of awesome machine learning python libraries.
+* [**awesome-jupyter**](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,684 | 🐛 13 | 📅 2026-10-30: A curated list of awesome Jupyter projects, libraries and resources.
 * [**awesome-jupyterlab**](https://github.com/mauhai/awesome-jupyterlab) ⚠️ Archived: A curated list of awesome JupyterLab extensions and resources.
 * [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
 
@@ -2333,7 +2333,7 @@ Contributions are encouraged and always welcome! If you like to add or update pr
 * Open an issue by selecting one of the provided categories from the [issue page](https://github.com/ml-tooling/best-of-jupyter/issues/new/choose) and fill in the requested information.
 * Modify the [projects.yaml](https://github.com/ml-tooling/best-of-jupyter/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/ml-tooling/best-of-jupyter/edit/main/projects.yaml).
 
-If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) ⭐ 111 | 🐛 15 | 🌐 Python | 📅 2025-08-31 repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,911 | 🐛 26 | 📅 2026-10-25.
+If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) ⭐ 111 | 🐛 15 | 🌐 Python | 📅 2025-08-31 repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,912 | 🐛 26 | 📅 2026-10-30.
 
 For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/ml-tooling/best-of-jupyter/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/ml-tooling/best-of-jupyter/blob/main/.github/CODE_OF_CONDUCT.md).
 
@@ -2343,4 +2343,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
